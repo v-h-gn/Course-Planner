@@ -3,7 +3,7 @@
 # \<Project title\>
  > Your author list below should include links to all members GitHub and should begin with a "\>"
  
- > Authors: \<[Jeffrey McDaniel](https://github.com/jmcda001)\>
+ > Authors: [Vahagn Tovmasian](https://github.com/Varhagna) [Selma Kondoker](https://github.com/skondoker)
  
  > You will be forming a group of **TWO - THREE** students and work on an interesting project that you will propose yourself (in this `README.md` document). You can pick any project that you'd like, but it needs ot implement three design patterns. Each of the members in a group is expected to work on at least one design pattern and its test cases. You can, of course, help each other, but it needs to be clear who will be responsible for which pattern and for which general project features.
  
@@ -23,6 +23,14 @@
  >   * [toolname](link) - Short description
  > * What will be the input/output of your project?
  > * This description should be in enough detail that the TA/instructor can determine the complexity of the project and if it is sufficient for the team members to complete in the time allotted. 
+ 
+ Our project will be a course planning software for UCR students.
+ In our experience, showing prospective students the course plan and talking to them about how useful, as well as using it ourselves has shown us the benefits of a good course plan. We want to extend that tool but generate a custom course plan depending on conditions inputted by the user.
+ 
+ This project will be completed in C++, we have yet to decide what tools in specific we will use but will expect to know once we get a better grasp of the exact design details we want to incorporate. We intend to be able to generate a PDF or similar output course so we may or may not need special libraries for this. We also intend to be able to parse through the catalog for a specific inputted major and get the requirements they need & course prereqs and similar requirements.
+ 
+ The input output of our project will be any student specific information such as credits completed, courses taken and passed, expected or planned graduation date, which will create a customized course plan they can follow as they progress through their degree.
+ 
 
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to 
