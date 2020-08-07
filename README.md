@@ -1,6 +1,6 @@
  > Remove prompt text (lines beginning with "\>") and replace with your project specifics (including this prompt)
  > Replace anything between \<...\> with your project specifics and remove angle brackets. 
-# \<Project title\>
+# UCR Course Planner
  > Your author list below should include links to all members GitHub and should begin with a "\>"
  
  > Authors: [Vahagn Tovmasian](https://github.com/Varhagna) [Selma Kondoker](https://github.com/skondoker)
@@ -27,7 +27,13 @@
  Our project will be a course planning software for UCR students.
  In our experience, showing prospective students the course plan and talking to them about how useful, as well as using it ourselves has shown us the benefits of a good course plan. We want to extend that tool but generate a custom course plan depending on conditions inputted by the user.
  
- This project will be completed in C++, we have yet to decide what tools in specific we will use but will expect to know once we get a better grasp of the exact design details we want to incorporate. We intend to be able to generate a PDF or similar output course so we may or may not need special libraries for this. We also intend to be able to parse through the catalog for a specific inputted major and get the requirements they need & course prereqs and similar requirements.
+ This project will be completed in C++, we have yet to decide what tools in specific we will use but will expect to know once we get a better grasp of the exact design details we want to incorporate. We want to be able to generate a PDF or similar output so we may or may not need special libraries for this, however. We also intend to be able to parse through the catalog for a specific inputted major and get the requirements they need & course prereqs and similar requirements.
+
+  * Abstract factory creational pattern to create families of classes from the course catalog.
+  * Composite structural pattern to create our class tree and indicate hierarchies with pre-requisites.
+  * Observer behavioral pattern to handle and update changes made to the course schedule.
+
+  * We intend to use the [PDFTRON C++ Library](https://www.pdftron.com/documentation/cpp/)
  
  The input output of our project will be any student specific information such as credits completed, courses taken and passed, expected or planned graduation date, which will create a customized course plan they can follow as they progress through their degree.
  
