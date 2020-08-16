@@ -47,7 +47,8 @@
  > * Create an "Epic" (note) for each feature and each design pattern and assign them to the appropriate team member.
  > * Break down the first "Epic" into smaller user stories (issues) and assign them to the appropriate team member.
 ## Class Diagram
- > Include a class diagram and a description of the diagram. This should be in sufficient detail that another group could pick up the project this point and successfully complete it.
+ > Include a class diagram and a description of the diagram. This should be in sufficient detail that another group could pick up the project this point and successfully complete it. 
+   ![](https://i.imgur.com/WK6WLBs.png)
  
  > ## Phase III
  > You will need to schedule two check-in's with the TA (during lab hours or office hours) where your entire group will meet with them and discuss:
