@@ -47,7 +47,10 @@
  > * Create an "Epic" (note) for each feature and each design pattern and assign them to the appropriate team member.
  > * Break down the first "Epic" into smaller user stories (issues) and assign them to the appropriate team member.
 ## Class Diagram
- > Include a class diagram and a description of the diagram. This should be in sufficient detail that another group could pick up the project this point and successfully complete it.
+ > Include a class diagram and a description of the diagram. This should be in sufficient detail that another group could pick up the project this point and successfully complete it. 
+   https://docs.google.com/document/d/1O9iIQU9e-WxCcY_7MSfIGi9Epqv_0VS6sOeGDtp6o5U/edit?usp=sharing
+   
+   Our diagram illustrates a Client which uses the Abstract Factory Pattern to utilise a PDF Parser to read through and construct different Components which can then be constructed into a heirarchical tree. The tree is also being tracked by an Observer Class which gets passed user input from the Client
  
  > ## Phase III
  > You will need to schedule two check-in's with the TA (during lab hours or office hours) where your entire group will meet with them and discuss:
