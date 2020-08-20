@@ -9,14 +9,15 @@
 
 class Course : public CourseComponent {
 
-        private:
+        protected:
             
             // Declare an vector to store courses
-            vector<int> courseComponents;
+            vector<CourseComponent*> courses;
 
             string courseName;
             string courseDescription;
-            int courseNumber;
+            int courseUnits;
+            // int courseNumber;
 
             
 
@@ -24,9 +25,9 @@ class Course : public CourseComponent {
         public:
 
             // Constructor
-            Course(string newCourseName, int newCourseNumber, string newCourseDescription) : CourseComponent() {
+            Course(string newCourseName, int numUnits, string newCourseDescription) : CourseComponent() {
                 courseName = newCourseName;
-                courseNumber = newCourseNumber;
+                courseUnits = numUnits;
                 courseDescription = newCourseDescription;
             }
 
@@ -41,18 +42,23 @@ class Course : public CourseComponent {
             }
 
             // Accessor that returns Course Number
-            int getCourseNumber() {
-                return courseNumber;
+            int getNumUnits() {
+                return courseUnits;
             }
 
             // Adds other courses to the list 
-            void add(CourseComponent newCourseComponent) {
-                courseComponents.add(newCourseComponent);
+            void add(CourseComponent *newCourseComponent) {
+                courseComponents.push_back(newCourseComponent);
             }
 
             // Removes courses from the list
-            void remove(CourseComponent newCourseComponent) {
-                courseComponents.remove(newCourseComponent);
+            void remove(CourseComponent *newCourseComponent) {
+                unsigned int i;
+                for (i = 0; i < courses.size(); ++i) {
+                    if (courses[i] == newCourseComponent) {
+                        delete newCourseComponent;
+                    }
+                }
             }
 
             // Returns the course stored at a specific index
@@ -63,9 +69,12 @@ class Course : public CourseComponent {
             // Check this function
             void displayCourseInfo() { 
                 cout << "Course Name: " << getCourseName() << endl;
-                cout << "Course Number: " << getCourseNumber() << endl;
+                cout << "Number of Units: " << getNumUnits() << endl;
                 cout << "Course Description: " << getCourseDescription() << endl;
             }
+
+
+
 
 
 };
