@@ -17,7 +17,7 @@
  
 ## Class Diagram
 
-   https://docs.google.com/document/d/1O9iIQU9e-WxCcY_7MSfIGi9Epqv_0VS6sOeGDtp6o5U/edit?usp=sharing
+   ![image](https://imgur.com/a/vyIuwzi)
    
    Our diagram illustrates a Client which uses the Abstract Factory Pattern to utilise a PDF Parser to read through and construct different Components which can then be constructed into a heirarchical tree. The tree is also being tracked by an Observer Class which gets passed user input from the Client
  
