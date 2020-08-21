@@ -4,7 +4,11 @@
 #include "AbstractMajor.hpp"
 
 class ComputerEngineering : public AbstractMajor {
-
+    private:
+    public:
+        ComputerEngineering() : AbstractMajor() {
+            this->name = "cen";
+        }
 };
 
 #endif // __CEN_HPP__

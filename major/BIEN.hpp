@@ -4,7 +4,11 @@
 #include "AbstractMajor.hpp"
 
 class Bioengineering : public AbstractMajor {
-
+    private:
+    public:
+        Bioengineering() : AbstractMajor() {
+            this->name = "bien";
+        }
 };
 
 
