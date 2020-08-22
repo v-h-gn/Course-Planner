@@ -17,6 +17,7 @@ class Course : public CourseComponent {
             string courseName;
             string courseDescription;
             int courseUnits;
+            bool taken = false;
             // int courseNumber;
 
             
@@ -57,6 +58,7 @@ class Course : public CourseComponent {
                 for (i = 0; i < courses.size(); ++i) {
                     if (courses[i] == newCourseComponent) {
                         delete newCourseComponent;
+                        return;
                     }
                 }
             }
