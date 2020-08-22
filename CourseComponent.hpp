@@ -11,27 +11,25 @@ class CourseComponent {
         CourseComponent() { };
 
         // Adds courses to the list 
-        void add(CourseComponent newCourseComponent);
+        virtual void add(CourseComponent *newCourseComponent);
 
         // Removes courses from list
-        void remove(CourseComponent newCourseComponent);
+        virtual void remove(CourseComponent *newCourseComponent);
 
         // Returns the course stored at a specific index
         CourseComponent getComponent(int componentIndex);
 
         // Accessor that returns the course name
-        string getCourseName();
+        virtual string getCourseName();
 
         // Accessor that returns the course number
-        int getCourseNumber();
+        // Course catalog does not include CRN
+        // virtual int getCourseNumber();
 
         // Accessor that returns the course description
-        string getCourseDescription();
+        virtual string getCourseDescription();
 
-        void displayCourseInfo();
-
-
-
+        virtual void displayCourseInfo();
 
 };
 
