@@ -24,6 +24,13 @@ class Course : public CourseComponent {
             // int courseNumber;
 
         public:
+            // Defualt Constructor
+            Course() : CourseComponent() {
+                courseName = "";
+                courseDescription = "";
+                courseUnits = 0;
+                courseRequisites = "";
+            }
 
             // Constructor
             Course(string newCourseName, int numUnits, string newCourseDescription, string newCourseRequisites) : CourseComponent() {
