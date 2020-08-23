@@ -11,7 +11,7 @@
 #include "CourseComponent.hpp"
 #include "Course.hpp"
 #include "Prerequisite.hpp"
-#include "AbstractMajor.hpp"
+#include "major/AbstractMajor.hpp"
 
 using namespace std;
 
