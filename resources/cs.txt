@@ -1,0 +1,634 @@
+CS 010 
+Introduction to Computer Science For Science, Mathematics, and Engineering I 4 
+Prerequisite(s): Math 009A; 
+Covers problem solving through
+structured programming of algorithms on
+computers using the C++ object-oriented
+language. Includes variables, expressions,
+input/output (I/O), branches, loops, functions,
+parameters, arrays, strings, file I/O, and classes.
+Also covers software design, testing, and
+debugging. Credit is awarded for one of the
+following: CS 010, CS 009M, or CS 009P.
+
+CS 011 Introduction to Discrete
+Structures 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): MATH 009A (or MATH
+09HA); CS 010 or MATH 009B (or MATH 09HB).
+Introduction to basic concepts of discrete
+mathematics emphasizing applications to
+computer science. Topics include prepositional
+and predicate calculi, elementary set theory,
+functions, relations, proof techniques, elements
+of number theory, enumeration, and discrete
+probability. Cross-listed with MATH 011.
+CS 012 Introduction to Computer Science
+For Science, Mathematics, and Engineering
+Ii 4 Lecture, 3 hours, Laboratory, 3 hours,
+Prerequisite(s): CS 010 with a grade of “C”
+or better; familiarity with C or C++ language.
+Covers structured and object-oriented
+programming in C++. Emphasizes good
+programming principles and development of
+substantial programs. Topics include recursion,
+pointers, linked lists, abstract data types, and
+libraries. Also covers software engineering
+principles. Credit is awarded for only one of CS
+012 or CS 013.
+CS 013 Introductory Computer Science
+For Engineering Majors 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 010 with
+a grade of “C” or better; familiarity with C or
+C++ language. Covers structured and objectoriented programming in C++. Emphasizes good
+programming principles and development of
+substantial programs. Topics include recursion,
+pointers, linked lists, abstract data types, and
+libraries. Covers software engineering principles.
+Utilizes examples and assignments specific to
+engineering disciplines such as numerical data
+analysis, matrix computations, and dynamic
+systems. Credit is awarded for only one of CS
+012 or CS 013.
+CS 014 Introduction to Data Structures and
+Algorithms 4 Lecture, 3 hours; laboratory, 3
+hours. Prerequisite(s): CS 012 with a grade
+of “C” or better; proficiency in C++. Topics
+include basic data structures such as arrays,
+lists, stacks, and queues. Covers dictionaries
+(including binary search trees and hashing) and
+priority queues (heaps). Offers an introductory
+analysis of algorithms, sorting algorithms, and
+object-oriented programming including abstract
+data types, inheritance, and polymorphism.
+Explores solving complex problems through
+structured software development.
+CS 061 Machine Organization and Assembly
+Language Programming 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 010
+with a grade of “C” or better. An introduction
+to computer organization. Topics include
+number representation, combinational and
+sequential logic, computer instructions, memory
+organization, addressing modes, interrupt, input/
+output (I/O), assembly language programming,
+assemblers, and linkers.
+Upper-Division Courses
+CS 100 Software Construction 4 Lecture, 3
+hours; laboratory, 3 hours. Prerequisite(s): CS
+014 with a grade of “C-” or better. Emphasizes
+development of software systems. Topics
+include design and implementation strategies;
+selection and mastery of programming
+languages, environment tools, and development
+processes. Develops skill in programming,
+testing, debugging, performance evaluation,
+component integration, maintenance, and
+documentation. Covers professional and ethical
+responsibilities and the need to stay current with
+technology.
+CS 105 Data Analysis Methods 4 Lecture, 3
+hours, Laboratory, 3 hours. Prerequisite(s): CS
+014. An introduction to fundamental concepts
+and methods in data analysis and visualization
+essential to a variety of data science tasks.
+Designed to provide preparation for the data
+science major (currently under development)
+and for advanced courses in data analysis and
+applications of data science.
+CS 111 Discrete Structures 4 Lecture, 3 hours;
+discussion, 1 hour. Prerequisite(s): CS 010; CS
+011/MATH 011; MATH 009C (or MATH 09HC).
+A study of discrete mathematical structures
+emphasizing applications to computer science.
+Topics include asymptotic notation, generating
+functions, recurrence equations, elements of
+graph theory, trees, algebraic structures, and
+number theory.
+CS 120A Logic Design 5 Lecture, 3 hours;
+laboratory, 3 hours; individual study, 3 hours.
+Prerequisite(s): CS 061 with a grade of “C-” or
+better. Covers design of digital systems. Includes
+Boolean algebra; combinational and sequential
+logic design; design and use of arithmetic logic
+units, carry-lookahead adders, multiplexors,
+decoders, comparators, multipliers, flip-flops,
+registers, and simple memories; state-machine
+design; and basic register-transfer level design.
+Uses hardware description languages, synthesis
+tools, programmable logic, and significant
+hardware prototyping. Cross-listed with EE
+120A.
+CS 120B Introduction to Embedded
+Systems 4 Lecture, 3 hours; laboratory, 3
+hours. Prerequisite(s): EE 120A or CS 120A.
+Introduction to hardware and software design
+of digital computing systems embedded in
+electronic devices (e.g., digital cameras or
+portable video games). Includes embedded
+processor programming, custom processor
+design, standard peripherals, memories,
+interfacing, and hardware/software trade-offs.
+Involves use of synthesis tools, programmable
+logic, microcontrollers, and developing working
+embedded systems. Cross-listed with EE
+120B.
+| 234
+CS 122A Intermediate Embedded and RealTime Systems 5 Lecture, 3 hours; laboratory,
+6 hours. Prerequisite(s): CS 012 or CS 013; CS
+120B/EE 120B. Covers software and hardware
+design of embedded computing systems.
+Includes hardware and software codesign,
+advanced programming paradigms (including
+state machines and concurrent processes),
+real-time programming and operating systems,
+basic control systems, and modern chip and
+design technologies. Laboratories involve use of
+microcontrollers, embedded microprocessors,
+programmable logic and advanced simulation,
+and debug environments.
+CS 122B Advanced Embedded and Real-Time
+Systems 5 Lecture, 3 hours; laboratory, 6 hours.
+Prerequisite(s): CS 122A. Explores state-of-theart aspects of building embedded computer
+systems. Topics include real-time programming,
+synthesis of coprocessor cores, applicationspecific processors, hardware and software
+cosimulation and codesign, low-power design,
+reconfigurable computing, core-based design,
+and platform-based methodology.
+CS 130 Computer Graphics 4 Lecture, 3
+hours; laboratory, 3 hours. Prerequisite(s): CS
+100, MATH 031 (MATH 031 may be taken
+concurrently); or consent of instructor. A study
+of the fundamentals of computer graphics
+necessary to design and build graphics
+applications. Examines raster graphics
+algorithms including scan-converting graphics
+primitives, anti-aliasing, and clipping. Also
+covers geometric transformations, viewing, solid
+modeling techniques, hidden-surface removal
+algorithms, color models, illumination, and
+shading.
+CS 133 Computational Geometry 4 Lecture,
+3 hours; laboratory, 3 hours. Prerequisite(s):
+CS 100, CS 111, MATH 031, or equivalents.
+An introduction to the design of geometry
+algorithms. Covers the basic computational
+geometry concepts and techniques used in
+graphics, robotics, and engineering design.
+Topics include polygons and polytops, convex
+hulls, and voronoi diagrams.
+CS 135 Virtual Reality 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 100.
+Covers the development of virtual reality (VR)
+worlds, including motion and physics of VR
+worlds. Includes design practices for immersive
+experiences, human visual perception,
+environmental and social interactions. Also
+includes positional tracking with sensors,
+augmented and mixed reality, and storage and
+transmission of virtual reality worlds.
+CS 141 Intermediate Data Structures and
+Algorithms 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 014 with a grade of “C-”
+or better; CS 111; MATH 009C or MATH 09HC;
+proficiency in C++. Explores basic algorithm
+analysis using asymptotic notations, summation
+and recurrence relations, and algorithms and
+data structures for discrete structures including
+trees, strings, and graphs. Also covers general
+algorithm design techniques including “divideand-conquer,” the greedy method, and dynamic
+programming. Integrates knowledge of data
+structures, algorithms, and programming.
+CS 145 Combinatorial Optimization
+Algorithms 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 141; MATH 031 or
+MATH 131. The study of efficient algorithm
+design techniques for combinatorial optimization
+problems. Topics include shortest paths,
+minimum spanning trees, network flows,
+maximum matchings, stable matchings, linear
+programming, duality, two-person games,
+algorithmic techniques for integer programming
+problems, NP-completeness, and approximation
+algorithms.
+CS 147 Graphics Processing Unit Computing
+and Programming 4 Lecture, 3 hours;
+discussion, 1 hour. Prerequisite(s): EE 120B
+or CS 120B. Introduces principles and
+practices of programming graphics processing
+units (GPUs) using the parallel programming
+environment. Covers memory/threading
+models, common data-parallel programming
+patterns and libraries needed to develop highperformance parallel computing applications.
+Examines computational thinking; a broader
+range of parallel execution models; and parallel
+programming principles. Cross-listed with EE
+147.
+CS 150 Automata and Formal
+Languages 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 014 with a grade of “C-”
+or better; CS 111; MATH 009C (or MATH 09HC).
+A study of formal languages. Includes regular
+and context-free languages; computational
+models for generating these languages such
+as finite-state automata, pushdown automata,
+regular expressions, and context-free grammars;
+mathematical properties of the languages
+and models; and equivalence between the
+models. Also introduces Turing machines and
+decidability.
+CS 152 Compiler Design 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 061, CS
+100, CS 111, CS 150. Covers the fundamentals
+of compiler design. Includes lexical analysis,
+parsing, semantic analysis, compile-time
+memory organization, run-time memory
+organization, code generation, and compiler
+portability issues.
+CS 153 Design of Operating
+Systems 4 Lecture, 3 hours; laboratory, 3
+hours. Prerequisite(s): CS 061, CS 100, CS
+111, C++ programming proficiency. Covers
+the principles and practice of operating
+system design. Includes concurrency, memory
+management, file systems, protection, security,
+command languages, scheduling, and system
+performance.
+CS 160 Concurrent Programming and Parallel
+Systems 4 Lecture, 3 hours; laboratory, 3
+hours. Prerequisite(s): CS 061, CS 100, CS 111.
+A study of concurrent and parallel systems.
+Topics include modular structure and design,
+interprocess communication, synchronization,
+failures, persistence, and concurrency control.
+Also covers atomic transactions, recovery,
+language support, distributed interprocess
+communication, and implementation
+mechanisms. Provides preparation for the study
+of operating systems, databases, and computer
+networking.
+CS 161 Design and Architecture of Computer
+Systems 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 120A/EE 120A. A
+study of the fundamentals of computer design.
+Topics include the performance evaluation
+of microprocessors; instruction set design
+and measurements of use; microprocessor
+implementation techniques including multicycle
+and pipelined implementations; computer
+arithmetic; memory hierarchy; and input/output
+(I/O) systems.
+CS 161L Laboratory in Design and
+Architecture of Computer Systems 2 Lecture,
+1 hour; laboratory, 3 hours. Prerequisite(s): CS
+161 (may be taken concurrently). Covers the
+design and simulation of a complete computer
+system using hardware description language
+and simulator. Topics include instruction set
+architecture design; assemblers; datapath and
+control unit design; arithmetic and logic unit;
+memory and input/output (I/O) systems; and
+integration of all parts into a working computer
+system.
+CS 162 Computer Architecture 4 Lecture, 3
+hours; laboratory, 3 hours. Prerequisite(s): CS
+161 with a grade of “C-” or better. The study of
+advanced processor design. Topics include CPU
+pipelining, data and control hazards, instructionlevel parallelism, branch prediction, and dynamic
+scheduling of instructions. Also covers Very
+Long Instruction Word (VLIW) processing,
+multimedia support, design of network and
+embedded processors, basic multiprocessor
+design, shared memory and message passing,
+and network topologies.
+CS 164 Computer Networks 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 100,
+CS 111, CS 153. Covers the fundamentals
+of computer networks. Topics include
+layered network architecture, communication
+protocols, local area networks, UNIX network
+programming, verification, network security, and
+performance studies.
+CS 165 Computer Security 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 141, CS
+153. Examines the ways in which information
+systems are vulnerable to security breaches.
+Topics include attacks; security labels, lattices,
+and policies; safeguards and countermeasures;
+intrusion detection; authorization and encryption
+techniques; networks; digital signatures,
+certificates, and passwords; privacy issues,
+firewalls, and spoofing; Trojan horses and
+computer viruses; CERT Coordination Center;
+and electronic commerce.
+CS 166 Database Management
+Systems 4 Lecture, 3 hours; laboratory, 3
+hours. Prerequisite(s): CS 100, CS 111. Covers
+architecture of database management systems;
+relational, network, and hierarchical models;
+distributed database concepts; query languages;
+implementation issues; and privacy and security
+of the database.
+CS 167 Introduction to Big-Data
+Management 4 Lecture, 3 hours; laboratory,
+3 hours. Prerequisite(s): CS 100, CS 111; CS
+167 online section: enrollment in the online
+Master-of-Science in Engineering program.
+Introduces the architecture of big-data systems
+and their applications in data management and
+processing. Describes the common functionality
+in big-data processing such as distributed 
+235 |
+storage, resource management, query
+processing, fault-tolerance, and programming
+APIs. Covers the popular big-data technologies
+such as distributed shared-nothing systems,
+NoSQL processing model, and semi-structured
+data management.
+CS 168 Introduction to Very Large Scale
+Integration (vlsi) Design 4 Lecture, 3 hours;
+laboratory, 3 hours. Prerequisite(s): CS 120A/EE
+120A or consent of instructor. Studies integrated
+circuit fabrication, device characterization, and
+circuit simulation. Introduces basic device
+physics and physical design rules, MOS
+logic design, and timing and clock schemes.
+Covers layout generation, subsystem designs,
+and circuits for alternative logic styles. Also
+covers design and simulation using hardware
+description language and CAD tools. Crosslisted with EE 168.
+CS 169 Mobile Wireless Networks 4 Lecture, 3
+hours; laboratory, 2 hours; extra reading, 1 hour.
+Prerequisite(s): CS 153 or consent of instructor.
+Introduces the fundamentals of wireless and
+mobile networks. Covers wireless channel
+models, MAC protocols, and wireless network
+architectures. Also covers cellular, WLAN and
+ad hoc networks, and routing in multi-hop
+wireless networks. Includes wireless security and
+the impact of wireless links on TCP and other
+transport layer solutions.
+CS 170 Introduction to Artificial
+Intelligence 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 100 with a grade of
+“C-” or better, CS 111. An introduction to the
+field of artificial intelligence. Focuses on discretevalued problems. Covers heuristic search,
+problem representation, and classical planning.
+Also covers constraint satisfaction and logical
+inference.
+CS 171 Introduction to Machine Learning and
+Data Mining 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 100, MATH 010A or
+MATH 031. Introduces formalisms and methods
+in data mining and machine learning. Topics
+include data representation, supervised learning,
+and classification. Covers regression and
+clustering. Also covers rule learning, function
+approximation, and margin-based methods.
+CS 172 Introduction to Information
+Retrieval 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 100; CS 111; EE 114
+or STAT 155. Introduces information retrieval
+(IR) principles and techniques for indexing and
+searching document collections. Topics include
+Web search, text processing, ranking algorithms,
+search in social networks, and search evaluation.
+Also studies scalability issues in search engines.
+Satisfactory (S) or No Credit (NC) grading is not
+available.
+CS 173 Introduction to Natural Language
+Processing 4 Lecture, 3 hours; discussion,
+1 hour. Prerequisite(s): CS 150, may be
+taken concurrently. An overview of modern
+approaches for natural language processing.
+Focuses on major algorithms used in NLP for
+various applications such as part-of-speech
+tagging, parsing, named entity recognition,
+coreference resolution, sentiment analysis, and
+machine translation.
+CS 175 Entrepreneurship in
+Computing 4 Lecture, 3 hours; individual study,
+3 hours. Prerequisite(s): CS 100, junior or senior
+standing. Introduces business and technological
+concepts to create companies based on
+computer technology. Covers technical aspects
+of real world IT projects. Includes developing
+software and services; understanding user
+requirements; designating usable systems;
+technological assessment. Also covers market
+analysis and strategy; legal and intellectual
+property, ethics and communication business
+issues; financial analysis.
+CS 177 Modeling and Simulation 4 Lecture, 3
+hours; laboratory, 3 hours. Prerequisite(s): CS
+100, CS 111, C++ programming proficiency.
+Covers validation of random number sequences;
+concepts in modeling and systems analysis;
+and conceptual models and their mathematical
+and computer realizations. Examines simulation
+modeling techniques, including object-oriented
+modeling and discrete-event modeling.
+Emphasizes the use of simulation libraries used
+with programming languages such as C++.
+CS 179 (E-Z) Project in Computer Science 4
+Prerequisite(s): CS 100 with a grade of C- or
+better; CS 152 with a grade of C- or better;
+ENGR 180W. For hours and prerequisites, see
+segment descriptions. Under the direction of
+a faculty member, student teams propose,
+design, build, test, and document software and/
+or hardware devices or systems. Emphasizes
+professional and ethical responsibilities and
+the need to stay current on technology and its
+global impact on economics, society, and the
+environment.
+CS 179E Project in Computer Science:
+Compliers 4 Discussion, 1 hour; laboratory, 3
+hours; research, 3 hours; extra reading, 3 hours.
+Prerequisite(s): CS 100 and CS 152 with grades
+of “C-” or better; ENGR 180W; 8 additional
+upper-division units in Computer Science.
+Covers the planning, design, implementation,
+testing, and documentation of a compiler-related
+system. Incorporates techniques from previous
+related courses. Emphasizes professional
+and ethical responsibilities; the need to stay
+current on technology; and its global impact on
+economics, society, and the environment.
+CS 179F Project in Computer Science:
+Operating Systems 4 Discussion, 1 hour;
+laboratory, 3 hours; research, 3 hours; extra
+reading, 3 hours. Prerequisite(s): CS 153 with
+a grade of “C-” or better; ENGR 180W; 8
+additional upper-division units in Computer
+Science. CS 160 is recommended. Covers the
+planning, design, implementation, testing, and
+documentation of an operating systems-related
+system. Incorporates techniques from previous
+related courses. Emphasizes professional
+and ethical responsibilities; the need to stay
+current on technology; and its global impact on
+economics, society, and the environment.
+CS 179G Project in Computer Science:
+Database Systems 4 Discussion, 1 hour;
+laboratory, 3 hours; research, 3 hours; extra
+reading, 3 hours.Prerequisite(s): CS 100
+and CS 166 with grades of “C-” or better;
+ENGR 180W; 8 additional upper-division
+units in Computer Science. Covers the
+planning, design, implementation, testing, and
+documentation of a database-related system.
+Incorporates techniques from previous related
+courses. Emphasizes professional and ethical
+responsibilities; the need to stay current on
+technology; and its global impact on economics,
+society, and the environment.
+CS 179I Project in Computer Science:
+Networks 4 Discussion, 1 hour; laboratory, 3
+hours; research, 3 hours; extra reading, 3 hours.
+Prerequisite(s): CS 100 and CS 164 with grades
+of “C-” or better; ENGR 180W; 8 additional
+upper-division units in Computer Science.
+Covers the planning, design, implementation,
+testing, and documentation of a network-related
+system. Incorporates techniques from previous
+related courses. Emphasizes professional
+and ethical responsibilities; the need to stay
+current on technology; and its global impact on
+economics, society, and the environment.
+CS 179J Project in Computer Science:
+Computer Architecture and Embedded
+Systems 4 Discussion, 1 hour; laboratory,
+3 hours; research, 3 hours; extra reading, 3
+hours. Prerequisite(s): CS 100, CS 111, CS
+120B/EE 120B, and CS 161 with grades of
+“C-” or better or consent of instructor; ENGR
+180W; 3 additional upper-division units in
+Computer Science. Covers the planning, design,
+implementation, testing, and documentation
+of a computer architecture and embedded
+systems-related system. Incorporates using
+techniques presented in previous related
+courses. Emphasizes professional and ethical
+responsibilities; the need to stay current on
+technology; and its global impact on economics,
+society, and the environment.
+CS 179K Project in Computer Science:
+Software Engineering 4 Discussion, 1 hour;
+laboratory, 3 hours; research, 3 hours; extra
+reading, 3 hours. Prerequisite(s): CS 180;
+ENGR 180W; 8 additional upper-division units in
+Computer Science. Covers the planning, design,
+implementation, testing, and documentation
+of a software engineering-related system.
+Incorporates techniques presented in previous
+related courses. Emphasizes professional
+and ethical responsibilities; the need to stay
+current on technology; and its global impact on
+economics, society, and the environment.
+CS 179M Project in Computer Science:
+Artificial Intelligence 4 Discussion, 1 hour;
+laboratory, 3 hours; research, 3 hours; extra
+reading, 3 hours. Prerequisite(s): CS 100, CS
+111, and CS 170 with grades of “C-” or better;
+ENGR 180W; 8 additional upper-division units in
+Computer Science. Covers the planning, design,
+implementation, testing, and documentation
+of an artificial intelligence-related system.
+Incorporates techniques presented in previous
+related courses. Emphasizes professional
+and ethical responsibilities; the need to stay
+current on technology; and its global impact on
+economics, society, and the environment.
+CS 179N Project in Computer Science:
+Graphics and Electronic Games 4 Discussion,
+1 hour; laboratory, 9 hours. Prerequisite(s):
+CS 130 with a grade of “C-” or better; ENGR
+180W; 8 additional upper-division units in
+Computer Science. Covers the planning, design,
+implementation, testing, and documentation of
+a graphics- or electronic game-related system. 
+| 236
+Incorporates using techniques presented
+in previous related courses. Emphasizes
+professional and ethical responsibilities; the
+need to stay current on technology; and its
+global impact on economics, society, and the
+environment.
+CS 180 Introduction to Software
+Engineering 4 Lecture, 3 hours; laboratory,
+3 hours. Prerequisite(s): CS 100. A study
+of software engineering techniques for the
+development, maintenance, and evolution
+of large software systems. Topics include
+requirements and specification; system design
+and implementation; debugging, testing,
+and quality assurance; reengineering; project
+management; software process; tools; and
+environments.
+CS 181 Principles of Programming
+Languages 4 Lecture, 3 hours; laboratory, 3
+hours. Prerequisite(s): CS 061, CS 100, CS 111,
+CS 150. Covers the principles of programming
+language design. Includes the study and
+comparison of several programming languages,
+their features, and their implementations.
+CS 182 Software Testing and
+Verification 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CS 100. A study of modern
+techniques to assess the quality of software
+artifacts through functional, performance, and
+reliability testing. Introduces black box and white
+box testing techniques. Covers the application
+of modern testing tools to software units,
+components, subsystems, and entire systems.
+Also covers verification as a complementary
+technique to testing.
+CS 183 Unix System Administration 4 Seminar,
+3 hours; laboratory, 3 hours. Prerequisite(s):
+CS 100. Explores the technical aspects of
+system administration on a Unix system,
+including advanced Unix. Includes managing
+system devices, operating system installation,
+communications, and networking.
+CS 190 Special Studies 1 to 5 Individual
+Study, 3 to 15 hours. Prerequisite(s): consent
+of instructor and department chair. Individual
+study to meet special curricular needs. Course is
+repeatable to a maximum of 9 units.
+CS 191 Seminar in Research Topics in
+Computer Science and Engineering 1 Seminar,
+1 hour. Prerequisite(s): upper division or
+graduate standing or consent of instructor. An
+introduction to the range of research topics and
+methods in Computer Science and Engineering
+and to the research opportunities available within
+the department. Graded Satisfactory (S) or No
+Credit (NC). Course is repeatable to a maximum
+of 3 units.
+CS 193 Design Project 1 to 4 Laboratory, 1
+to 6 hours; scheduled research, 1 to 3 hours;
+individual study, 1 to 3 hours, Prerequisite(s): CS
+141; consent of instructor. Individual hardware or
+software design project to include establishment
+of objectives and criteria, synthesis, analysis,
+implementation, testing, and documentation.
+Course is repeatable to a maximum of 8 units.
+CS 194 Independent Reading 1 to
+4 Prerequisite(s): consent of instructor.
+Independent reading in material not covered in
+course work. Normally taken in senior year. Total
+credit for CS 194 may not exceed 8 units.
+CS 198I Individual Internship in Computer
+Science 1 to 4 Internship, 3 to 12 hours.
+Prerequisite(s): upper-division standing; at
+least 12 units in Computer Science courses.
+An academic internship to provide the student
+with career experience as a computer scientist
+in a governmental, industrial, or research unit
+under the joint supervision of an off-campus
+sponsor and a faculty member in Computer
+Science. Each individual program must have
+the prior approval of both supervisors and
+the Department chair. A final written report is
+required.Course is repeatable to a maximum of
+8 units.
