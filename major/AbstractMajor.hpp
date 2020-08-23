@@ -7,16 +7,18 @@
 
 class AbstractMajor {
     protected:
-        std::string name;
-        std::vector<std::string> requiredCourses;
+        string name;
+        vector<string>* requiredCourses;
     public:
         AbstractMajor() {}
 
         virtual int totalUnits() = 0;
 
-        virtual std::string getName() = 0;
+        virtual string getName() = 0;
 
-        virtual std::string getCollege() = 0;
+        virtual string getCollege() = 0;
+
+        virtual vector<string>* getRequiredCourses() { return requiredCourses; };
 };
 
 #endif //__ABSTRACTMAJOR_HPP__
