@@ -1,0 +1,318 @@
+Lower-Division Courses
+CEE 010 Introduction to Chemical and
+Environmental Engineering 1 Lecture, 1 hour.
+Prerequisite(s): none. An introduction to chemical
+and environmental engineering for engineering
+and nonengineering majors. Aims to enrich
+an appreciation of chemical, biochemical, and
+environmental engineering. Discusses typical
+careers, key applications, latest developments
+and the need to engage in lifelong learning in the
+field. Graded Satisfactory (S) or No Credit (NC).
+CEE 011 Introduction to
+Bioengineering 2 Lecture, 1 hour; laboratory,
+3 hours. An introduction to bioengineering
+for engineering and nonengineering majors.
+Discusses the application of concepts
+and methods of the physical sciences and
+mathematics to problems in the life sciences.
+Covers typical careers, key applications, latest
+developments in the field, and the need to
+engage in lifelong learning. Provides hands-on
+experiences and includes a field trip. Graded
+Satisfactory (S) or No Credit (NC).
+Upper-Division Courses
+CEE 125 Analytical Methods For Chemical
+and Environmental Engineers 4 Lecture, 2
+hours; laboratory, 6 hours. Prerequisite(s): CEE
+010 (CEE 010 may be taken concurrently);
+CHEM 001C and CHEM 01LC; CHEM
+008A and CHEM 08LA or CHEM 08HA and
+CHEM 08HLA; PHYS 040C or PHYS 040HC.
+Examines chromatographic separations,
+mass spectrometry, atomic absorption, and
+electrophoresis. Presents total carbon analysis
+as an introduction to analytical methods and
+their use in the chemical and environmental
+engineering fields.
+CEE 132 Green Engineering 4 Lecture, 3
+hours; discussion, 1 hour. Prerequisite(s):
+CHE 110A or ENVE 171, senior standing
+or consent of instructor. An introduction
+to the design, commercialization, and use
+of feasible and economical processes and
+products that minimize risks to human health
+and the environment. Topics covered include
+environmental risk assessment; regulations;
+chemical process flow-sheet analysis for
+pollution prevention; product life-cycle
+assessment; and industrial ecology. Credit is
+awarded for only one of CEE 132 or CEE 232.
+CEE 135 Chemistry of Materials 4 Lecture,
+3 hours; discussion, 1 hour. Prerequisite(s):
+CHEM 008A and CHEM 08LA or CHEM 08HA
+and CHEM 08HLA; PHYS 040C or PHYS
+040HC. An introduction to the synthesis,
+structure, properties, and performance of
+modern materials. Topics include the science
+of materials, bonding and structure, the
+strength of materials, electrons in materials,
+semiconductors, superconductors, and optical
+properties of materials.
+CEE 136 Aerosol Technology 4 Lecture, 3
+hours; discussion, 1 hour. Prerequisite(s):
+concurrent enrollment in CHE 120. Explores
+the physical and chemical properties of aerosol
+and its relationship to ambient air quality, control
+technology, health impacts, and global climate
+change. Introduces the principles of aerosol
+measurement and aerosol measurement
+technology.
+CEE 140A Biomaterials 4 Lecture, 3 hours;
+discussion, 1 hour. Prerequisite(s): BIEN 101 or
+BCH 100, MATH 010B, PHYS 040B or PHYS
+040HB; or consent of instructor. Covers the
+principles of materials science and engineering,
+with attention to topics in bioengineering.
+Explores atomic structures, hard treatment,
+fundamentals of corrosion, manufacturing
+processes, and characterization of materials.
+Cross-listed with BIEN140A.
+CEE 140B Biomaterials 4 Lecture, 3 hours;
+discussion, 1 hour. Prerequisite(s): PHYS 040B
+or PHYS 040HB; Covers the structure-property
+relations of metals, ceramics, polymers, and
+composites, as well as hard and soft tissues
+such as bone, teeth, cartilage, ligament, skin,
+muscle, and vasculature. Focuses on behavior
+of materials in the physiological environment.
+Cross-listed with BIEN140B.
+CEE 158 Professional Development For
+Engineers 3 Lecture, 3 hours. Prerequisite(s):
+upper-division standing. A review of various
+topics relevant to the professional development
+of chemical engineers. Includes career paths;
+interview strategies; professional registration and
+preparation for certification examinations; ethics;
+risk management and environmental health and
+safety; regulatory issues; and lifelong learning.
+CEE 159 Dynamics of Biological
+Systems 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): BIOL 005B, MATH 046;
+or consent of instructor. Covers engineering
+principles for the analysis and modeling of
+biological phenomena. Topics include molecular
+diffusion and transport, membranes, ligandbioreceptor interactions, enzyme kinetics, and
+dynamics of metabolic pathways. Examines the
+application of these principles to the design of
+bioreactors, bioassays, drug delivery systems,
+and artificial organs. Cross-listed with BIEN 159.
+CEE 197 Research For Undergraduates 1
+to 4 Research, 3 to 12 hours. Prerequisite(s):
+consent of instructor and Chemical and
+Environmental Engineering undergraduate
+program advisor. Directed research on a 
+| 178
+topic relevant to chemical and environmental
+engineering. Requires a final written report.
+Course is repeatable to a maximum of 8 units
+ENVE 120 Unit Operations and Processes in
+Environmental Engineering 4 Lecture, 3 hours;
+discussion, 1 hour. Prerequisite(s): CHE 120,
+ENVE 142; or consent of instructor. Introduction
+to physical and chemical processes used for
+drinking water and wastewater treatment.
+Topics include coagulation and flocculation,
+sedimentation, granular-medium filtration,
+membrane disinfection, and softening.Credit is
+awarded for only one of CEE 225 or ENVE 120.
+ENVE 121 Biological Unit Processes 4 Lecture,
+3 hours; discussion, 1 hour. Prerequisite(s):
+ENVE 120, ENVE 142 An introduction to the
+theory and design of biological unit processes
+used in environmental engineering. Covers
+suspended growth processes, attached growth
+processes, digestion processes, and nutrient
+removal systems. Credit is awarded for only one
+of CEE 226 or ENVE 121.
+ENVE 130 Advanced Engineering
+Thermodynamics 4 Lecture, 3 hours;
+discussion, 1 hour. Prerequisite(s): CHE 100
+or consent of instructor. Advanced study
+of chemical thermodynamics and their
+applications to chemical and environmental
+engineering processes. Applies principles for
+the thermodynamic behavior of pure solutions
+and mixtures, phases, and chemical equilibria
+for homogeneous and heterogeneous systems
+to a variety of processes common to chemical
+and environmental engineering. Cross-listed with
+CHE 130.
+ENVE 133 Fundamentals of Air Pollution
+Engineering 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CHE 110A or ENVE 171;
+CHE 114; CHEM 008B and CHEM 08LB or
+CHEM 08HC and CHEM 08HLC; MATH 046;
+PHYS 040B or PHYS 040HB; or consent of
+instructor. Covers principles, modeling, and
+design of systems for atmospheric emission
+control of pollutants such as photochemical
+smog and by-products of combustion. Explores
+the effects of air pollution on health. Credit is
+awarded for only one of ENVE 133 or CEE 243.
+ENVE 134 Technology of Air Pollution
+Control 4 Lecture, 4 hours. Prerequisite(s):
+ENVE 133. Processes and design of control
+technologies for gaseous and particulate
+pollutants. Methods and design of ambient air
+quality measurements and air pollution source
+sampling for both gaseous and particulate
+pollutants.
+ENVE 135 Fate and Transport of Environmental
+Contaminants 4 Lecture, 3 hours; discussion,
+1 hour. Prerequisite(s): CHE 120; CHEM
+008B and CHEM 08LB or CHEM 08HB and
+CHEM 08HLB; ENGR 118; ENVE 133; ENVE
+142; or consent of instructor. Covers fate and
+transport of contaminants in the air, water,
+and soil environments. Addresses description
+and modeling of advection, dispersion,
+phase transfer, and chemical transformation
+mechanisms.
+ENVE 138 Combustion Engineering 4 Lecture,
+4 hours. Prerequisite(s): CHE 114, ENVE 133.
+Covers the fundamental development of the
+engineering and design principles underlying
+combustion engines and turbines and the
+associated emission control technology. Includes
+aspects of fuels, lubricants, instrumentation,
+chemistry of combustion, and kinetics related
+to the understanding of engineering processes,
+engine design, and emission control.
+ENVE 140 Aquatic Chemistry 4 Lecture, 3
+hours; discussion, 1 hour. Prerequisite(s):
+CHE 100, ENVE 142; or consent of instructor.
+An introduction to the chemical principles
+and equilibrium models used to describe the
+behavior of natural water systems, water and
+wastewater treatment processes, and pollutant
+transformations in the aqueous environment.
+Topics include acid-base chemistry, precipitation,
+complexation, and redox reactions. Credit is
+awarded for only one of CEE 241 or ENVE 140.
+ENVE 142 Water Quality Engineering 4 Lecture,
+3 hours; discussion, 1 hour. Prerequisite(s): CHE
+114 or ENVE 171; or consent of instructor. An
+introduction to the engineering aspects of water
+quality management. Addresses water quality
+characterization and modeling techniques for
+natural and engineered systems. Discusses
+application of chemical equilibrium and kinetic
+models to water quality.
+ENVE 144 Solid Waste Management 4 Lecture,
+3 hours; discussion, 1 hour. Prerequisite(s):
+BIOL 002 or BIOL 005A, BIOL 05LA; CHEM
+001C, CHEM 01LC or CHEM 01HC, CHEM
+01HLC; ENSC 001 or ENSC 001H, ENSC 002
+or ENSC 002H or ENVE 171; MATH 007B
+or MATH 009B or MATH 09HB; or consent
+of instructor. A study of the characterization,
+collection, transportation, processing, disposal,
+recycling, and composting of municipal solid
+waste. Emphasizes accepted management
+strategies and design procedures for recovering
+or disposing solid wastes while protecting public
+and environmental well-being. Cross-listed with
+ENSC 144.
+ENVE 145 Hazardous Waste
+Management 4 Lecture, 3 hours; discussion,
+1 hour. Prerequisite(s): ENVE 120 and ENVE
+142. Advanced course in the study of physiochemical, thermal, and biological treatment
+of hazardous waste. Emphasis is placed on
+the technical understanding and design of
+physical, biological, and thermal treatment
+methods; transportation of hazardous waste;
+and hazardous waste characterization and site
+assessment.
+ENVE 146 Water Quality Systems
+Design 4 Lecture, 3 hours; discussion, 1 hour.
+Prerequisite(s): CHE 114 or consent of instructor.
+Analysis and design of water conveyance
+systems including water distribution networks,
+wastewater and storm water collection systems,
+structures for flow measurement and control,
+and pumps and pump stations. Includes
+projects to develop design process skills
+including problem specification, modeling, and
+analysis.
+ENVE 160A Chemical and Environmental
+Engineering Laboratory 3 laboratory, 6 hours;
+written work, 3 hours. Prerequisite(s): CHE 
+| 180
+114, CHE 120. Involves laboratory exercises
+in chemical and environmental engineering.
+Experiments cover physical measurements,
+fluid mechanics, and mass transfer. Emphasizes
+experimental design, analysis of results, and
+preparation of engineering reports. Cross-listed
+with CHE 160A.
+ENVE 160B Environmental Engineering
+Laboratory 3 laboratory, 6 hours; written work,
+3 hours. Prerequisite(s): ENVE 133. Consists
+of laboratory exercises in environmental
+engineering. Includes experiments in physical
+measurements, reaction kinetics, reactor
+analysis, and air pollution engineering. Emphasis
+is on experimental design, analysis of results,
+and preparation of engineering reports.
+ENVE 160C Environmental Engineering
+Laboratory 3 Laboratory, 6 hours; written
+work, 3 hours. Prerequisite(s): ENVE 120,
+ENVE 142. Consists of laboratory exercises in
+environmental engineering. Includes experiments
+in physical measurements, water quality, and
+unit operations and processes. Emphasis is on
+experimental design, analysis of results, and
+preparation of engineering reports.
+ENVE 171 Fundamentals of Environmental
+Engineering 4 Lecture, 3 hours; discussion, 1
+hour. Prerequisite(s): CHEM 001C, MATH 009C,
+PHYS 040B or PHYS 040HB; or consent of
+instructor. An introduction to mass and energy
+balances. Includes an overview of contaminants
+and their effects on human health and the
+environment. Provides a basic understanding
+of contaminants, their sources, and their
+movement and fate in the environment.
+ENVE 175A Senior Design Project 4 Lecture, 1
+hour; laboratory, 6 hours; consultation, 1 hour.
+Prerequisite(s): ENVE 120; Restricted to class
+level standing of senior; Restricted to major(s)
+Environmental Engineering, Environmental
+Engr BS + MS. Under the direction of a faculty
+member, students (individually or in small teams
+with shared responsibilities) propose, design,
+build, and test environmental engineering
+devices or systems. Requires a written report
+giving details of the project and test results
+and an oral presentation of the design aspects.
+Graded in-progress until ENVE 175A and ENVE
+175B are completed at which time a final letter
+grade is assigned.
+ENVE 175B Senior Design Project 4 Lecture,1
+hour; laboratory, 6 hours; consultation,1 hour.
+Prerequisite(s): senior standing in Environmental
+Engineering; ENVE 175A. Under the direction
+of a faculty member, students (individually or
+in small teams with shared responsibilities)
+propose, design, build, and test environmental
+engineering devices or systems. A written report,
+giving details of the project and test results,
+and an oral presentation of the design aspects
+are required. Satisfactory (S) or No Credit (NC)
+grading is not available.
+ENVE 190 Special Studies 1 to 5 Individual
+Study, 3 to 15 hours. Prerequisite(s): upperdivision standing; consent of instructor and
+department chair. Individual study to meet
+special curricular needs. Course is repeatable to
+a maximum of 9 units.
