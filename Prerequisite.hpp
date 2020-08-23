@@ -21,6 +21,12 @@ class Prerequisite : public CourseComponent {
             // int courseNumber;
         
         public:
+            // Default Constructor
+            Prerequisite() : CourseComponent() {
+                courseName = "";
+                courseDescription = "";
+                courseUnits = 0;
+            }
 
             // Constructor
             Prerequisite(string newCourseName, int numUnits, string newCourseDescription) : CourseComponent() {
