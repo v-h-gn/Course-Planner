@@ -1,5 +1,5 @@
-#ifndef __CHEN_HPP__
-#define __CHEN_HPP__
+#ifndef __CHE_HPP__
+#define __CHE_HPP__
 
 #include "AbstractMajor.hpp"
 
@@ -11,4 +11,4 @@ class ChemicalEngineering : public AbstractMajor {
         }
 };
 
-#endif // __CHEN_HPP__
+#endif // __CHE_HPP__
