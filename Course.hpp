@@ -7,6 +7,8 @@
 #include <vector>
 #include <iostream>
 
+using namespace std;
+
 class Course : public CourseComponent {
 
         protected:
@@ -16,19 +18,19 @@ class Course : public CourseComponent {
 
             string courseName;
             string courseDescription;
+            string courseRequisites;
             int courseUnits;
+            bool taken = false;
             // int courseNumber;
-
-            
-
 
         public:
 
             // Constructor
-            Course(string newCourseName, int numUnits, string newCourseDescription) : CourseComponent() {
+            Course(string newCourseName, int numUnits, string newCourseDescription, string newCourseRequisites) : CourseComponent() {
                 courseName = newCourseName;
                 courseUnits = numUnits;
                 courseDescription = newCourseDescription;
+                courseRequisites = newCourseRequisites;
             }
 
             // Accessor that returns Course Name
@@ -46,9 +48,14 @@ class Course : public CourseComponent {
                 return courseUnits;
             }
 
+            // Accessor that returns Course Requisites
+            string getCourseRequisites() {
+                return courseRequisites;
+            }
+
             // Adds other courses to the list 
             void add(CourseComponent *newCourseComponent) {
-                courseComponents.push_back(newCourseComponent);
+                courses.push_back(newCourseComponent);
             }
 
             // Removes courses from the list
@@ -57,13 +64,14 @@ class Course : public CourseComponent {
                 for (i = 0; i < courses.size(); ++i) {
                     if (courses[i] == newCourseComponent) {
                         delete newCourseComponent;
+                        return;
                     }
                 }
             }
 
             // Returns the course stored at a specific index
-            CourseComponent getComponent(int componentIndex) {
-                return courseComponents.at(componentIndex);
+            CourseComponent* getComponent(int componentIndex) {
+                return courses.at(componentIndex);
             }
 
             // Check this function

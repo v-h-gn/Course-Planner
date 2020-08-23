@@ -20,14 +20,14 @@ class CourseComponent {
         CourseComponent getComponent(int componentIndex);
 
         // Accessor that returns the course name
-        virtual string getCourseName();
+        virtual std::string getCourseName();
 
         // Accessor that returns the course number
         // Course catalog does not include CRN
         // virtual int getCourseNumber();
 
         // Accessor that returns the course description
-        virtual string getCourseDescription();
+        virtual std::string getCourseDescription();
 
         virtual void displayCourseInfo();
 

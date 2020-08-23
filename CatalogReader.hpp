@@ -5,11 +5,15 @@
 #include <fstream>
 #include <string>
 #include <unordered_map>
-#include <vector>
+#include <list>
 #include <exception>
 #include <filesystem>
 #include "CourseComponent.hpp"
+#include "Course.hpp"
+#include "Prerequisite.hpp"
+#include "AbstractMajor.hpp"
 
+using namespace std;
 
 /* Authored by Vahagn Tovmasian
  * 
@@ -19,8 +23,33 @@
 class CatalogReader {
     private:
         AbstractMajor* major;
-        const std::string resourcesPath = "../resources";
-        const std::string resourceExtension = ".txt";
+        const string resourcesPath = "../resources";
+        const string resourceExtension = ".txt";
+
+        CourseComponent* constructCourse(ifstream& fin) const {
+                string courseName;
+                int courseUnits;
+                string courseDescriptiveName;
+                string courseDescription;
+
+                string prerequisites;
+                
+                // get course info
+                getline(fin, courseName);
+                getline(fin, courseDescriptiveName);
+                courseUnits = stoi(courseDescriptiveName.substr(courseDescriptiveName.size() - 1));
+                getline(fin, prerequisites);
+                getline(fin, courseDescription);
+
+                string combinedDescription = (courseDescriptiveName.append("\n").append(courseDescription));
+
+                CourseComponent* course = new Course(courseName, courseUnits, combinedDescription, prerequisites);
+
+                getline(fin, courseName); // extract an extra line so that the next loop starts at the beginning of the data.
+
+                return course;
+        }
+
     public:
         CatalogReader(AbstractMajor* major) : major(major) {}
         
@@ -29,31 +58,34 @@ class CatalogReader {
          * where the key is the Course and the value is a vector containing
          * the Course, Co-Requisites, and Direct Pre-requisites.
          */
-        std::unordered_map<CourseComponent*, std::vector<CourseComponent*>>* createCourseHeirarchy() const {
-            std::ifstream fin(resourcesPath + major->getName() + resourceExtension);
+        unordered_map<string, list<CourseComponent*>>* createCourseHeirarchy() const {
+            ifstream fin(resourcesPath + major->getName() + resourceExtension);
 
-            std::unordered_map<CourseComponent*, std::vector<CourseComponent*>>* courses = new std::unordered_map<CourseComponent*, std::vector<CourseComponent*>>(20);
+            unordered_map<string, CourseComponent*>* courses = new unordered_map<string, CourseComponent*>(20);
 
             // if file can't be opened, the program will fail, we throw exception
             if(!fin.is_open()) {
-                throw std::exception("Error, resource file for your major could not be found.");
+                throw exception("Error, resource file for your major could not be found.");
+            }
+            
+            while(fin.good() && !fin.eof()) {
+                // put file of classes into map for easy access                
+                CourseComponent* course = constructCourse(fin);             
+                courses->emplace(course->getCourseName(), course);
             }
 
-            while(fin.good()) {
-                // get components, construct ptr, add to list
-                std::vector<CourseComponent*>* requisites = new std::vector<CourseComponent*>(5);
+            unordered_map<string, list<CourseComponent*>>* heirarchy = new unordered_map<string, list<CourseComponent*>>(20);
 
-                // TODO: get first course
+            for(auto requiredCourse : *(major->getRequiredCourses())) {
+                CourseComponent* course = courses->at(requiredCourse);
 
-                // TODO: get id, construct new course component, push it to vector
+                // TODO: get prerequisites & put them in heirarchy map.
 
-                // TODO: with id, get prerequisites & corequisites, & push those to vector
-
-                // TODO: with original course component, push it to hashmap with new vector
-
+                
             }
 
-            return courses;
+
+            return heirarchy;
         }
 };
 

@@ -16,7 +16,7 @@ class Prerequisite : public CourseComponent {
             string courseName;
             string courseDescription;
             int courseUnits;
-            
+            bool taken = false;
             // Removing this because CRN isn't listed in the catalog
             // int courseNumber;
         
