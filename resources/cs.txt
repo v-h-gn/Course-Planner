@@ -1,14 +1,7 @@
-CS 010 Introduction to Computer Science
-For Science, Mathematics, and Engineering
-I 4 Lecture, 3 hours, Laboratory, 3 hours.
-Prerequisite(s): MATH 008B, may be taken
-concurrently or MATH 006B, may be taken
-concurrently or MATH 007A, may be taken
-concurrently or MATH 09HA, may be taken
-concurrently or MATH 008A, may be taken
-concurrently or MATH 005, may be taken
-concurrently or MATH 009A, may be taken
-concurrently; Covers problem solving through
+CS 010 
+Introduction to Computer Science For Science, Mathematics, and Engineering I 4 
+Prerequisite(s): Math 009A; 
+Covers problem solving through
 structured programming of algorithms on
 computers using the C++ object-oriented
 language. Includes variables, expressions,
@@ -17,6 +10,7 @@ parameters, arrays, strings, file I/O, and classes.
 Also covers software design, testing, and
 debugging. Credit is awarded for one of the
 following: CS 010, CS 009M, or CS 009P.
+
 CS 011 Introduction to Discrete
 Structures 4 Lecture, 3 hours; discussion, 1
 hour. Prerequisite(s): MATH 009A (or MATH
