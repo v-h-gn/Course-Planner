@@ -1,6 +1,6 @@
 MSE 001
 Fundamentals of Materials Science and Engineering 2
-Prerequisite(s): none.
+Prerequisite(s): ;
 An introduction of properties and applications of different types of materials essential for various areas of engineering. Explores the relationship between structure and properties as well as processing of the materials. Illustrates a wide range of properties required for different types of applications.
 
 MSE 003L
@@ -10,7 +10,7 @@ The three-course sequence MSE 002L, MSE 003L, and MSE 004L provides students wit
 
 MSE 134 
 Microstructural Transformations in Materials 4
-Prerequisite(s): ME 114
+Prerequisite(s): ME 114;
 An introductory study of the fundamentals (thermodynamics and kinetics) controlling microstructural transformations in materials and their application to both liquid-solid and solid-solid transformations. Focuses on the important transformations that ultimately control the microstructures and properties of crystalline solids. Cross-listed with ME 134.
 
 MSE 135 
@@ -20,12 +20,12 @@ Introduction to the synthesis methods of modern materials. Topics include solid-
 
 MSE 136 
 Tissue Engineering 4 
-Prerequisite(s): BIOL 005A and BIOL 005B, CHEM 001C or CHEM 01HC or equivalents; junior, senior;
+Prerequisite(s): BIOL 005A, BIOL 005B, CHEM 001C; junior;
 Covers progress in cellular and molecular biology and engineering. Provides the basis for advancing tissue repair and regeneration with the goal of restoring compromised tissue functions. Presents methods for cell culture, tissue design and development, manipulation of the cell/tissue microenvironment, and current strategies for functional reconstruction of injured tissues.
 
 MSE 155 
 Materials Science of the Solid State 4
-Prerequisite(s): EE 138. 
+Prerequisite(s): EE 138;
 Explores at an advanced level the quantum mechanical behavior of electron motion and atom vibration in a periodic solid and their effect on the electronic and thermal properties of matter. The course discusses modern materials science research problems.
 
 MSE 156 
@@ -35,17 +35,17 @@ Introduces a basic understanding of computational methods in materials science. 
 
 MSE 160 
 Nanostructure Characterization Laboratory 4
-Prerequisite(s): ME 114. 
+Prerequisite(s): ME 114;
 Covers structure of materials at the nanoscale, including semiconductors, ceramics, metals, and carbon nanotubes. Explores relationships among morphology, properties, and processing. Addresses primary methods of characterization, including scanning electron microscopy, scanning probe microscopy, X-ray diffraction, and transmission electron microscopy. Also covers elementary discussions of X-ray, vibrational, and electron waves in solids and introductory diffraction theory.
 
 MSE 161 
 Analytical Materials Characterization 4 
-Prerequisite(s): MSE 160. 
+Prerequisite(s): MSE 160;
 Analysis of the surfaces of materials via ion, electron, and photon spectroscopies. Includes Rutherford back scattering; secondary ion mass spectroscopy; electron energy loss spectroscopy; Auger electron spectroscopy; X-ray photoelectron spectroscopy; photoluminescence; extended X-ray absorption fine structure; Fourier transform infrared spectroscopy; and Raman spectroscopy. Also covers sputtering, high-vacuum generation, and focused ion beam milling.
 
 MSE 175A 
 Senior Design 4
-Prerequisite(s): CHE 116 or ME 116A; EE 139; senior;
+Prerequisite(s): CHE 116, EE 139; senior;
 Covers preparation of formal engineering reports and statistical analysis on a series of problems illustrating methodology from various branches of applied materials science and engineering. Addresses the entire design process: design problem definition; generation of a design specification; documentation; design review process; prototype fabrication; testing and calibration; cost estimation; and federal guidelines. Requires a term project and oral presentation. Graded In-Progress (IP) until MSE 175A and MSE 175B are completed, at which time a final, letter grades is assigned.
 
 MSE 175B 
@@ -55,6 +55,6 @@ Covers preparation of formal engineering reports and statistical analysis on a s
 
 MSE 197 
 Research For Undergraduates 4 
-Prerequisite(s): sophomore 
+Prerequisite(s): ; sophomore;
 Research conducted under the supervision of a MSE faculty member on selected problems in materials science and engineering supporting the focus area of the student.
  
