@@ -1,60 +1,60 @@
 MSE 001
 Fundamentals of Materials Science and Engineering 2
-Prerequisite(s): ;
+
 An introduction of properties and applications of different types of materials essential for various areas of engineering. Explores the relationship between structure and properties as well as processing of the materials. Illustrates a wide range of properties required for different types of applications.
 
 MSE 003L
 General Materials Laboratory 1
-Prerequisite(s): MSE 001; 
+MSE 001 
 The three-course sequence MSE 002L, MSE 003L, and MSE 004L provides students with hands on laboratory experience. Experiments will introduce students to topics related to the structure-compositionprocessing-performance relationship of various materials including ceramics, electronic materials, metals, and polymers and their mechanical, electrical, or magnetic properties. 
 
 MSE 134 
 Microstructural Transformations in Materials 4
-Prerequisite(s): ME 114;
+ME 114
 An introductory study of the fundamentals (thermodynamics and kinetics) controlling microstructural transformations in materials and their application to both liquid-solid and solid-solid transformations. Focuses on the important transformations that ultimately control the microstructures and properties of crystalline solids. Cross-listed with ME 134.
 
 MSE 135 
 Introduction to Inorganic Material Synthesis 4 
-Prerequisite(s): MSE 001, CHE 100, ME114, CHEM 008A; 
+MSE 001, CHE 100, ME114, CHEM 008A 
 Introduction to the synthesis methods of modern materials. Topics include solid-state reactions, gas-phase and solution phase synthesis, templating methods, synthesis and modification of inorganic polymers, semiconductor thin-film deposition, and the growth of nanomaterials.
 
 MSE 136 
 Tissue Engineering 4 
-Prerequisite(s): BIOL 005A, BIOL 005B, CHEM 001C; junior;
+BIOL 005A, BIOL 005B, CHEM 001C
 Covers progress in cellular and molecular biology and engineering. Provides the basis for advancing tissue repair and regeneration with the goal of restoring compromised tissue functions. Presents methods for cell culture, tissue design and development, manipulation of the cell/tissue microenvironment, and current strategies for functional reconstruction of injured tissues.
 
 MSE 155 
 Materials Science of the Solid State 4
-Prerequisite(s): EE 138;
+EE 138
 Explores at an advanced level the quantum mechanical behavior of electron motion and atom vibration in a periodic solid and their effect on the electronic and thermal properties of matter. The course discusses modern materials science research problems.
 
 MSE 156 
 Atomistic Modeling of Solid State Materials 4
-Prerequisite(s): MSE 155; senior;  
+MSE 155
 Introduces a basic understanding of computational methods in materials science. Emphasizes the fundamentals of density functional theory and its use in the solid-state context. Includes projects that provide practical hands-on experience using state-of-the-art computational techniques in materials science.
 
 MSE 160 
 Nanostructure Characterization Laboratory 4
-Prerequisite(s): ME 114;
+ME 114
 Covers structure of materials at the nanoscale, including semiconductors, ceramics, metals, and carbon nanotubes. Explores relationships among morphology, properties, and processing. Addresses primary methods of characterization, including scanning electron microscopy, scanning probe microscopy, X-ray diffraction, and transmission electron microscopy. Also covers elementary discussions of X-ray, vibrational, and electron waves in solids and introductory diffraction theory.
 
 MSE 161 
 Analytical Materials Characterization 4 
-Prerequisite(s): MSE 160;
+MSE 160
 Analysis of the surfaces of materials via ion, electron, and photon spectroscopies. Includes Rutherford back scattering; secondary ion mass spectroscopy; electron energy loss spectroscopy; Auger electron spectroscopy; X-ray photoelectron spectroscopy; photoluminescence; extended X-ray absorption fine structure; Fourier transform infrared spectroscopy; and Raman spectroscopy. Also covers sputtering, high-vacuum generation, and focused ion beam milling.
 
 MSE 175A 
 Senior Design 4
-Prerequisite(s): CHE 116, EE 139; senior;
+CHE 116, EE 139
 Covers preparation of formal engineering reports and statistical analysis on a series of problems illustrating methodology from various branches of applied materials science and engineering. Addresses the entire design process: design problem definition; generation of a design specification; documentation; design review process; prototype fabrication; testing and calibration; cost estimation; and federal guidelines. Requires a term project and oral presentation. Graded In-Progress (IP) until MSE 175A and MSE 175B are completed, at which time a final, letter grades is assigned.
 
 MSE 175B 
 Senior Design 4
-Prerequisite(s): MSE 175A; senior;
+MSE 175A
 Covers preparation of formal engineering reports and statistical analysis on a series of problems illustrating methodology from various branches of applied materials science and engineering. Addresses the entire design process: design problem definition; generation of a design specification; documentation; design review process; prototype fabrication; testing and calibration; cost estimation; and federal guidelines. Requires a term project and oral presentation.
 
 MSE 197 
 Research For Undergraduates 4 
-Prerequisite(s): ; sophomore;
+
 Research conducted under the supervision of a MSE faculty member on selected problems in materials science and engineering supporting the focus area of the student.
  
