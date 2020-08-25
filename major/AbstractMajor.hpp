@@ -12,11 +12,7 @@ class AbstractMajor {
     public:
         AbstractMajor() {}
 
-        virtual int totalUnits() = 0;
-
-        virtual string getName() = 0;
-
-        virtual string getCollege() = 0;
+        virtual string getName() { return name; };
 
         virtual vector<string>* getRequiredCourses() { return requiredCourses; };
 };
