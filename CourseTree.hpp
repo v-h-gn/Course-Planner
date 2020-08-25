@@ -10,10 +10,33 @@ using namespace std;
 
 struct CourseNode {
 
-    string courseName;
-    int key;
-    vector<CourseNode*> children;
-    CourseNode()
+    private:
+
+        string courseName;
+        vector<CourseNode*> children;
+
+        CourseNode* parent;
+        CourseNode* next;
+
+    public:
+        // Default constructor
+        CourseNode() {
+            courseName = "";
+            children = 0;
+            parent = 0;
+            next = 0;
+        }
+
+        CourseNode(string courseName) {
+            courseName = courseName;
+            children = 0;
+            parent = 0;
+            next = 0;
+        }
+
+        void addNode(unordered_map<string, list<CourseComponent*>>* majorCourses) {
+            
+        }
 };
 
 

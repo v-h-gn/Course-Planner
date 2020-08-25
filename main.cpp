@@ -74,12 +74,7 @@ int main() {
     
     // Returns unordered map of courses, stored by "name of course", <vector of linked courses and itself>
     unordered_map<string, list<CourseComponent*>>* majorCourses = reader.createCourseHeirarchy();
-
-    
-
-
-
-
+        
     
 
 
