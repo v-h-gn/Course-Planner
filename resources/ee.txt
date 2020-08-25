@@ -1,214 +1,214 @@
 EE 001A 
 Engineering Circuit Analysis I 3 
-Prerequisite(s): MATH 046, PHYS 040;
+MATH 046, PHYS 040;
 Ohm’s law and Kirchoff’s laws; nodal and loop analysis; analysis of linear circuits; network theorems; transients in RLC circuits. Application of SPICE to circuit analysis. 
 
 EE 01LA
 Engineering Circuit Analysis I Laboratory 1
-Prerequisite(s): EE 001A;
+EE 001A;
 Experiments closely tied to the lecture material of EE 001A: resistive circuits, attenuation and amplification, network theorems and superposition, operational amplifiers, transient response, application of SPICE to circuit analysis.
 
 EE 001B 
 Engineering Circuit Analysis II 4
-Prerequisite(s): EE 001A and EE 01LA;
+EE 001A, EE 01LA;
 Sinusoidal steady state analysis, polyphase circuits, magnetically coupled networks, frequency characteristics, Laplace and Fourier transforms, Laplace and Fourier analysis. Application of SPICE to complicated circuit analysis.
 
 EE 010 
 Introduction to Electrical Engineering 1
-Prerequisite(s): ; 
+; 
 Introduces electrical engineering applications, career options, and the electrical engineering curriculum. Provides motivation and context for the mathematics and science courses that are prerequisites to most electrical engineering courses. Discusses contemporary engineering issues, social and environmental impact of engineering solutions, professional ethics, and need for life-long learning.
 
 EE 020 
 Linear Methods For Engineering Analysis and Design Using Matlab 4 
-Prerequisite(s): CS 010, MATH009A; 
+CS 010, MATH009A; 
 Introduces MATLAB programming and linear methods for engineering analysis and design. Topics include formulating engineering problems as linear systems of equations; methods for finding their solutions; vector and matrix representations of signals and systems; matrices computations; and linear programming for system analysis and design.
 
 EE 100A 
 Electronic Circuits 4
-Prerequisite(s): EE 001B;
+EE 001B;
 Electronic systems, linear circuits, operational amplifiers, diodes, nonlinear circuit applications, junction and metal-oxide-semiconductor fieldeffect transistors, bipolar junction transistors, MOS and bipolar digital circuits. Laboratory experiments are performed in the subject areas and SPICE simulation is used.
 
 EE 100B 
 Electronic Circuits 4
-Prerequisite(s): EE 100A;
+EE 100A;
 Differential and multistage amplifiers, output stages and power amplifiers, frequency response, feedback, analog integrated circuits, filters, tuned amplifiers, and oscillators. Laboratory experiments are performed in the subject areas and SPICE simulation is used. 
 
 EE 105 
 Modeling and Simulation of Dynamic Systems 4 
-Prerequisite(s): EE 001A, EE 020, MATH 046; 
+EE 001A, EE 020, MATH 046; 
 Introduces the mathematical modeling  of dynamical systems and their methods of solution. Explores advanced techniques and concepts for analytical modeling and study of various electrical, electronic, and electromechanical systems based upon physical laws. Emphasizes formulation of problems via differential equations. Addresses numerical methods for integration and matrix analysis problems.
 
 EE 110A 
 Signals and Systems 4
-Prerequisite(s): EE001B, EE 020;
+EE 001B, EE 020;
 Covers basic signals and types of systems, linear time-invariant (LTI) systems, Fourier analysis, frequency response, and Laplace transforms for LTI systems. Includes laboratory experiments with signals, transforms, harmonic generation, linear digital filtering, and sampling/aliasing. 
 
 EE 110B 
 Signals and Systems 4
-Prerequisite(s): EE 110A.
+EE 110A;
 Fourier analysis for discrete-time signals and systems, filtering, modulation, sampling and interpolation, z-transforms. Laboratory experiments with signals, transforms, harmonic generation, linear digital filtering, and sampling/ aliasing.
 
 EE 111 
 Digital and Analog Signals and Systems 4
-Prerequisite(s): EE 001B, EE 020, MATH 046;
+EE 001B, EE 020, MATH 046;
 or consent of instructor. Covers continuousand discrete-time signals and systems; linear time-invariant (LTI) systems; impulse response; Fourier analysis; frequency response; Laplace and Z-transforms; and sampling theorem and Nyquist rates. Includes laboratory experiments with signals, transforms, linear digital filtering, and sampling/aliasing.
 
 EE 114 
 Probability, Random Variables, and Random Processes in Electrical Engineering 4
-Prerequisite(s): EE 110A or EE 111;
+EE 110A, EE 111;
 Covers fundamentals of probability theory, random variables, and random processes with applications to electrical and computer engineering. Includes probability theory, random variables, densities, functions of random variables, expectations and moments, and multivariate distributions. Also addresses random processes, autocorrelation function, spectral analysis of random signals, and linear systems with random inputs.
 
 EE 115 
 Introduction to Communication Systems 4
-Prerequisite(s): EE 110B; 
+EE 110B; 
 Covers spectral density and correlation, modulation theory, amplitude, frequency, phase and analog pulse modulation and demodulation techniques, signal-to-noise ratios, and system performance calculations. Laboratory experiments involve techniques of modulation and demodulation. 
 
 EE 116 
 Engineering Electromagnetics 4
-Prerequisite(s): EE 001B;
+EE 001B;
 Transmission lines, fields and field operators, electrostatic and magnetostatic fields, time-varying fields, electrodynamics, electromagnetic waves, plane waves, guided waves, and applications to engineering problems.
 
 EE 117 
 Electromagnetics II
-Prerequisite(s): EE 116; 
+EE 116; 
 Covers applications of Maxwell’s equations. Includes skin effect, boundaryvalue problems, plane waves in lossy media, transverse EM waves, hollow metal waveguides, cavity resonators, microstrips, propagation in dielectrics and optical fibers, optical fibers applications, radiation, and antennas. Covers theoretical and computer modeling exercises in basic electromagnetic technology.
 
 EE 118 
 Radio Frequency Circuit Design 4
-Prerequisite(s): EE 116, EE 100B;
+EE 116, EE 100B;
 Studies design and analysis of radio frequency (RF) circuits. Topics include multiport networks, scattering matrix and S-parameters; transmission lines, matching networks; Smith Chart; RF electromagnetic analysis of waveguides, antennas, filters and couplers; RF transistor equivalent modeling, low-noise amplifier design, noise figure, oscillators and mixers, and phase lock loop.
 
 EE 120A 
 Logic Design 5
-Prerequisite(s): CS 061; 
+CS 061; 
 Covers design of digital systems. Includes Boolean algebra; combinational and sequential logic design; design and use of arithmetic logic units, carry-lookahead adders, multiplexors, decoders, comparators, multipliers, flip-flops, registers, and simple memories; state-machine design; and basic register-transfer level design. Uses hardware description languages, synthesis tools, programmable logic, and significant hardware prototyping. Cross-listed with CS 120A.
 
 EE 120B 
 Introduction to Embedded Systems 4 
-Prerequisite(s): EE 120A;
+EE 120A;
 Introduction to hardware and software design of digital computing systems embedded in electronic devices (e.g., digital cameras or portable video games). Includes embedded processor programming, custom processor design, standard peripherals, memories, interfacing, and hardware/software trade-offs. Involves use of synthesis tools, programmable logic, microcontrollers, and developing working embedded systems. Cross-listed with CS 120B.
 
 EE 123 
 Power Electronics 4
-Prerequisite(s): EE 100B;
+EE 100B;
 Covers the study of power semiconductor devices. Includes magnetic circuits and components; switch mode converters and power supplies; and single, three-phase, pulse width modulation, and resonant pulse inverters. Addresses voltage controllers; direct current and induction motor drives; and design of motion control drive circuits for robotic and industrial automation systems.
 
 EE 128 
 Data Acquisition, Instrumentation, and Process Control 4
-Prerequisite(s): EE 100B, EE 120B;
+EE 100B, EE 120B;
 Covers analog signal transducers, conditioning, and processing; step motors, DC servo motors, and other actuation devices. Explores analog to digital and digital to analog converters; data acquisition systems; microcomputer interfaces to commonly used sensors and actuators; and design principles for electronic instruments, real time process control, and instrumentation.
 
 EE 132 
 Automatic Control 4
-Prerequisite(s): EE 105, EE 110A;
+EE 105, EE 110A;
 mathematical modeling of linear systems for time and frequency domain analysis. Topics include transfer function and state variable representations for analyzing stability, controllability, and observability; and closed-loop control design techniques by Bode, Nyquist, and root-locus methods. Laboratories involve both simulation and hardware exercises.
 
 EE 133 
 Solid-State Electronics 4 
-Prerequisite(s): EE 100A; 
+EE 100A; 
 Presents the fundamentals of solid-state electronics. Topics include electronic band structure, Fermi and quasi-Fermi levels; doping; contacts; junctions; field-effect, bipolar, and metal-oxide-semiconductor (MOS) transistors; and charge-coupled devices. Also reviews device fabrication concepts.
 
 EE 135 
 Analog Integrated Circuit Layout and Design 4
-Prerequisite(s): EE 100B; 
+EE 100B; 
 Covers analog circuit design, layout, and verification of complementary metal oxide semiconductors (CMOSs) with use of computeraided design tools. Topics covered include analog metal oxide semiconductor field effect transistor (MOSFET) models, current sources, references, amplified design, nonlinear analog circuits, dynamic analog circuits, analog-todigital converters (ADCs), and digital-to-analog converters (DACs).
 
 EE 136 
 Semiconductor Device Processing 4 
-Prerequisite(s): EE 133;
+EE 133;
 Presents device simulations and hands-on experience in integrated-circuit fabrication techniques and device characterization. Using four-mask metal-oxide semiconductor (MOS) technology, students fabricate resistors, junctions, capacitors, and MOS transistors and perform electrical evaluation.
 
 EE 137 
 Introduction to Semiconductor Optoelectronic Devices 4
-Prerequisite(s): EE 133; 
+EE 133; 
 An introduction to semiconductor optoelectronic devices for optoelectronic communications and signal processing. Topics include basic optical processes in semiconductors, semiconductor light-emitting diode, semiconductor heterojunction lasers, photodetectors, solar cells, optoelectronic modulation, and switching devices.
 
 EE 138 
 Electrical Properties of Materials 4
-Prerequisite(s): PHYS 40C;
+PHYS 40C;
 Introduces the electrical properties of materials. Includes the electron as a particle and a wave; hydrogen atom and the periodic table; chemical bonds; freeelectron theory of metals; band theory of solids;  semiconductors and dielectrics; measurements of material properties; and growth and preparation of semiconductors.
 
 EE 139 
 Magnetic Materials 4
-Prerequisite(s): PHYS 40C;
+PHYS 40C;
 Introduces fundamentals of magnetic materials for the next-generation magnetic, nanomagnetic, and spintronics-related technologies. Includes basics of magnetism, models of the equivalent magnetic charge and current, paramagnetic and diamagnetic materials, soft and hard magnetic materials, equivalent magnetic circuits, and magnetic system design foundations.
 
 EE 141 
 Digital Signal Processing 4
-Prerequisite(s): EE 110B; 
+EE 110B; 
 Transform analysis of Linear TimeInvariant (LTI) systems, discrete Fourier Transform (DFT) and its computation, Fourier analysis of signals using the DFT, filter design techniques, structures for discrete-time systems. Laboratory experiments on DFT, fast Fourier transforms (FFT), infinite impulse response (IIR), and finite impulse response (FIR) filter design, and quantization effects.
 
 EE 142 
 Pattern Recognition and Analysis of Sensor Data 4
-Prerequisite(s): EE 114;
+EE 114;
 Introduction to pattern recognition for multi-dimensional, multimodal sensor data such as images, videos, and smart grids. Classification and decision functions, feature extraction, regression, and neural networks. Clustering and dimensionality reduction for unsupervised learning. Dynamic models and tracking. Applications of pattern recognition in computer vision, robotics, smart grids, etc.
 
 EE 144 
 Introduction to Robotics 4
-Prerequisite(s): EE 132;
+EE 132;
 Covers basic robot components from encoders to microprocessors. Kinematic and dynamic analysis of manipulators. Adrdresses open- and closed-loop control strategies, task planning, contact and noncontact sensors, robotic image understanding, and robotic programming languages. Experiments and projects include robot arm programming, robot vision, and mobile robots. Cross-listed with ME 144.
 
 EE 145 
 Robotic Planning and Kinematics 4
-Prerequisite(s): ME 120;
+ME 120;
 or consent on instructor. Motion planning and kinematics topics with an emphasis in geometric reasoning, programming, and matrix computations. Motion planning includes configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics includes reference frames, rotations and displacements, and kinematic motion models. Cross-listed with ME 145.
 
 EE 146 
 Computer Vision 4
-Prerequisite(s): ;
+;
 Imaging formation, early vision processing, boundary detection, region growing, two-dimensional and three-dimensional object representation and recognition techniques. Experiments for each topic are carried out.
 
 EE 147 
 Graphics Processing Unit Computing and Programming 4
-Prerequisite(s): EE 120B; 
+EE 120B; 
 Introduces principles and practices of programming graphics processing units (GPUs) using the parallel programming environment. Covers memory/threading models, common data-parallel programming patterns and libraries needed to develop highperformance parallel computing applications. Examines computational thinking; a broader range of parallel execution models; and parallel programming principles. Cross-listed with CS 147.
 
 EE 150 
 Digital Communications 4
-Prerequisite(s): EE 114, EE 115; 
+EE 114, EE 115; 
 Topics include modulation, probability and random variables, correlation and power spectra, information theory, errors of transmission, equalization and coding methods, shift and phase keying, and a comparison of digital communication systems.
 
 EE 151 
 Introduction to Digital Control 4 Lecture
-Prerequisite(s): EE 132, EE 141; 
+EE 132, EE 141; 
 Review of continuous-time control systems; review of Z-transform and properties; sampled-data systems; stability analysis and criteria; frequency domain analysis and design; transient and steady-state response; state-space techniques; controllability and observability; pole placement; observer design; Lyapunov stability analysis. Laboratory experiments complementary to these topics include simulations and hardware design.
 
 EE 152 
 Image Processing 4
-Prerequisite(s): EE 110B;
+EE 110B;
 Digital image acquisition, image enhancement and restoration, image compression, computer implementation and testing of image processing techniques. Students gain hands-on experience of complete image processing systems, including image acquisition, processing, and display through laboratory experiments.
 
 EE 153 
 Electric Drives 4
-Prerequisite(s): EE 123, EE 116;
+EE 123, EE 116;
 Covers the study of electro-mechanical energy conversion; magnetic circuits and components; electric motors; and direct current, induction, and reluctance motor drives. Also addresses servomechanism analysis and design of feedback controllers; energy efficiency; and drive-by-wire, robotic, and industrial automation systems.
 
 EE 155 
 Power System Analysis 4
-Prerequisite(s): EE 001B, EE 116;
+EE 001B, EE 116;
 Covers long-distance transmission of electric power. Emphasizes admittance and impedance modeling of components and systems; optimal power flow calculations and applications; symmetrical and asymmetrical fault calculations; economic operation of large-scale generation and transmission systems; and analysis of transmission and distribution networks.
 
 EE 162 
 Introduction to Nanoelectronics 4
-Prerequisite(s): EE 133;
+EE 133;
 Presents the basic concepts of nanoelectronics with a focus on current flow through nanostructured devices. Topics include new paradigms of nanoelectronics, an atomistic view of electrical resistance, Schroedinger’s equation, Coulomb blockade, basis functions, bandstructure, quantum capacitance, level broadening, and coherent transport.
 
 EE 165 
 Design For Reliability of Integrated Circuits and Systems 4
-Prerequisite(s): EE 100A;
+EE 100A;
 Covers essentials of electrical transient induced failures to integrated circuits (IC) and systems. Addresses basics for different failure and testing models including electrostatic discharge (ESD). Discusses design-for-reliability (DFR) techniques such as ESD protection designs at IC, module, and system levels. Enhances learning with computer aided design (CAD) laboratories.
 
 EE 168 
 Introduction to Very Large Scale Integration (VLSI) Design 4
-Prerequisite(s): EE120A; 
+EE120A; 
 Studies integrated circuit fabrication, device characterization, and circuit simulation. Introduces basic device physics and physical design rules, MOS logic design, and timing and clock schemes. Covers layout generation, subsystem designs, and circuits for alternative logic styles. Also covers design and simulation using hardware description language and CAD tools. Crosslisted with CS 168.
 
 EE 175A 
 Senior Design Project 4 
-Prerequisite(s): EE 120B;
+EE 120B;
 of instructor. Proposal of design of electrical engineering devices or systems under the direction of the instructor. Develops technical specification; considers design constraints and industry standards; emphasizes ethical responsibilities; and promotes staying current on technology and its socioeconomic and environmental impact. Graded In Progress (IP) until EE 175A and EE 175B are completed, at which time, a final letter grade is assigned.
 
 EE 175B 
 Senior Design Project 4
-Prerequisite(s): EE 175A;
+EE 175A;
 in Electrical Engineering. Builds, tests, and redesigns electrical engineering devices or systems. Develops and carries out test plan according to design specification. Presents a demo of the design. Completes project testing and technical documentation. Presents a demo of the design. Satisfactory (S) or No Credit (NC) grading is not available.

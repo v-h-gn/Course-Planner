@@ -1,224 +1,224 @@
 ME 002 
 Introduction to Mechanical Engineering 4 
-Prerequisite(s): MATH 005 or equivalent.
+MATH 005 or equivalent.
 An introduction to the field of mechanical engineering. Topics include the mechanical engineering profession; machine components; forces in structures and fluids; materials and stresses; thermal and energy systems; machine motion; and machine design.
 
 ME 003 
 How Things Work: the Principles Behind Technology 4 
-Prerequisite(s): none. 
+none. 
 Introduces the basic physical principles of engineering systems from everyday life such as automobiles, computers, and household appliances. Topics include conservation laws and the physics and chemistry of engineering systems. Does not confer credit towards a degree in the Bourns College of Engineering.
 
 ME 004 
 Energy and the Environment 4 
-Prerequisite(s): none. 
+none. 
 Covers energy conservation, energy sources, market dynamics, and climate change. Addresses cultural, political, and social trends and their impact on the ecosystem. Discusses renewable and nonrenewable energy sources. Technical background not required. Does not confer credit towards a degree in the Bourns College of Engineering.
 
 ME 005
 The Science of Mythbusting 4 
-Prerequisite(s): none. 
+none. 
 Introduces to the scientific method for non-science majors. Explores the application of scientific concepts to test the validity of myths and events from news stories, movies, and other popular media. Provides critical reasoning skills necessary to interpret advertiser’s product claims, critique information on the World Wide Web, and understand new technologies.
 
 ME 009 
 Engineering Graphics and Design 4 
-Prerequisite(s): none. 
+none. 
 Covers graphical concepts and projective geometry relating to spatial visualization and communication in design. Includes technical sketching, computer-aided design with solid modeling, geometric dimensioning and tolerancing, and an introduction to the engineering design process.
 
 ME 010 
 Statics 4 
-Prerequisite(s): MATH 009C, PHYS 040A or PHYS 040HA. 
+MATH 009C, PHYS 040A or PHYS 040HA. 
 Covers equilibrium of coplanar force systems; analysis of frames and trusses; noncoplanar force systems; friction; and distributed loads.
 
 ME 018A 
 Introduction to Engineering Computation 2 
-Prerequisite(s): MATH 009A or equivalent.
+MATH 009A or equivalent.
 An introduction to the use of MATLAB in engineering computation. Covers scripts and | 412 functions, programming, input/output, two- and three-dimensional graphics, and elementary numerical analysis.
 
 ME 018B 
 Introduction to Computational Modeling in Mechanical Engineering 4 
-Prerequisite(s): MATH 009B with a grade of “ C-” or better; ME 002 with a grade of “C-” or better; ME 018A. 
+MATH 009B with a grade of “ C-” or better; ME 002 with a grade of “C-” or better; ME 018A. 
 Introduces students to concepts of computational modeling in mechanical engineering. Topics include formulation of models to solve problems involving vector analysis, linear algebra, differential and integral calculus. Explores analytical and numerical solutions to problems in mechanical engineering. 
 
 ME 100A 
 Thermodynamics 4 
-Prerequisite(s): MATH 010A, ME 018B with a grade of C- or better, PHYS 040B or PHYS 040HB. 
+MATH 010A, ME 018B with a grade of C- or better, PHYS 040B or PHYS 040HB. 
 Introduces basic concepts and applications of thermodynamics relevant to mechanical engineering. Topics include work and energy, the first law of thermodynamics, properties of pure substances, system and control volume analysis, the Carnot cycle, heat and refrigeration cycles, the second law of thermodynamics, entropy, and reversible and irreversible processes. Credit is awarded for only one of CHE 100 or ME 100A.
 
 ME 100B 
 Thermodynamics 4 
-Prerequisite(s): ME 100A. 
+ME 100A. 
 Topics include the second law of thermodynamics, entropy function, entropy production, analysis of cycles, vapor power systems, gas power systems, refrigeration and heat pump systems, equations of state, thermodynamic property relations, ideal gas mixtures and psychrometrics, multicomponent systems, combustion, and reacting mixtures.
 
 ME 103 
 Dynamics 4 
-Prerequisite(s): MATH 046, ME 010 with a grade of “C-” or better, ME 018B with a grade of C- or better. 
+MATH 046, ME 010 with a grade of “C-” or better, ME 018B with a grade of C- or better. 
 Topics include vector representation of kinematics and kinetics of particles; Newton’s laws of motion; forcemass-acceleration, work-energy, and impulsemomentum methods; kinetics of systems of particles; and kinematics and kinetics of rigid bodies.
 
 ME 110 
 Mechanics of Materials 4 
-Prerequisite(s): CS 009M or ME 018A; MATH 046, ME 010 with a grade of “C-” or better. 
+CS 009M or ME 018A; MATH 046, ME 010 with a grade of “C-” or better. 
 Topics include mechanics of deformable bodies subjected to axial, torsional, shear, and bending loads; combined stresses; and their applications to the design of structures.
 
 ME 113 
 Fluid Mechanics 4 
-Prerequisite(s): MATH 046, PHYS 040B or PHYS 040HB, ME 010 with a grade of C- or better, ME 018B with a grade of C- or better. 
+MATH 046, PHYS 040B or PHYS 040HB, ME 010 with a grade of C- or better, ME 018B with a grade of C- or better. 
 Introduces principles of fluid mechanics relevant to mechanical engineering. Topics include shear stresses and viscosity, fluid statics, pressure, forces on submerged surfaces, Bernoulli and mechanical energy equations, control volume approach, mass conservation, momentum and energy equations, the differential approach, turbulent flow in pipes, and lift and drag. Credit is awarded for only one of CHE 114 or ME 113.
 
 ME 114 
 Introduction to Materials Science and Engineering 4 
-Prerequisite(s): CHEM 001B, PHYS 040C or PHYS 040HC; upper-division standing.
+CHEM 001B, PHYS 040C or PHYS 040HC; upper-division standing.
 Covers materials classification, atomic structure and interatomic bonding, crystal structure of metals, imperfections in solids, diffusion, mechanical properties of engineering materials, strengthening mechanisms, basic concepts of fracture and fatigue, phase diagrams, ceramics, polymers, and composites.
 
 ME 116A 
 Heat Transfer 4 Lecture, 3 hours, discussion, 1 hour. 
-Prerequisite(s): MATH 046, ME 113 (ME 113 may be taken concurrently).
+MATH 046, ME 113 (ME 113 may be taken concurrently).
 Introduces the analysis of steady and transient heat conduction, fin and heat generating systems, two-dimensional conduction, internal and external forced convection, natural convection, radiation heat transfer, heat exchangers, and mass transfer. Credit is awarded for only one of CHE 116 or ME 116A.
 
 ME 116B 
 Heat Transfer 4 
-Prerequisite(s): ME 116A.
+ME 116A.
 Covers analytical and numerical methods in heat transfer and fluid mechanics. Topics include heat conduction and convection, gaseous radiation, boiling and condensation, general aspects of phase change, mass transfer principles, multimode heat transfer and the simulation of thermal fields, and the heat transfer process.
 
 ME 117 
 Combustion and Energy Systems 4 
-Prerequisite(s): ME 100A, ME 113, ME 116A.
+ME 100A, ME 113, ME 116A.
 Discusses premixed and diffusion flames; fuel-air thermochemistry; combustion-driven engine design and operation; engine cycle analysis; fluid mechanics in engine components; pollutant formation; and gas turbines.
 
 ME 118 
 Mechanical Engineering Modeling and Analysis 4 
-Prerequisite(s): MATH 046, ME 018B with a grade of C- or better. 
+MATH 046, ME 018B with a grade of C- or better. 
 Introduces data analysis and modeling used in engineering through the software package MATLAB. Numerical methods include descriptive and inferential statistics, sampling and bootstrapping, fitting linear and nonlinear models to observed data, interpolation, numerical differentiation and integration, and solution of systems of ordinary differential equations. Final project involves the development and evaluation of a model for an engineering system. Credit is awarded for only one of ENGR 118 or ME 118.
 
 ME 120 
 Linear Systems and Controls 4 
-Prerequisite(s): EE 001A, EE 01LA, ME 018B with a grade of C- or better. 
+EE 001A, EE 01LA, ME 018B with a grade of C- or better. 
 Introduces the modeling and analysis of dynamic systems, emphasizing the common features of mechanical, hydraulic, pneumatic, thermal, electrical, and electromechanical systems. Controls are introduced through state equations, equilibrium, linearization, stability, and time and frequency domain analysis.
 
 ME 121 
 Feedback Control 4 
-Prerequisite(s): ME 118, ME 120. 
+ME 118, ME 120. 
 Introduces students to the analysis and design of feedback control systems using classical control methods. Topics include control system terminology, block diagrams, analysis and design of control systems in the time and frequency domains, closed-loop stability, root locus, Bode plots, and an introduction to analysis in state-space.
 
 ME 122 
 Vibrations 4 
-Prerequisite(s): ME 103.
+ME 103.
 Covers free and forced vibration of discrete systems with and without damping resonance; matrix methods for multiple degree-of-freedom systems; normal modes, coupling, and normal coordinates; and use of energy methods.
 
 ME 130 
 Kinematic and Dynamic Analysis of Mechanisms 4 
-Prerequisite(s): ME 009, ME 103. 
+ME 009, ME 103. 
 Explores the kinematic analysis of planar mechanisms including linkages, cams, and gear trains. Introduces concepts of multibody dynamics.
 
 ME 131 
 Design of Mechanisms 4 
-Prerequisite(s): ME 130. 
+ME 130. 
 Involves design of planar, spherical, and spatial mechanisms using both exact and approximate graphical and analytical techniques. Requires a computer-aided design project.
 
 ME 133 
 Introduction to Mechatronics 4 
-Prerequisite(s): ME 120. 
+ME 120. 
 Introduces hardware, software, sensors, actuators, physical systems models, and control theory in the context of control system implementation. Covers data acquisition (Labview), sensors, actuators, electric circuits and components, semiconductor electronics, logic circuits, signal processing using analog operational amplifiers, programmable logic controllers, and microcontroller programming and interfacing. Uses MATLAB and Simulink.
 
 ME 134 
 Microstructural Transformations in Materials 4 
-Prerequisite(s): ME 114 or consent of instructor.
+ME 114 or consent of instructor.
 An introductory study of the fundamentals (thermodynamics and kinetics) controlling microstructural transformations in materials and their application to both liquid-solid and solid-solid transformations. Focuses on the important transformations that ultimately control the microstructures and properties of crystalline solids. Cross-listed with MSE 134.
 
 ME 135 
 Transport Phenomena 4 
-Prerequisite(s): ME 100A, ME 113, ME 116A. 
+ME 100A, ME 113, ME 116A. 
 Introduces new concepts of thermodynamics, fluid mechanics, and heat transfer: sychrometry, combustion, one-dimensional compressible flow, and turbomachinery. Integrates the most important concepts of transport of momentum, heat, and mass.
 
 ME 136 
 Environmental Impacts of Energy Production and Conversion 4 
-Prerequisite(s): ME 100A, ME 113, ME 116A. 
+ME 100A, ME 113, ME 116A. 
 Covers thermodynamics, heat transfer, and fluid mechanics as applied to the examination of the environmental impacts of energy production and conversion. Topics include pollution associated with fossil fuel combustion, environmental impacts of energy use, turbulent transport of pollutants, and principles used in the design of pollution control equipment.
 
 ME 137 
 Environmental Fluid Mechanics 4 
-Prerequisite(s): ME 100A, ME 113. 
+ME 100A, ME 113. 
 Covers the application of fluid mechanics to flows in the atmosphere and oceans. Topics include hydrostatic balance, Coriolis effects, geostrophic balance, boundary layers, turbulence, tracer and heat transport.
 
 ME 138 
 Transport Phenomena in Living Systems 4 
-Prerequisite(s): BIEN 105 or ME 113, MATH 046, PHYS 040B or PHYS 040HB. 
+BIEN 105 or ME 113, MATH 046, PHYS 040B or PHYS 040HB. 
 An introduction to the application of the basic conservation laws of mechanics (mass, linear momentum, and energy) to the modeling of complex biological systems. Emphasizes how these concepts can explain and predict life processes.
 
 ME 140 
 Ship Theory 4 
-Prerequisite(s): ME 103, ME 113. 
+ME 103, ME 113. 
 Covers ship hull form, static and dynamic stability, ship response to waves, grounding and flooding, numerical integration of complex three-dimensional curved shapes and mathematical modeling of curved surfaces. Explores engineering approximations necessary for applications of fundamental principles to complex engineering systems such as ships.
 
 ME 144 
 Introduction to Robotics 4 
-Prerequisite(s): EE 132. 
+EE 132. 
 Covers basic robot components from encoders to microprocessors. Kinematic and dynamic analysis of manipulators. Adrdresses open- and closed-loop control strategies, task planning, contact and noncontact sensors, robotic image understanding, and robotic programming languages. Experiments and projects include robot arm programming, robot vision, and mobile robots. Cross-listed with EE 144.
 
 ME 145 
 Robotic Planning and Kinematics 4 
-Prerequisite(s): ME 120 or equivalent; or consent on instructor. 
+ME 120 or equivalent; or consent on instructor. 
 Motion planning and kinematics topics with an emphasis in geometric reasoning, programming, and matrix computations. Motion planning includes configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics includes reference frames, rotations and displacements, and kinematic motion models. Cross-listed with EE 145.
 
 ME 153 
 Finite Element Methods 4 
-Prerequisite(s): ME 118. 
+ME 118. 
 Covers weak form formulation, the Galerkin method and its computational implementation, mesh generation, data visualization, as well as programming finite element codes for practical engineering applications.
 
 ME 156 
 Mechanical Behavior of Materials 4 
-Prerequisite(s): senior standing; ME 110; ME 114. 
+senior standing; ME 110; ME 114. 
 Introduces the theory and experimental techniques for testing the mechanical behavior of materials and structures. Covers the fundamental mechanisms of deformation and failure of metals, ceramics, polymers, composite materials, and electronic materials as well as structural design and materials selection.
 
 ME 170A 
 Experimental Techniques 4 
-Prerequisite(s): EE 001A, EE 01LA, ME 018B. 
+EE 001A, EE 01LA, ME 018B. 
 Covers the principles and practice of measurement and control, and the design and implementation of experiments. Topics include dimensional analysis, error analysis, signal-to-noise problems, filtering, data acquisition and data reduction, and statistical analysis. Includes experiments on the use of electronic devices and sensors, and practice in technical report writing.
 
 ME 170B 
 Experimental Techniques 4 
-Prerequisite(s): ME 103, ME 110, ME 113, ME 116A, ME 170A.
+ME 103, ME 110, ME 113, ME 116A, ME 170A.
 Analysis and verification of engineering theory using laboratory measurements in advanced, project-oriented experiments involving fluid flow, heat transfer, structural dynamics, thermodynamic systems, and electromechanical systems.
 
 ME 174 
 Machine Design 4 
-Prerequisite(s): ME 009, ME 103 (can be taken concurrently), ME 110, ME 114. 
+ME 009, ME 103 (can be taken concurrently), ME 110, ME 114. 
 An introduction to the fundamentals of strength-based design. Topics include deflection and stiffness, static failure, and fatigue failure.
 
 ME 175A 
 Professional Topics in Engineering 2 
-Prerequisite(s): senior standing in Mechanical Engineering major; ME 009. 
+senior standing in Mechanical Engineering major; ME 009. 
 Topics include technical communication, team work, project management, engineering economics, professional ethics, and computer-aided design. Satisfactory (S) or No Credit (NC) grading is not available.
 
 ME 175B 
 Mechanical Engineering Design 3 
-Prerequisite(s): senior standing in Mechanical Engineering. ME 113, ME 116A, ME 170A, ME 174, ME 175A (may be taken concurrently).
+senior standing in Mechanical Engineering. ME 113, ME 116A, ME 170A, ME 174, ME 175A (may be taken concurrently).
 Outlines the defining of a design problem and the conception and detail of the design solution. Explores design theory, design for safety, reliability, manufacture, and assembly. Graded In Progress (IP) until ME 175B and ME 175C are completed, at which time a final, letter grade is assigned.
 
 ME 175C 
 Mechanical Engineering Design 3 
-Prerequisite(s): senior standing in Mechanical Engineering; ME 175B.
+senior standing in Mechanical Engineering; ME 175B.
 Students create, test, and evaluate a prototype based on the project design generated in ME 175B. Lecture topics include prototyping techniques, design verification, and special topics in design. Satisfactory (S) or No Credit (NC) grading is not available.
 
 ME 175D 
 Technological Entrepreneurship 4 
-Prerequisite(s): senior standing in Mechanichal Enigneering. 
+senior standing in Mechanichal Enigneering. 
 Introduces concepts of business and management required to convert a technology into a viable business. Topics include technological assessment, market analysis, strategy, decision making, legal and intellectual property issues in business, financial analysis, business ethics and communication. Satisfactory (S) or No Credit (NC) grading is not available
 
 ME 176 
 Sustainable Product Design 4 
-Prerequisite(s): ME 103, ME 110, ME 113, ME 116A. 
+ME 103, ME 110, ME 113, ME 116A. 
 Introduces the principles of sustainable product design. Topics include life cycle design; design for reliability, maintainability, and recycling/reuse/ remanufacture; materials selection; and manufacturing processes. Includes project in which students analyze the environmental impact of a product and redesign it to reduce the impact. Credit is awarded for only one of ME 176 or ME 210.
 
 ME 180 
 Optics and Lasers in Engineering 4 
-Prerequisite(s): senior standing; ME 010, ME 110, ME 170A. 
+senior standing; ME 010, ME 110, ME 170A. 
 Focuses on principles of optics and lasers, wave equations, interferometry, diffraction, lasermaterial interactions. Applications in analytical characterization including confocal microscopy, Raman spectroscopy, mechanical deformation analysis, scanning probe microscopy, ultravioletvisible spectrophotometry, photoluminescence, optical detectors, and lasers in materials processing.
 
 ME 190 
 Special Studies 1 to 5 
-Prerequisite(s): consent of instructor, department chair, and Mechanical Engineering Undergraduate Program Committeechair. 
+consent of instructor, department chair, and Mechanical Engineering Undergraduate Program Committeechair. 
 Individual study to meet special curricular needs. Requires a final written report. Course is repeatable to a maximum of 9 units.
 
 ME 197 
 Research For Undergraduates 1 to 4 
-Prerequisite(s): consent of instructor and Mechanical Engineering Undergraduate Program Committee chair. 
+consent of instructor and Mechanical Engineering Undergraduate Program Committee chair. 
 Directed research in a particular subject relevant to mechanical engineering. Requires a final written technical report. Course is repeatable to a maximum of 8 units

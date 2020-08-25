@@ -1,144 +1,134 @@
 BIEN 001 
 Introductory Colloquium in Bioengineering 1
-Prerequisites:
+
 Colloquia on current topics in bioengineering and other related fields delivered at an introductory level. Presented by faculty members, visiting scientists, or individuals with industrial bioengineering experience. Graded Satisfactory (S) or No Credit (NC).
 
 BIEN 010 
 Overview of Bioengineering 4 
-Prerequisites:
+
 Provides an overview of the various aspects of bioengineering and introduces bioengineering design. Illustrates the application of engineering principles for the design of various products to health science industries. Covers diagnostic instruments, artificial organs, biotechnology, and cell and tissue engineering. Covers engineering ethics.
 
 BIEN 101 
 Quantitative Biochemistry 4 
-Prerequisite(s): BIOL 005A; CHEM 008A and CHEM 08LA; MATH 046
+BIOL 005A, CHEM 008A, MATH 046
 Provides Bioengineering students with an in-depth experience in applying mathematical modeling and simulation methods to understand the dynamics of biochemical systems. Prepares for designing new applications of genetic engineering.
 
 BIEN 105 
 Circulation Physiology 4 
-Prerequisite(s): BIEN 110
+BIEN 110
 Introduces tensor and vector mathematics that describe the conservation of momentum and mass transport in biological sciences,the cardiovascular system, and pulmonary system. Includes constitutive equations, significance of fluid stress in biological vessels, and the physiological relevance of fundamental parameters. Emphasizes the relation between function and system behavior.
 
 BIEN 110 
 Biomechanics of the Human Body 4
-Prerequisite(s): CHEM 001C or CHEM 01HC; CS010; MATH 010A; PHYS 040B or PHYS 040HB
+CHEM 001, CS010, MATH 010A, PHYS 040B
 Introduces the motion, structure, and function of the musculoskeletal system, the cardiovascular system, and the pulmonary system. Topics include applied statics, kinematics, and dynamics of these systems and the mechanics of various tissues (ligament, bone, heart, blood vessels, lung). Emphasizes the relation between function and material properties of these tissues.
 
 BIEN 115 
 Quantitative Physiology 4 
-Prerequisite(s): BIEN 110; consent of instructor is required for non-majors
+BIEN 110
 Analyzes engineering aspects of physiological systems. Covers the nervous system, muscular system, respiratory system, renal system, and endocrine system based on fundamental principles of material transport across biological membrane.
 
 BIEN 120 
 Biosystems and Signal Analysis 4 
-Prerequisite(s): BIEN 105
+BIEN 105
 Provides basic knowledge for the quantitative analysis of the dynamic behavior of biological systems. Particular applications include neural systems, control of metabolic and hormonal systems, and design of instruments for monitoring and controlling biological systems. Topics include system theory, signal properties, control theory, and transfer functions.
 
 BIEN 125
 Biotechnology and Molecular Bioengineering 
-Prerequisite(s): BIEN 101
+BIEN 101
 Provides an overview of biochemical processes in cells and their use in developing new products and processes. Presents cellular processes such as metabolism, protein synthesis, enzyme behavior, and cell signaling and control from an engineering viewpoint of modeling and control.
 
 BIEN 130
 Bioinstrumentation 4 
-Prerequisite(s): concurrent enrollment in BIEN 130L or a grade of “C-” or better in BIEN 130L; EE 001A and EE 01LA with grades of “C-” or better
+EE 001A
 Introduces basic components of instruments for biological applications. Explores sources of signals and physical principles governing the design and operation of instrumentation systems used in medicine and physiological research. Topics include data acquisition and characterization; signal-to-noise concepts and safety analysis; and interaction of instrument and environment.
 
 BIEN 130L
 Bioinstrumentation Laboratory 2 
-Prerequisite(s): concurrent enrollment in BIEN 130 or a grade of “C-” or better in BIEN 130; EE 001A and EE 01LA with grades of “C-” or better
+EE 001A
 Laboratory experience with instrumental methods of measuring biological systems. Introduces various sensors and transducers to measure physical, chemical, and biological properties. Covers reliability, dynamic behavior, and data analysis.
 
 BIEN 135 
 Biophysics and Biothermodynamics 4 
-Prerequisite(s): BIEN 101, MATH 10B, MATH 046, PHYS 040C or PHYS 040HC
+BIEN 101, MATH 10B, MATH 046, PHYS 040C
 An introduction to the application of thermodynamic principles to understanding the behavior of biological systems. Discusses biophysical properties of biomacromolecules such as proteins, polynucleotides, carbohydrates, and lipids, as well as the methods of characterizing their properties and interactions.
 
 BIEN 136
 Tissue Engineering 4 
-Prerequisite(s): BIOL 005A and BIOL 005B, CHEM 001C or CHEM 01HC or equivalents; junior or senior standing or consent of instructor. 
+BIOL 005A, CHEM 001C
 Covers progress in cellular and molecular biology and engineering. Provides the basis for advancing tissue repair and regeneration with the goal of restoring compromised tissue functions. Presents methods for cell culture, tissue design and development, manipulation of the cell/ tissue microenvironment, and current strategies for functional reconstruction of injured tissues.
 
 BIEN 137 
 Advanced Biomechanics 4 
-Prerequisite(s): BIEN110, BIOL 005B, MATH 046, PHYS 040A or equivalents; or consent of instructor.
+BIEN 110, BIOL 005B, MATH 046, PHYS 040A
 Focuses on mechanical characterization of biological tissues at the cellular, organ, and system level. Explores biomechanical factors of physiological and pathological conditions.
 
 BIEN 138 
 Fundamental Principles of Wound Repair 4 
-Prerequisite(s): BIEN 105, BIOL 002 or BIOL 005A, or equivalents; or consent of instructor.
+BIEN 105, BIOL 002, BIOL 005A
 Provides fundamental understanding of the molecular and cellular biology of wound repair and regeneration. Focuses on the spatiotemporal roles of inflammatory cytokines; growth factors; extracellular matrix; mechanical forces; tissue cells and adult stem/progenitor cells in soft tissue repair. Topics include embryonic wound regeneration and adult skin and cardiovascular repair.
 
 BIEN 140A 
 Biomaterials 4 
-Prerequisite(s): BIEN 101 or BCH 100, MATH 010B, PHYS 040B or PHYS 040HB; or consent of instructor
+BIEN 101, MATH 010B, PHYS 040B
 Covers the principles of materials science and engineering with attention given to topics in bioengineering. Explores atomic structures, hard treatment, fundamentals of corrosion, manufacturing processes, and characterization of materials.
 
 BIEN 140B 
 Biomaterials 4 
-Prerequisite(s): PHYS 040B or PHYS 040HB. 
+PHYS 040B
 Covers the structure-property relations of metals, ceramics, polymers, and composites, as well as hard and soft tissues such as bone, teeth, cartilage, ligament, skin, muscle, and vasculature. Focuses on behavior of materials in the physiological environment.
 
 BIEN 142 
 Introductory Biomedical Optical Imaging 4 
-Prerequisite(s): PHYS 040C or PHYS 040HC; and MATH 010B; or consent of instructor.
+PHYS 040C, MATH 010B
 Examines fundamental theory and basic design of biomedical optical imaging systems. Topics include a basic understanding of the working principles of optical components, diagnostic light-tissue interaction, and design of imaging systems to exploit the interaction of light with biological phenomena.
-
-BIEN 155 
-Biotechnology Laboratory 2 
-Prerequisite(s): concurrent enrollment in BIEN 175A or a grade of “C-”or better in BIEN 175A; BIEN 101, BIEN 125. 
-Laboratory experience in cell culture, bioreactors, optical techniques, array techniques, and separation and purification methods.
 
 BIEN 159 
 Dynamics of Biological Systems 4 
-Prerequisite(s): BIOL 005B, MATH 046; or consent of instructor. 
+BIOL 005B, MATH 046
 Covers engineering principles for the analysis and modeling of biological phenomena. Topics include molecular diffusion and transport, membranes, ligandbioreceptor interactions, enzyme kinetics, and dynamics of metabolic pathways. Examines the application of these principles to the design of bioreactors, bioassays, drug delivery systems, and artificial organs. 
 
 BIEN 160 
 Biomedical Imaging 4 
-Prerequisite(s): BIEN 120
+BIEN 120
 An introduction to the fundamental physics and engineering principles for medical imaging systems. Covers X-ray, ultrasound, radionuclide, magnetic resonance imaging, positron emission tomography, optical coherent tomography, and other optical methods. Includes image formation and reconstruction, image characteristics, and quality and image processing.
 
 BIEN 165 
 Biomolecular Engineering 4 
-Prerequisite(s): BIEN 135, or consent of instructor. 
+BIEN 135 
 Emphasizes engineering, biochemical, and biophysical concepts and technologies intrinsic to specific topics of biomolecular engineering. Introduces the history of genetic and protein engineering. Topics include biological thermodynamics, molecular kinetics, biochemical and biophysical approaches, protein engineering, high-throughput screening technologies, and protein engineering with unnatural amino acids.
 
 BIEN 166 
 Bioinspired Engineering For Sustainable Energy 4 
-Prerequisite(s): BIEN 140A/CEE 140A
+BIEN 140A
 Introduces the use of concepts from basic biological sciences (including biochemistry and biophysics) for applied energy engineering. Covers biological energy conversion (including photosynthesis) and its implication for sustainable energy technologies. Discusses recent advances in biomimetic and bioinspired energy conversion.
 
 BIEN 167
 Medical Diagnostics 4 
-Prerequisite(s): BIEN 130 or consent of instructor.
+BIEN 130
 Provides an overview of medical diagnostics. Topics include methods of biochemical detection, genotyping, DNA sequencing, medical imaging, hematology, microfluidics, epidemiology, diagnostics for point-of-care and resource-limited settings, and case studies of commercially successful diagnostic products.
 
 BIEN 175A
 Senior Design 2 
-Prerequisite(s): concurrent enrollment in BIEN 155 or a grade of “C-” or better in BIEN 155; BIEN 010 and BIEN 130L with grades of “C-” or better.
+BIEN 010, BIEN 130L
 Covers the entire design process for bioengineering. Explores intellectual property, quality control, and regulatory and ethical considerations. Requires working in small teams effectively to prepare formal engineering reports, web pages notebooks, oral presentations, a project demonstration, and a business plan. Graded In Progress (IP) until BIEN 175A, BIEN 175B, and BIEN 175C are completed, at which time a final letter grade is assigned.
 
 BIEN 175B 
 Senior Design 4 
-Prerequisite(s): BIEN 175A; senior standing in Bioengineering. 
+BIEN 175A
 Covers the entire design process for bioengineering. Explores intellectual property, quality control, and regulatory and ethical considerations. Requires working in small teams effectively to prepare formal engineering reports, web pages, notebooks, oral presentation, a project demonstration, and a business plan. Graded In Progress (IP) until BIEN 175A, BIEN 175B, and BIEN 175C are completed, at which time a final, letter grade is assigned.
 
 BIEN 175C 
 Senior Design 4 
-Prerequisite(s): BIEN 175B. 
+BIEN 175B
 Covers the entire design process for bioengineering. Explores intellectual property, quality control, and regulatory and ethical considerations. Requires working in small teams effectively to prepare formal engineering reports, web pages, notebooks, oral presentations, a project demonstration, and a business plan.
 
 BIEN 190 
 Special Studies 1 to 5 
-Prerequisite(s): upper division standing; consent of instructor and department chair. 
+
 Provides individual study to meet special curricular needs. Course is repeatable to a maximum of 9 units.
 
 BIEN 197 
 Research For Undergraduates 1 to 4 
-Prerequisite(s): consent of instructor and Bioengineering undergraduate program advisor. 
-Directed research on a topic relevant to bioengineering. Requires a final written report. Graded Satisfactory (S) or No Credit (NC). Course is repeatable.
 
-BIEN 198
-R’course: Variable Topics 1 
-Prerequisite(s): permission needed from department; sophomore standing or better.
-An opportunity for UCR undergraduate students to develop leadership skills, innovate the undergraduate curriculum, and promote democratic, experiential education. Original course topics are variable and unique from other departmental course offerings, designed to highlight the student facilitators’ expertise while working closely with a faculty mentor. Graded Satisfactory (S) or No Credit (NC).Course is repeatable as topics change to a maximum of 8 units.
+Directed research on a topic relevant to bioengineering. Requires a final written report. Graded Satisfactory (S) or No Credit (NC). Course is repeatable.
