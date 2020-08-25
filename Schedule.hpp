@@ -14,7 +14,10 @@ class Quarter() {
     private:
         int quarter;
         int units;
+
+        // Not sure whether to store the classes as Components or as Node
         vector<CourseComponent*> classes;
+        vector<CourseNode*< courses;
 
     public: 
         Quarter() {
@@ -24,14 +27,15 @@ class Quarter() {
         }
 
         // List of courses get passed into the quarter. Quarters can be stored in a vector to output the schedule
-        Quarter(int quarter, int units, vector<CourseComponent* classes) {
+        Quarter(int quarter, int units) {
             quarter = quarter;
             units = units;
-            classes = classes;
+            classes = 0;
         }
 
-
-
+        bool add_class(CourseNode* newClass) {
+            class.push_back(newClass);
+        }
 };
 
 
