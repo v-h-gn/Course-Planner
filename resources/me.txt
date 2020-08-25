@@ -222,3 +222,11 @@ ME 197
 Research For Undergraduates 1 to 4 
 Prerequisite(s): consent of instructor and Mechanical Engineering Undergraduate Program Committee chair. 
 Directed research in a particular subject relevant to mechanical engineering. Requires a final written technical report. Course is repeatable to a maximum of 8 units
+<<<<<<< HEAD
+=======
+
+ME 198 
+R’course: Variable Topics 1 
+Prerequisite(s): permission needed from department; sophomore standing or better. 
+An opportunity for UCR undergraduate students to develop leadership skills, innovate the undergraduate curriculum, and promote democratic, experiential education. Original course topics are variable and unique from other departmental course offerings, designed to highlight the student facilitators’ expertise while working closely with a faculty mentor. Graded Satisfactory (S) or No Credit (NC).Course is repeatable as topics change to a maximum of 8 units.
+>>>>>>> c71ec617c4fd6497fd2516ac5767e711b0a0f892
