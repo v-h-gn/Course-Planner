@@ -1,16 +1,35 @@
 #include "CourseComponent.hpp"
 #include "CatalogReader.hpp"
+#include "Course.hpp"
 #include "Prerequisite.hpp"
 #include "Course.hpp"
-#include "major/AbstractMajor.hpp"
+#include "AbstractMajor.hpp"
 #include "CourseTree.hpp"
 
 #include <iostream>
 #include <vector>
 #include <string>
 #include <algorithm>
+#include <list>
 
 using namespace std;
+
+void buildGraph(unordered_map<> courses, AbstractMajor* major, CourseComponent* root) {
+	 for(auto course : major->getRequirements()) {
+         try {
+		 	list<CourseComponent*> cList = courses.at(course);
+		 } catch (out_of_range &e) {
+			 
+		 }
+		 if(clist.size() == 1) {
+			root->add(cList.at(0));
+		 } else {
+			 for(auto iter = cList.begin() + 1; iter < cList.end(); ++iter) {
+			 	 root->add(buildGraph(courses, major, *iter));
+			 }
+		 }
+	 }
+}
 
 int main() {
 
@@ -78,7 +97,8 @@ int main() {
 
     // TODO
     // Build the tree using the unordered_map majorCourses
-    buildGraph(majorCourses);
+    CourseComponent* root;
+    buildGraph(majorCourses, userMajor, root);
     
 
     // TODO

@@ -2,6 +2,7 @@
 #define __COURSECOMPONENT_HPP__
 
 #include <string>
+#include <vector>
 
 using namespace std;
 
@@ -11,6 +12,11 @@ class CourseComponent {
         string courseDescription;
         int courseUnits;
         bool taken = false;
+
+        // Create a vector of CourseComponents to store prerequiites
+        vector<CourseComponent*> components;
+
+
     public:
 
         // Constructor
