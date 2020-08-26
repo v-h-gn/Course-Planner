@@ -3,6 +3,7 @@
 #include "Prerequisite.hpp"
 #include "Course.hpp"
 #include "major/AbstractMajor.hpp"
+#include "CourseTree.hpp"
 
 #include <iostream>
 #include <vector>
@@ -74,6 +75,16 @@ int main() {
     
     // Returns unordered map of courses, stored by "name of course", <vector of linked courses and itself>
     unordered_map<string, list<CourseComponent*>>* majorCourses = reader.createCourseHeirarchy();
+
+    // TODO
+    // Build the tree using the unordered_map majorCourses
+    buildGraph(majorCourses);
+    
+
+    // TODO
+    // Use the tree to create the schedule
+
+    
         
     
 

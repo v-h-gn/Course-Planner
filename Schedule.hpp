@@ -2,6 +2,7 @@
 #define __SCHEDULE_HPP__
 
 #include "CourseTree.hpp"
+#include "CourseTree.hpp"
 
 #include <iostream>
 #include <string>
