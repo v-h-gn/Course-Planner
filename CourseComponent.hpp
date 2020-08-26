@@ -3,6 +3,8 @@
 
 #include <string>
 
+using namespace std;
+
 class CourseComponent {
 
     public:
@@ -11,25 +13,25 @@ class CourseComponent {
         CourseComponent() { };
 
         // Adds courses to the list 
-        virtual void add(CourseComponent *newCourseComponent);
+        virtual void add(CourseComponent *newCourseComponent) = 0;
 
         // Removes courses from list
-        virtual void remove(CourseComponent *newCourseComponent);
+        virtual void remove(CourseComponent *newCourseComponent) = 0;
 
         // Returns the course stored at a specific index
-        CourseComponent getComponent(int componentIndex);
+        // CourseComponent getComponent(int componentIndex);
 
         // Accessor that returns the course name
-        virtual std::string getCourseName();
+        virtual string getCourseName() = 0;
 
         // Accessor that returns the course number
         // Course catalog does not include CRN
         // virtual int getCourseNumber();
 
         // Accessor that returns the course description
-        virtual std::string getCourseDescription();
+        virtual string getCourseDescription() = 0;
 
-        virtual void displayCourseInfo();
+        virtual void displayCourseInfo() = 0;
 
 };
 

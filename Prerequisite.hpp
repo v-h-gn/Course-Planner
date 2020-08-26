@@ -7,8 +7,6 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
-
 class Prerequisite : public CourseComponent {
 
         protected:

@@ -7,8 +7,6 @@
 #include <vector>
 #include <iostream>
 
-using namespace std;
-
 class Course : public CourseComponent {
 
         protected:

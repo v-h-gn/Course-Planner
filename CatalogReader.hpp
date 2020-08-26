@@ -12,9 +12,7 @@
 #include "CourseComponent.hpp"
 #include "Course.hpp"
 #include "Prerequisite.hpp"
-#include "AbstractMajor.hpp"
-
-using namespace std;
+#include "major/AbstractMajor.hpp"
 
 /* Authored by Vahagn Tovmasian
  * 
@@ -24,7 +22,7 @@ using namespace std;
 class CatalogReader {
     private:
         AbstractMajor* major;
-        const string resourcesPath = "../resources";
+        const string resourcesPath = "resources/";
         const string resourceExtension = ".txt";
         const string debugStringPrefix = "DEBUG_MODE | CatalogReader | ";
     public:
@@ -36,34 +34,20 @@ class CatalogReader {
          * the Course, Co-Requisites, and Direct Pre-requisites.
          */
         unordered_map<string, list<CourseComponent*>>* createCourseHeirarchy() const {
-            ifstream fin(resourcesPath + major->getName() + resourceExtension);
+            ifstream fin(""+ resourcesPath + major->getName() + resourceExtension);
 
             unordered_map<string, CourseComponent*>* courses = new unordered_map<string, CourseComponent*>(20);
             unordered_map<string, list<CourseComponent*>>* heirarchy = new unordered_map<string, list<CourseComponent*>>(20);
-
+            cout << resourcesPath + major->getName() + resourceExtension << endl;
             // if file can't be opened, the program will fail, we throw exception
             if (!fin.is_open()) {
-                throw exception("Error, resource file for your major could not be found.");
+                throw runtime_error("Error, resource file for your major could not be found.");
             }
             
             while (fin.good() && !fin.eof()) {
                 // put file of classes into map for easy access                
                 CourseComponent* course = constructCourse(fin);             
                 courses->emplace(course->getCourseName(), course);
-            }
-
-            for (auto requiredCourse : *(major->getRequiredCourses())) {
-                
-                CourseComponent* course;
-
-                try {
-                    course = courses->at(requiredCourse);
-                } catch (out_of_range &e) {
-                    
-                }
-                // TODO: get prerequisites & put them in heirarchy map.
-                
-                
             }
 
 
@@ -80,13 +64,15 @@ class CatalogReader {
                 
                 // get course info
                 getline(fin, courseName);
+                cout << courseName << endl;
                 getline(fin, courseDescriptiveName);
-                courseUnits = stoi(courseDescriptiveName.substr(courseDescriptiveName.size() - 1));
+                cout << courseDescriptiveName << endl;
+                courseUnits = getUnits(courseDescriptiveName);
                 getline(fin, prerequisites);
+                cout << prerequisites << endl;
                 getline(fin, courseDescription);
-
+                cout << courseDescription << endl;
                 string combinedDescription = (courseDescriptiveName.append("\n").append(courseDescription));
-
                 getPrereqList(prerequisites);
 
 
@@ -98,9 +84,7 @@ class CatalogReader {
         }
 
         vector<string>* getPrereqList(string prerequisites) const {
-            string newStr = prerequisites.substr(strlen("Prerequisite(s):"), prerequisites.find(";"));
-            
-            string status = prerequisites.substr(prerequisites.find(";") + 1);
+            string newStr = prerequisites;
             
             vector<string>* prereqs = new vector<string>();
 
@@ -108,11 +92,20 @@ class CatalogReader {
 
             string temp; 
 
-            while (str << temp) {
-                prereqs->push_back(temp;
+            while (getline(str, temp , ',')) {
+                cout << "Prereq |" << temp << "| ";
+                prereqs->push_back(temp);
             }
 
             return prereqs;
+        }
+
+        int getUnits(string courseDescriptiveName) const {
+            try {
+                return stoi(courseDescriptiveName.substr(courseDescriptiveName.size() - 2));
+            } catch(invalid_argument &e) {
+                return 4;
+            }
         }
 };
 
