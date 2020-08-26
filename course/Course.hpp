@@ -10,8 +10,9 @@
 class Course : public CourseComponent {
 
     private:    
-        vector<CourseComponent*> courses;
-        string courseRequisites;
+        vector<CourseComponent*> prerequisites;
+        vector<string> courseRequisites;
+
     public:
         // Defualt Constructor
         Course() : CourseComponent() {
@@ -36,23 +37,23 @@ class Course : public CourseComponent {
 
         // Adds other courses to the list 
         void add(CourseComponent *newCourseComponent) {
-            courses.push_back(newCourseComponent);
+            prerequisites.push_back(newCourseComponent);
         }
 
         // Removes courses from the list
         void remove(CourseComponent *newCourseComponent) {
             unsigned int i;
-            for (i = 0; i < courses.size(); ++i) {
-                if (courses[i] == newCourseComponent) {
-                    delete newCourseComponent;
-                    return;
+            for (i = 0; i < prerequisites.size(); ++i) {
+                if (prerequisites[i] == newCourseComponent) {
+                    // TODO
+                    // Revisit this to remove everything from a course subtree
                 }
             }
         }
 
         // Returns the course stored at a specific index
         CourseComponent* getComponent(int componentIndex) {
-            return courses.at(componentIndex);
+            return prerequisites.at(componentIndex);
         }
 
         // Check this function

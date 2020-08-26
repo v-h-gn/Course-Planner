@@ -23,7 +23,9 @@ class Prerequisite : public CourseComponent {
                 courseDescription = newCourseDescription;
             }
 
+            // Empty definition because it doesn't do anything
             void add(CourseComponent* p) {}
+
             void remove(CourseComponent* p) {}
 
             void displayCourseInfo() { 
