@@ -6,11 +6,15 @@
 using namespace std;
 
 class CourseComponent {
-
+    protected:
+        string courseName;
+        string courseDescription;
+        int courseUnits;
+        bool taken = false;
     public:
 
         // Constructor
-        CourseComponent() { };
+        CourseComponent() {};
 
         // Adds courses to the list 
         virtual void add(CourseComponent *newCourseComponent) = 0;
@@ -22,14 +26,18 @@ class CourseComponent {
         // CourseComponent getComponent(int componentIndex);
 
         // Accessor that returns the course name
-        virtual string getCourseName() = 0;
+        virtual string getCourseName() {
+            return courseName;
+        }
 
-        // Accessor that returns the course number
-        // Course catalog does not include CRN
-        // virtual int getCourseNumber();
+        virtual int getCourseUnits() {
+            return courseUnits;
+        }
 
         // Accessor that returns the course description
-        virtual string getCourseDescription() = 0;
+        virtual string getCourseDescription() {
+            return courseDescription;
+        }
 
         virtual void displayCourseInfo() = 0;
 
