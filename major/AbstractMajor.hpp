@@ -1,22 +1,20 @@
-#ifndef __ABSTRACTMAJOR_HPP
-#define __ABSTRACTMAJOR_HPP
+#ifndef __ABSTRACTMAJOR_HPP__
+#define __ABSTRACTMAJOR_HPP__
 
-#include "../CatalogReader.hpp"
 #include <vector>
 #include <string>
+
+using std::string;
+using std::vector;
 
 class AbstractMajor {
     protected:
         string name;
         vector<string>* requiredCourses;
     public:
-        AbstractMajor() {}
+        AbstractMajor() { requiredCourses = new vector<string>(); }
 
-        virtual int totalUnits() = 0;
-
-        virtual string getName() = 0;
-
-        virtual string getCollege() = 0;
+        virtual string getName() { return name; };
 
         virtual vector<string>* getRequiredCourses() { return requiredCourses; };
 };

@@ -1,2 +1,7 @@
 .vscode/
 CMakeFiles/
+.vs/
+a.exe
+out/
+Project.sln
+

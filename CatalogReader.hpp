@@ -1,93 +1,140 @@
 #ifndef __CATALOGREADER_HPP__
 #define __CATALOGREADER_HPP__
 
-#include <iostream>
-#include <fstream>
-#include <string>
+#include "major/AbstractMajor.hpp"
+#include "course/CourseComponent.hpp"
+#include "course/Prerequisite.hpp"
+#include "course/Course.hpp"
+
 #include <unordered_map>
+#include <string>
 #include <list>
-#include <exception>
-#include <filesystem>
-#include "CourseComponent.hpp"
-#include "Course.hpp"
-#include "Prerequisite.hpp"
-#include "AbstractMajor.hpp"
+#include <fstream>
+#include <sstream>
+#include <iostream>
 
 using namespace std;
 
-/* Authored by Vahagn Tovmasian
- * 
- * The CatalogReader is intended to parse through the resources text file and construct object forms of the courses from the info in the file
- */
-
 class CatalogReader {
-    private:
-        AbstractMajor* major;
-        const string resourcesPath = "../resources";
-        const string resourceExtension = ".txt";
+	private:
+		AbstractMajor* major;
+		string resourcesPath = "resources/";
+		string resourceExtension = ".txt";
+		string beginDebugString = "|-- START --- CATALOGREADER --- DEBUG --|";
+		string endDebugString =   "|---------------------------------------|";
+		bool debugOn;
+	public:
+		CatalogReader(AbstractMajor* major) {
+			this->major = major;
+			this->debugOn = false;
+		}
+		/**
+		* This method returns an unordered map of CourseComponents,
+		* where the key is the Course and the value is a vector containing
+		* the Course, Co-Requisites, and Direct Pre-requisites.
+		*/
+		unordered_map<string, list<CourseComponent*>>* createCourseHeirarchy() const {
+			ifstream fin(resourcesPath + major->getName() + resourceExtension);
 
-        CourseComponent* constructCourse(ifstream& fin) const {
-                string courseName;
-                int courseUnits;
-                string courseDescriptiveName;
-                string courseDescription;
+			if (debugOn) {
+				cout << beginDebugString << endl;
+				cout << "Reader resourcepath: " << resourcesPath + major->getName() + resourceExtension  << endl;
+			}
 
-                string prerequisites;
-                
-                // get course info
-                getline(fin, courseName);
-                getline(fin, courseDescriptiveName);
-                courseUnits = stoi(courseDescriptiveName.substr(courseDescriptiveName.size() - 1));
-                getline(fin, prerequisites);
-                getline(fin, courseDescription);
+			unordered_map<string, CourseComponent*>* courses = new unordered_map<string, CourseComponent*>(20);
 
-                string combinedDescription = (courseDescriptiveName.append("\n").append(courseDescription));
+			unordered_map<string, list<CourseComponent*>>* heirarchy = new unordered_map<string, list<CourseComponent*>>(20);
+			
+			if (!fin.is_open()) {
+				throw runtime_error("Error, resource file for your major could not be found.");
+			}
 
-                CourseComponent* course = new Course(courseName, courseUnits, combinedDescription, prerequisites);
+			while (fin.good() && !fin.eof()) {
+				// put file of classes into map for easy access                
+				CourseComponent* course = constructCourse(fin);
+				courses->emplace(course->getCourseName(), course);
+			}
 
-                getline(fin, courseName); // extract an extra line so that the next loop starts at the beginning of the data.
+			if (debugOn) {
+				cout << endDebugString << endl;
+			}
 
-                return course;
-        }
+			return heirarchy;
+		}
 
-    public:
-        CatalogReader(AbstractMajor* major) : major(major) {}
-        
-        /**
-         * This method returns an unordered map of CourseComponents,
-         * where the key is the Course and the value is a vector containing
-         * the Course, Co-Requisites, and Direct Pre-requisites.
-         */
-        unordered_map<string, list<CourseComponent*>>* createCourseHeirarchy() const {
-            ifstream fin(resourcesPath + major->getName() + resourceExtension);
+		CourseComponent* constructCourse(ifstream& fin) const {
+			string courseName, courseDescription, courseTitle, prerequisites, combined;
+			vector<string> prereqList;
+			int units;
 
-            unordered_map<string, CourseComponent*>* courses = new unordered_map<string, CourseComponent*>(20);
+			getline(fin, courseName);
+			getline(fin, courseTitle);
+			getline(fin, prerequisites);
+			getline(fin, courseDescription);
+			
 
-            // if file can't be opened, the program will fail, we throw exception
-            if(!fin.is_open()) {
-                throw exception("Error, resource file for your major could not be found.");
-            }
-            
-            while(fin.good() && !fin.eof()) {
-                // put file of classes into map for easy access                
-                CourseComponent* course = constructCourse(fin);             
-                courses->emplace(course->getCourseName(), course);
-            }
+			getPrereqs(prerequisites, prereqList);
+			units = getCourseUnits(courseTitle);
 
-            unordered_map<string, list<CourseComponent*>>* heirarchy = new unordered_map<string, list<CourseComponent*>>(20);
+			combined = courseTitle + "\n" + courseDescription;
 
-            for(auto requiredCourse : *(major->getRequiredCourses())) {
-                CourseComponent* course = courses->at(requiredCourse);
+			CourseComponent* course;
+			if (prereqList.size() == 0) {
+				course = new Prerequisite(courseName, units, combined);
+			} else {
+				course = new Course(courseName, units, combined, prerequisites);
+			}
 
-                // TODO: get prerequisites & put them in heirarchy map.
+			if (debugOn) {
+				cout << "--- FILE TEXT ---" << endl;
+				cout << courseName << endl << courseTitle << endl << prerequisites << endl << courseDescription << endl;
+				cout << "-----------------" << endl;
+				cout << "-- COURSE CREATED --" << endl;
+				course->displayCourseInfo();
+				cout << "--------------------" << endl;
+			}
 
-                
-            }
+			getline(fin, courseName); // one more time so the it skips the empty space
+
+			return course;
+		}
+
+		void getPrereqs(string& prerequisites, vector<string>& prereqsList) const {
+			stringstream str(prerequisites);
+
+			string temp;
+
+			if (debugOn) {
+				cout << "-- SPLITTING PREREQUISITES --" << endl;
+			}
 
 
-            return heirarchy;
-        }
+			while (getline(str, temp, ',')) {
+				if (debugOn) {
+					cout << temp << " ";
+				}
+				prereqsList.push_back(temp);
+			}
+
+			if (debugOn) {
+				cout << "-- DONE SPLITTING --" << endl;
+			}
+		}
+
+		int getCourseUnits(string& courseTitle) const {
+			try {
+				return stoi(courseTitle.substr(courseTitle.length() - 2));
+			} catch (exception &e) {
+				return 4;
+			}
+		}
+
+		void setDebugOn(bool on) {
+			this->debugOn = on;
+
+			cout << "Displaying debug set to " << on << endl;
+		}
 };
 
-
 #endif // __CATALOGREADER_HPP__
+

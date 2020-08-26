@@ -4,7 +4,7 @@ Introductory Colloquium in Bioengineering 1
 Colloquia on current topics in bioengineering and other related fields delivered at an introductory level. Presented by faculty members, visiting scientists, or individuals with industrial bioengineering experience. Graded Satisfactory (S) or No Credit (NC).
 
 BIEN 010 
-Overview of Bioengineering 4 
+Overview of Bioengineering 4
 
 Provides an overview of the various aspects of bioengineering and introduces bioengineering design. Illustrates the application of engineering principles for the design of various products to health science industries. Covers diagnostic instruments, artificial organs, biotechnology, and cell and tissue engineering. Covers engineering ethics.
 
@@ -34,7 +34,7 @@ BIEN 105
 Provides basic knowledge for the quantitative analysis of the dynamic behavior of biological systems. Particular applications include neural systems, control of metabolic and hormonal systems, and design of instruments for monitoring and controlling biological systems. Topics include system theory, signal properties, control theory, and transfer functions.
 
 BIEN 125
-Biotechnology and Molecular Bioengineering 
+Biotechnology and Molecular Bioengineering 4
 BIEN 101
 Provides an overview of biochemical processes in cells and their use in developing new products and processes. Presents cellular processes such as metabolism, protein synthesis, enzyme behavior, and cell signaling and control from an engineering viewpoint of modeling and control.
 
