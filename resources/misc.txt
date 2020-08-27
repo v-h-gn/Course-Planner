@@ -1,0 +1,79 @@
+CHEM 001A 
+General Chemistry 4
+
+
+
+CHEM 001B 
+General Chemistry 4 
+CHEM 001A
+
+
+CHEM 001C 
+General Chemistry 4 
+CHEM 001B
+
+
+CHEM 008A 
+Organic Chemistry 3 
+CHEM 001C
+
+
+CHEM 008B 
+Organic Chemistry 3
+CHEM 008A
+
+
+CHEM 008C 
+Organic Chemistry 3
+CHEM 008B
+
+
+MATH 009A 
+First-Year Calculus 4 
+
+
+
+MATH 009B 
+First-Year Calculus 4 
+MATH 009A
+
+
+MATH 009C 
+First-Year Calculus 4 
+MATH 009B
+
+
+MATH 010A 
+Calculus of Several Variables 4
+MATH 009C
+Vector calculus
+
+MATH 010B 
+Calculus of Several Variables 4 
+MATH 010A
+Vector calculus
+
+MATH 031 
+Applied Linear Algebra 5
+MATH 009B
+A study of matrices and systems of linear equations, determinants, Gaussian elimination, vector spaces, linear independence and linear transformation, orthogonality, eigenvalues, and eigenvectors. Also examines selected topics and applications.
+
+MATH 046 
+Introduction to Ordinary Differential Equations 4 
+MATH 009B
+Introduction to first-order equations, linear second-order equations, and Laplace transforms, with applications to the physical and biological sciences.
+
+PHYS 040A
+General Physics 5
+MATH 009B
+First year physics
+
+PHYS 040B
+General Physics 5
+MATH 009C, PHYS 040A
+First year physics
+
+PHYS 040C
+General Physics 5
+PHYS 040B
+First year physics

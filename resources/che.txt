@@ -1,129 +1,129 @@
 CHE 100 
 Engineering Thermodynamics 4 
-CHEM 001C, MATH 046 (or concurrent enrollment), PHYS 040B or PHYS 040HB; or consent of instructor.
+CHEM 001C, MATH 046, PHYS 040B.
 An introduction to engineering thermodynamics with emphasis on chemical and environmental engineering systems. Topics include concepts of equilibrium, temperature, and reversibility; the first law and concept of energy; and the second law and concept of entropy. Also examines equations of state, thermodynamic properties, and engineering applications used in the analysis and design of closed and open systems. Credit is awarded for only one of CHE 100 or ME 100A.
 
 CHE 102 
 Catalytic Reaction Engineering 4
-CHE 122 or consent of instructor. 
+CHE 122
 Principles of surface reactions and heterogeneous catalysis. Catalyzed reaction kinetics, heterogeneous reactions, diffusion and heterogeneous catalysis, analysis and design of heterogeneous reactors.
 
 CHE 105 
 Introduction to Nanoscale Engineering 4
-CEE 135, MATH 010A, PHYS 040C or PHYS 040HC; or consent of instructor. 
+CEE 135, MATH 010A, PHYS 040C
 An introduction to nanotechnology engineering and its various applications. Includes electromagnetic waves and quantum mechanics; synthesis of nanostructures; assembly of nanostructures; and traditional and nontraditional methods of nanolithography and interactions between electronic and optical properties. Also covers organic heterostructures, nanotubes, and quantum computing.
 
 CHE 110A 
 Chemical Process Analysis 3 
-CHEM 001C, MATH 009C, PHYS 040B or PHYS 040HB; or consent of instructor.
+CHEM 001C, MATH 009C, PHYS 040B
 Introduces the principles of conservation of mass in chemical process systems. Topics include the development of steady-state mass balances, and application of mass balances to existing industrial processes.
 
 CHE 110B 
 Chemical Process Analysis 3 
-CHE 110A with a grade of “C-” or better; or consent of instructor.
+CHE 110A
 Applies principles of conservation of energy to chemical process systems. Topics include the development of steady-state and unsteady-state energy balances as well as combined mass and energy balances in industrial processes.
 
 CHE 114 
 Applied Fluid Mechanics 4 
-CHE 110A or ENVE 171, MATH 010A, MATH 046, PHYS 040B or PHYS 040HB; or consent of instructor. 
+CHE 110A, MATH 010A, MATH 046, PHYS 040B
 An introduction to fluid statics, fluid flow, and flow of compressible and incompressible fluids in conduits and openchannel flow. Also covers flow past immersed bodies, transportation and metering of fluids, and agitation and mixing of liquids. Credit is awarded for only one of CHE 114 or ME 113.
 
 CHE 116 
 Heat Transfer 4 
-CHE 100, CHE 114 with a grade of “C-” or better; or consent of instructor. 
+CHE 100, CHE 114
 An analysis of heat transfer for Chemical Engineering and Environmental Engineering majors. Topics include steadyand unsteady-state heat conduction, forced convection, basic radiation heat transfer, and design of heat exchangers. Credit is awarded for only one of CHE 116 or ME 116A.
 
 CHE 117 
 Separation Processes 4 
-CHE 116, CHE 120; or consent of instructor. 
+CHE 116, CHE 120
 Covers fundamental concepts and practical techniques for designing equipment based on equilibrium stage processes. Explores gas-liquid absorption, distillation, liquid-liquid extraction, solid-liquid extraction, humidification, drying, and membrane processes.
 
 CHE 118 
 Process Dynamics and Control 4 
-CHE 117, CHE 122, ENGR 118; or consent of instructor. 
+CHE 117, CHE 122, ENGR 118
 Fundamentals of process control. Feedback and feedforward control of dynamic processes. Frequency response analysis. Introduction to multivariable control.
 
 CHE 120 
 Mass Transfer 4 
-CHE 114 with a grade of “C-” or better, MATH 046; or consent of instructor. 
+CHE 114, MATH 046
 Introduction to analysis of mass transfer in systems of interest to chemical and environmental engineering practice. Explores transport of matter by diffusion, free, and forced convection.
 
 CHE 122 
 Chemical Engineering Kinetics 4 
-CHE 100, CHE 110B, CHE 120 (may be taken concurrently), ENGR 118; or consent of instructor. 
+CHE 100, CHE 110B, CHE 120, ENGR 118
 Introduction to homogeneous and heterogeneous kinetics and reactor design for chemical and biochemical processes.
 
 CHE 124 
 Biochemical Engineering Principles 4 
-BCH 110HA or BCH 110A; CHE 120, CHE 122. 
+BCH 110A, CHE 120, CHE 122 
 Examines the principles of biochemical engineering. Topics include kinetics of enzymatic reactions and microbial growth, batch and continuous culture reactors, product formulation, and nutrient utilization. Also studies oxygen transfer, bioreactor scale-up, air and media sterilization, fundamentals of bioreactor design, and bioseparations.
 
 CHE 124L 
 Biochemical Engineering Laboratory 2
-CHE 124 or consent of instructor.
+CHE 124
 Laboratory practices in biochemical engineering. Determination of microbial kinetics and biologically mediated reactions, oxygen transfer coefficients. Batch and continuous culturing, air and media sterilization, bioseparations.
 
 CHE 130 
 Advanced EngineeringThermodynamics 4 
-CHE 100 or consent of instructor. 
+CHE 100
 Advanced study of chemical thermodynamics and their applications to chemical and environmental engineering processes. Applies principles for the thermodynamic behavior of pure solutions and mixtures, phases, and chemical equilibria for homogeneous and heterogeneous systems to a variety of processes common to chemical and environmental engineering. Cross-listed with ENVE 130.
 
 CHE 131 
 Electrochemical Engineering 4 
-CHE 100, CHE 120, CHE 122; or consent of instructor. 
+CHE 100, CHE 120, CHE 122
 Explores role of thermodynamics, charge transfer kinetics, and mass transfer on behavior of electrochemical systems. Includes cell thermodynamics, faradaic and non-faradaic rate processes, ionic transport, nucleation and growth theories. Shows applications to chemical sensors, batteries, corrosion, and thin film deposition. Provides in-class demonstrations to illustrate concepts.
 
 CHE 136 
 Advanced Topics in Heat Transfer 4 
-CHE 116, CHE 120. 
+CHE 116, CHE 120 
 Advanced study of the computational and theoretical methods associated with heat transfer, fluid flow, and other related processes. Topics include phenomena of heat conduction, convection, and the calculation of flow fields.
 
 CHE 140 
 Cell Engineering 4 
-CHE 124 or consent of instructor. 
+CHE 124
 Introduction to genetic and environmental manipulation of cells for production of proteins and for enhanced biocatalytic and synthetic activities. Cloning and gene expression in different host systems, posttranslational processing, metabolic controls and kinetics, in vivo NMR spectroscopy, cell modeling, and sensitivity analysis. Credit is awarded for only one of CEE 210 or CHE 140.
 
 CHE 150 
 Biosensors 4 
-BCH 184 or CHE 124 or consent of instructor.
+CHE 124
 Introduces the fundamentals and applications of biosensors. Topics on enzyme-, whole cell-, tissue-, and antibody/antigen-based electrochemical, optical, and piezoelectric biosensors for applications in bioprocess monitoring and control, environmental monitoring, and health care are covered.
 
 CHE 160A 
 Chemical and Environmental Engineering Laboratory 3 
-CHE 114, CHE 120. 
+CHE 114, CHE 120
 Involves laboratory exercises in chemical and environmental engineering. Experiments cover physical measurements, fluid mechanics, and mass transfer. Emphasizes experimental design, analysis of results, and preparation of engineering reports. Cross-listed with ENVE 160A.
 
 CHE 160B 
 Chemical Engineering Laboratory 3 
-CHE 116, CHE 122. 
+CHE 116, CHE 122
 Consists of laboratory exercises in chemical engineering. Includes experiments in physical measurements, heat transfer, reactor analysis, and chemical kinetics. Emphasis is on  179 | experimental design, analysis of results, and preparation of engineering reports.
 
 CHE 160C 
 Chemical Engineering Laboratory 3 
-CHE 117, CHE 118 (CHE 117 and CHE 118 may be taken concurrently), CHE 122. 
+CHE 117, CHE 118, CHE 122
 Consists of laboratory exercises in chemical engineering. Includes experiments and simulations in separation processes and in process control. Emphasis is on experimental design, analysis of results, and preparation of engineering reports.
 
 CHE 161 
 Nanotechnology Processing Laboratory 3 
-CHE 100 or consent of instructor. 
+CHE 100
 An introduction to growth and characterization techniques that involve nanomaterials and devices. Includes preparing thin films; synthesizing Au and CdS nanoparticles; synthesizing carbon nanotubes; synthesizing alumina nanotemplate; synthesizing gold and nickel nanowires; and assembling of nanowires. Also includes imaging samples with optical, scanning electron microscope, scanning tunneling microscope, and atomic force microscope.
 
 CHE 171 
 Pollution Control For Chemical Engineers 4 
-CHE 117 or consent of instructor. 
+CHE 117
 Principles of industrial pollution control in chemical engineering plants. Regulations, criteria, measurements, and pollution control systems associated with air, wastewater, and solid waste management.
 
 CHE 175A 
 Chemical Process Design 4 
-CHE 117, CHE 122, MATH 010B, senior standing in Chemical Engineering; CHE 118 (may be taken concurrently).
+CHE 117, CHE 122, MATH 010B, CHE 118
 Introduction to chemical process plant design procedures through economic analysis and actual design of chemical processes. Addresses practical applications to current chemical and biochemical processes and economic constraints. Concentrates on general design considerations and economic principles. Graded In Progress (IP) until CHE 175A and CHE 175B are completed, at which time a final, letter grade is assigned.
 
 CHE 175B 
 Chemical Process Design 4 
-CHE 175A; senior standing in Chemical Engineering. 
+CHE 175A
 Introduction to chemical process plant design procedures through economic analysis and actual design of chemical processes. Topics address practical applications to current chemical and biochemical processes and economic constraints. Students complete a detailed analysis and process design of the projects begun in CHE 175A. A final report and oral presentation are required. Satisfactory (S) or No Credit (NC) grading is not available.
 
 CHE 190 
 Special Studies 1 to 5 
-upperdivision standing; consent of instructor and department chair. 
+
 Individual study to meet special curricular needs. Course is repeatable to a maximum of 9 units.
