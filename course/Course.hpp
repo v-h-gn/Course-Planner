@@ -45,8 +45,10 @@ class Course : public CourseComponent {
             unsigned int i;
             for (i = 0; i < prerequisites.size(); ++i) {
                 if (prerequisites[i] == newCourseComponent) {
-                    // TODO
-                    // Revisit this to remove everything from a course subtree
+
+                    prerequisites.erase(prerequisites.at(i));
+                    // Revisit this to remove everything from a course subtree                    
+
                 }
             }
         }
