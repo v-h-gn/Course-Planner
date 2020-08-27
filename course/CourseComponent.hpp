@@ -40,10 +40,15 @@ class CourseComponent {
             return courseUnits;
         }
 
+        virtual bool isTaken() {
+            return taken;
+        }
+
         // Accessor that returns the course description
         virtual string getCourseDescription() {
             return courseDescription;
         }
+
 
         virtual void displayCourseInfo() = 0;
 

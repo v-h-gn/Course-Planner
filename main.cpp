@@ -5,6 +5,7 @@
 #include "Course.hpp"
 #include "AbstractMajor.hpp"
 #include "CourseTree.hpp"
+#include "Schedule.hpp"
 
 #include <iostream>
 #include <vector>
@@ -89,7 +90,7 @@ int main() {
         exit(1);
     }
 
-    
+    // Pass in the major to the CatalogReader
     CatalogReader reader(userMajor);
     
     // Returns unordered map of courses, stored by "name of course", <vector of linked courses and itself>
@@ -97,12 +98,18 @@ int main() {
 
     // TODO
     // Build the tree using the unordered_map majorCourses
+    // buildGraph returns list of linked courses, beginning with the lowest course
     CourseComponent* root;
     buildGraph(majorCourses, userMajor, root);
+
     
 
-    // TODO
-    // Use the tree to create the schedule
+    
+
+    // Create the schedule
+    vector<Quarter*> quarters;
+
+    // Needs loop to loop through the lists and push classes onto quarter
 
     
         
