@@ -1220,7 +1220,7 @@ An introduction to the use of MATLAB in engineering computation. Covers scripts 
 
 ME 018B 
 Introduction to Computational Modeling in Mechanical Engineering 4 
-MATH 009B with a grade of " C-" or better; ME 002 with a grade of "C-" or better; ME 018A. 
+MATH 009B, ME 002, ME 018A
 Introduces students to concepts of computational modeling in mechanical engineering. Topics include formulation of models to solve problems involving vector analysis, linear algebra, differential and integral calculus. Explores analytical and numerical solutions to problems in mechanical engineering. 
 
 ME 100A 
