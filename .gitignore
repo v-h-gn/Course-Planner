@@ -4,4 +4,12 @@ CMakeFiles/
 a.exe
 out/
 Project.sln
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+courseplanner.exe
+lib/
+bin/
+build/
+
 

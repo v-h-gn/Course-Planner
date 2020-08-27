@@ -1,0 +1,1514 @@
+CHEM 001A 
+General Chemistry 4
+
+
+
+CHEM 001B 
+General Chemistry 4 
+CHEM 001A
+
+
+CHEM 001C 
+General Chemistry 4 
+CHEM 001B
+
+
+CHEM 008A 
+Organic Chemistry 3 
+CHEM 001C
+
+
+CHEM 008B 
+Organic Chemistry 3
+CHEM 008A
+
+
+CHEM 008C 
+Organic Chemistry 3
+CHEM 008B
+
+
+MATH 009A 
+First-Year Calculus 4 
+
+
+
+MATH 009B 
+First-Year Calculus 4 
+MATH 009A
+
+
+MATH 009C 
+First-Year Calculus 4 
+MATH 009B
+
+
+MATH 010A 
+Calculus of Several Variables 4
+MATH 009C
+Vector calculus
+
+MATH 010B 
+Calculus of Several Variables 4 
+MATH 010A
+Vector calculus
+
+MATH 031 
+Applied Linear Algebra 5
+MATH 009B
+A study of matrices and systems of linear equations, determinants, Gaussian elimination, vector spaces, linear independence and linear transformation, orthogonality, eigenvalues, and eigenvectors. Also examines selected topics and applications.
+
+MATH 046 
+Introduction to Ordinary Differential Equations 4 
+MATH 009B
+Introduction to first-order equations, linear second-order equations, and Laplace transforms, with applications to the physical and biological sciences.
+
+PHYS 040A
+General Physics 5
+MATH 009B
+First year physics
+
+PHYS 040B
+General Physics 5
+MATH 009C, PHYS 040A
+First year physics
+
+PHYS 040C
+General Physics 5
+PHYS 040B
+First year physics
+
+BIEN 001 
+Introductory Colloquium in Bioengineering 1
+
+Colloquia on current topics in bioengineering and other related fields delivered at an introductory level. Presented by faculty members, visiting scientists, or individuals with industrial bioengineering experience. Graded Satisfactory (S) or No Credit (NC).
+
+BIEN 010 
+Overview of Bioengineering 4
+
+Provides an overview of the various aspects of bioengineering and introduces bioengineering design. Illustrates the application of engineering principles for the design of various products to health science industries. Covers diagnostic instruments, artificial organs, biotechnology, and cell and tissue engineering. Covers engineering ethics.
+
+BIEN 101 
+Quantitative Biochemistry 4 
+BIOL 005A, CHEM 008A, MATH 046
+Provides Bioengineering students with an in-depth experience in applying mathematical modeling and simulation methods to understand the dynamics of biochemical systems. Prepares for designing new applications of genetic engineering.
+
+BIEN 105 
+Circulation Physiology 4 
+BIEN 110
+Introduces tensor and vector mathematics that describe the conservation of momentum and mass transport in biological sciences,the cardiovascular system, and pulmonary system. Includes constitutive equations, significance of fluid stress in biological vessels, and the physiological relevance of fundamental parameters. Emphasizes the relation between function and system behavior.
+
+BIEN 110 
+Biomechanics of the Human Body 4
+CHEM 001, CS010, MATH 010A, PHYS 040B
+Introduces the motion, structure, and function of the musculoskeletal system, the cardiovascular system, and the pulmonary system. Topics include applied statics, kinematics, and dynamics of these systems and the mechanics of various tissues (ligament, bone, heart, blood vessels, lung). Emphasizes the relation between function and material properties of these tissues.
+
+BIEN 115 
+Quantitative Physiology 4 
+BIEN 110
+Analyzes engineering aspects of physiological systems. Covers the nervous system, muscular system, respiratory system, renal system, and endocrine system based on fundamental principles of material transport across biological membrane.
+
+BIEN 120 
+Biosystems and Signal Analysis 4 
+BIEN 105
+Provides basic knowledge for the quantitative analysis of the dynamic behavior of biological systems. Particular applications include neural systems, control of metabolic and hormonal systems, and design of instruments for monitoring and controlling biological systems. Topics include system theory, signal properties, control theory, and transfer functions.
+
+BIEN 125
+Biotechnology and Molecular Bioengineering 4
+BIEN 101
+Provides an overview of biochemical processes in cells and their use in developing new products and processes. Presents cellular processes such as metabolism, protein synthesis, enzyme behavior, and cell signaling and control from an engineering viewpoint of modeling and control.
+
+BIEN 130
+Bioinstrumentation 4 
+EE 001A
+Introduces basic components of instruments for biological applications. Explores sources of signals and physical principles governing the design and operation of instrumentation systems used in medicine and physiological research. Topics include data acquisition and characterization; signal-to-noise concepts and safety analysis; and interaction of instrument and environment.
+
+BIEN 130L
+Bioinstrumentation Laboratory 2 
+EE 001A
+Laboratory experience with instrumental methods of measuring biological systems. Introduces various sensors and transducers to measure physical, chemical, and biological properties. Covers reliability, dynamic behavior, and data analysis.
+
+BIEN 135 
+Biophysics and Biothermodynamics 4 
+BIEN 101, MATH 10B, MATH 046, PHYS 040C
+An introduction to the application of thermodynamic principles to understanding the behavior of biological systems. Discusses biophysical properties of biomacromolecules such as proteins, polynucleotides, carbohydrates, and lipids, as well as the methods of characterizing their properties and interactions.
+
+BIEN 136
+Tissue Engineering 4 
+BIOL 005A, CHEM 001C
+Covers progress in cellular and molecular biology and engineering. Provides the basis for advancing tissue repair and regeneration with the goal of restoring compromised tissue functions. Presents methods for cell culture, tissue design and development, manipulation of the cell/ tissue microenvironment, and current strategies for functional reconstruction of injured tissues.
+
+BIEN 137 
+Advanced Biomechanics 4 
+BIEN 110, BIOL 005B, MATH 046, PHYS 040A
+Focuses on mechanical characterization of biological tissues at the cellular, organ, and system level. Explores biomechanical factors of physiological and pathological conditions.
+
+BIEN 138 
+Fundamental Principles of Wound Repair 4 
+BIEN 105, BIOL 002, BIOL 005A
+Provides fundamental understanding of the molecular and cellular biology of wound repair and regeneration. Focuses on the spatiotemporal roles of inflammatory cytokines; growth factors; extracellular matrix; mechanical forces; tissue cells and adult stem/progenitor cells in soft tissue repair. Topics include embryonic wound regeneration and adult skin and cardiovascular repair.
+
+BIEN 140A 
+Biomaterials 4 
+BIEN 101, MATH 010B, PHYS 040B
+Covers the principles of materials science and engineering with attention given to topics in bioengineering. Explores atomic structures, hard treatment, fundamentals of corrosion, manufacturing processes, and characterization of materials.
+
+BIEN 140B 
+Biomaterials 4 
+PHYS 040B
+Covers the structure-property relations of metals, ceramics, polymers, and composites, as well as hard and soft tissues such as bone, teeth, cartilage, ligament, skin, muscle, and vasculature. Focuses on behavior of materials in the physiological environment.
+
+BIEN 142 
+Introductory Biomedical Optical Imaging 4 
+PHYS 040C, MATH 010B
+Examines fundamental theory and basic design of biomedical optical imaging systems. Topics include a basic understanding of the working principles of optical components, diagnostic light-tissue interaction, and design of imaging systems to exploit the interaction of light with biological phenomena.
+
+BIEN 159 
+Dynamics of Biological Systems 4 
+BIOL 005B, MATH 046
+Covers engineering principles for the analysis and modeling of biological phenomena. Topics include molecular diffusion and transport, membranes, ligandbioreceptor interactions, enzyme kinetics, and dynamics of metabolic pathways. Examines the application of these principles to the design of bioreactors, bioassays, drug delivery systems, and artificial organs. 
+
+BIEN 160 
+Biomedical Imaging 4 
+BIEN 120
+An introduction to the fundamental physics and engineering principles for medical imaging systems. Covers X-ray, ultrasound, radionuclide, magnetic resonance imaging, positron emission tomography, optical coherent tomography, and other optical methods. Includes image formation and reconstruction, image characteristics, and quality and image processing.
+
+BIEN 165 
+Biomolecular Engineering 4 
+BIEN 135 
+Emphasizes engineering, biochemical, and biophysical concepts and technologies intrinsic to specific topics of biomolecular engineering. Introduces the history of genetic and protein engineering. Topics include biological thermodynamics, molecular kinetics, biochemical and biophysical approaches, protein engineering, high-throughput screening technologies, and protein engineering with unnatural amino acids.
+
+BIEN 166 
+Bioinspired Engineering For Sustainable Energy 4 
+BIEN 140A
+Introduces the use of concepts from basic biological sciences (including biochemistry and biophysics) for applied energy engineering. Covers biological energy conversion (including photosynthesis) and its implication for sustainable energy technologies. Discusses recent advances in biomimetic and bioinspired energy conversion.
+
+BIEN 167
+Medical Diagnostics 4 
+BIEN 130
+Provides an overview of medical diagnostics. Topics include methods of biochemical detection, genotyping, DNA sequencing, medical imaging, hematology, microfluidics, epidemiology, diagnostics for point-of-care and resource-limited settings, and case studies of commercially successful diagnostic products.
+
+BIEN 175A
+Senior Design 2 
+BIEN 010, BIEN 130L
+Covers the entire design process for bioengineering. Explores intellectual property, quality control, and regulatory and ethical considerations. Requires working in small teams effectively to prepare formal engineering reports, web pages notebooks, oral presentations, a project demonstration, and a business plan. Graded In Progress (IP) until BIEN 175A, BIEN 175B, and BIEN 175C are completed, at which time a final letter grade is assigned.
+
+BIEN 175B 
+Senior Design 4 
+BIEN 175A
+Covers the entire design process for bioengineering. Explores intellectual property, quality control, and regulatory and ethical considerations. Requires working in small teams effectively to prepare formal engineering reports, web pages, notebooks, oral presentation, a project demonstration, and a business plan. Graded In Progress (IP) until BIEN 175A, BIEN 175B, and BIEN 175C are completed, at which time a final, letter grade is assigned.
+
+BIEN 175C 
+Senior Design 4 
+BIEN 175B
+Covers the entire design process for bioengineering. Explores intellectual property, quality control, and regulatory and ethical considerations. Requires working in small teams effectively to prepare formal engineering reports, web pages, notebooks, oral presentations, a project demonstration, and a business plan.
+
+BIEN 190 
+Special Studies 1 to 5 
+
+Provides individual study to meet special curricular needs. Course is repeatable to a maximum of 9 units.
+
+BIEN 197 
+Research For Undergraduates 1 to 4 
+
+Directed research on a topic relevant to bioengineering. Requires a final written report. Graded Satisfactory (S) or No Credit (NC). Course is repeatable.
+
+CS 010 
+Introduction to Computer Science For Science, Mathematics, and Engineering I 4 
+Math 009A
+Covers problem solving through structured programming of algorithms on computers using the C++ object-oriented language. Includes variables, expressions, input/output (I/O), branches, loops, functions, parameters, arrays, strings, file I/O, and classes. Also covers software design, testing, and debugging. Credit is awarded for one of the following: CS 010, CS 009M, or CS 009P.
+
+CS 011 
+Introduction to Discrete Structures 4
+MATH 009A, MATH009A, CS 10
+Introduction to basic concepts of discrete mathematics emphasizing applications to computer science. Topics include prepositional and predicate calculi, elementary set theory, functions, relations, proof techniques, elements of number theory, enumeration, and discrete probability. Cross-listed with MATH 011.
+
+CS 012 
+Introduction to Computer Science For Science, Mathematics, and Engineering II 4
+CS 010 
+Familiarity with C or C++ language. Covers structured and object-oriented programming in C++. Emphasizes good programming principles and development of substantial programs. Topics include recursion, pointers, linked lists, abstract data types, and libraries. Also covers software engineering principles. Credit is awarded for only one of CS 012 or CS 013.
+
+CS 013 
+Introductory Computer Science For Engineering Majors 4
+CS 010
+Covers structured and objectoriented programming in C++. Emphasizes good programming principles and development of substantial programs. Topics include recursion, pointers, linked lists, abstract data types, and libraries. Covers software engineering principles. Utilizes examples and assignments specific to engineering disciplines such as numerical data analysis, matrix computations, and dynamic systems. Credit is awarded for only one of CS 012 or CS 013.
+
+CS 014 
+Introduction to Data Structures and Algorithms 4 
+CS 012 
+Topics include basic data structures such as arrays, lists, stacks, and queues. Covers dictionaries (including binary search trees and hashing) and priority queues (heaps). Offers an introductory analysis of algorithms, sorting algorithms, and object-oriented programming including abstract data types, inheritance, and polymorphism. Explores solving complex problems through structured software development.
+
+CS 061 
+Machine Organization and Assembly Language Programming 4 
+CS 010
+An introduction to computer organization. Topics include number representation, combinational and sequential logic, computer instructions, memory organization, addressing modes, interrupt, input/output (I/O), assembly language programming, assemblers, and linkers.
+
+CS 100 
+Software Construction 4 
+CS 014
+Emphasizes development of software systems. Topics include design and implementation strategies; selection and mastery of programming languages, environment tools, and development processes. Develops skill in programming, testing, debugging, performance evaluation, component integration, maintenance, and documentation. Covers professional and ethical responsibilities and the need to stay current with technology.
+
+CS 105 
+Data Analysis Methods 4 
+CS 014
+An introduction to fundamental concepts and methods in data analysis and visualization essential to a variety of data science tasks. Designed to provide preparation for the data science major (currently under development) and for advanced courses in data analysis and applications of data science.
+
+CS 111 
+Discrete Structures 4 
+CS 010, CS 011, MATH 009C
+A study of discrete mathematical structures emphasizing applications to computer science. Topics include asymptotic notation, generating functions, recurrence equations, elements of graph theory, trees, algebraic structures, and number theory.
+
+CS 120A 
+Logic Design 5 
+CS 061
+Covers design of digital systems. Includes Boolean algebra; combinational and sequential logic design; design and use of arithmetic logic units, carry-lookahead adders, multiplexors, decoders, comparators, multipliers, flip-flops, registers, and simple memories; state-machine design; and basic register-transfer level design. Uses hardware description languages, synthesis tools, programmable logic, and significant hardware prototyping. Cross-listed with EE 120A.
+
+CS 120B 
+Introduction to Embedded Systems 4 
+EE 120A
+Introduction to hardware and software design of digital computing systems embedded in electronic devices (e.g., digital cameras or portable video games). Includes embedded processor programming, custom processor design, standard peripherals, memories, interfacing, and hardware/software trade-offs. Involves use of synthesis tools, programmable logic, microcontrollers, and developing working embedded systems. Cross-listed with EE 120B
+
+CS 122A 
+Intermediate Embedded and RealTime Systems 5 
+CS 012, CS 120B
+Covers software and hardware design of embedded computing systems. Includes hardware and software codesign, advanced programming paradigms (including state machines and concurrent processes), real-time programming and operating systems, basic control systems, and modern chip and design technologies. Laboratories involve use of microcontrollers, embedded microprocessors, programmable logic and advanced simulation, and debug environments.
+
+CS 122B 
+Advanced Embedded and Real-Time Systems 5
+CS 122A
+Explores state-of-theart aspects of building embedded computer systems. Topics include real-time programming, synthesis of coprocessor cores, applicationspecific processors, hardware and software cosimulation and codesign, low-power design, reconfigurable computing, core-based design, and platform-based methodology.
+
+CS 130 
+Computer Graphics 4
+CS 100, MATH 031
+A study of the fundamentals of computer graphics necessary to design and build graphics applications. Examines raster graphics algorithms including scan-converting graphics primitives, anti-aliasing, and clipping. Also covers geometric transformations, viewing, solid modeling techniques, hidden-surface removal algorithms, color models, illumination, and shading.
+
+CS 133 
+Computational Geometry 4
+CS 100, CS 111, MATH 031
+An introduction to the design of geometry algorithms. Covers the basic computational geometry concepts and techniques used in graphics, robotics, and engineering design. Topics include polygons and polytops, convex hulls, and voronoi diagrams.
+
+CS 135 
+Virtual Reality 4
+CS 100
+Covers the development of virtual reality (VR) worlds, including motion and physics of VR worlds. Includes design practices for immersive experiences, human visual perception, environmental and social interactions. Also includes positional tracking with sensors, augmented and mixed reality, and storage and transmission of virtual reality worlds.
+
+CS 141 
+Intermediate Data Structures and Algorithms 4
+CS 014, CS 111, MATH 009C
+Explores basic algorithm analysis using asymptotic notations, summation and recurrence relations, and algorithms and data structures for discrete structures including trees, strings, and graphs. Also covers general algorithm design techniques including "divideand-conquer," the greedy method, and dynamic programming. Integrates knowledge of data structures, algorithms, and programming. 
+
+CS 145 
+Combinatorial Optimization Algorithms 4 
+CS 141, MATH 031
+The study of efficient algorithm design techniques for combinatorial optimization problems. Topics include shortest paths, minimum spanning trees, network flows, maximum matchings, stable matchings, linear programming, duality, two-person games, algorithmic techniques for integer programming problems, NP-completeness, and approximation algorithms.
+
+CS 147 
+Graphics Processing Unit Computing and Programming 4
+CS 120B
+Introduces principles and practices of programming graphics processing units (GPUs) using the parallel programming environment. Covers memory/threading models, common data-parallel programming patterns and libraries needed to develop highperformance parallel computing applications. Examines computational thinking; a broader range of parallel execution models; and parallel programming principles. Cross-listed with EE 147.
+
+CS 150 
+Automata and Formal Languages 4
+CS 014, CS 111, MATH 009C
+A study of formal languages. Includes regular and context-free languages; computational models for generating these languages such as finite-state automata, pushdown automata, regular expressions, and context-free grammars; mathematical properties of the languages and models; and equivalence between the models. Also introduces Turing machines and decidability.
+
+CS 152 
+Compiler Design 4 
+CS 061, CS 100, CS 111, CS 150
+Covers the fundamentals of compiler design. Includes lexical analysis, parsing, semantic analysis, compile-time memory organization, run-time memory organization, code generation, and compiler portability issues.
+
+CS 153 
+Design of Operating Systems 4
+CS 061, CS 100, CS 111
+Covers the principles and practice of operating system design. Includes concurrency, memory management, file systems, protection, security, command languages, scheduling, and system performance.
+
+CS 160 
+Concurrent Programming and Parallel Systems 4 
+CS 061, CS 100, CS 111
+A study of concurrent and parallel systems. Topics include modular structure and design, interprocess communication, synchronization, failures, persistence, and concurrency control. Also covers atomic transactions, recovery, language support, distributed interprocess communication, and implementation mechanisms. Provides preparation for the study of operating systems, databases, and computer networking.
+
+CS 161 
+Design and Architecture of Computer Systems 4 
+CS 120A
+A study of the fundamentals of computer design. Topics include the performance evaluation of microprocessors; instruction set design and measurements of use; microprocessor implementation techniques including multicycle and pipelined implementations; computer arithmetic; memory hierarchy; and input/output (I/O) systems.
+
+CS 162 
+Computer Architecture 4 
+CS 161
+The study of advanced processor design. Topics include CPU pipelining, data and control hazards, instructionlevel parallelism, branch prediction, and dynamic scheduling of instructions. Also covers Very Long Instruction Word (VLIW) processing, multimedia support, design of network and embedded processors, basic multiprocessor design, shared memory and message passing, and network topologies.
+
+CS 164 
+Computer Networks 4
+CS 100, CS 111, CS 153
+Covers the fundamentals of computer networks. Topics include layered network architecture, communication protocols, local area networks, UNIX network programming, verification, network security, and performance studies. 
+
+CS 165 
+Computer Security 4 
+CS 141, CS 153
+Examines the ways in which information systems are vulnerable to security breaches. Topics include attacks; security labels, lattices, and policies; safeguards and countermeasures; intrusion detection; authorization and encryption techniques; networks; digital signatures, certificates, and passwords; privacy issues, firewalls, and spoofing; Trojan horses and computer viruses; CERT Coordination Center; and electronic commerce.
+
+CS 166 
+Database Management Systems 4 
+CS 100, CS 111
+Covers architecture of database management systems; relational, network, and hierarchical models; distributed database concepts; query languages; implementation issues; and privacy and security of the database
+
+CS 167 
+Introduction to Big-Data Management 4
+CS 100, CS 111;
+Introduces the architecture of big-data systems and their applications in data management and processing. Describes the common functionality in big-data processing such as distributed  storage, resource management, query processing, fault-tolerance, and programming APIs. Covers the popular big-data technologies such as distributed shared-nothing systems, NoSQL processing model, and semi-structured data management. 
+
+CS 168 
+Introduction to Very Large Scale Integration 4
+CS 120A or EE120A; 
+Studies integrated circuit fabrication, device characterization, and circuit simulation. Introduces basic device physics and physical design rules, MOS logic design, and timing and clock schemes. Covers layout generation, subsystem designs, and circuits for alternative logic styles. Also covers design and simulation using hardware description language and CAD tools. Crosslisted with EE 168
+
+CS 169 
+Mobile Wireless Networks 4
+CS 153;
+Introduces the fundamentals of wireless and mobile networks. Covers wireless channel models, MAC protocols, and wireless network architectures. Also covers cellular, WLAN and ad hoc networks, and routing in multi-hop wireless networks. Includes wireless security and the impact of wireless links on TCP and other transport layer solutions.
+
+CS 170 
+Introduction to Artificial Intelligence 4 
+CS 100, CS 111; 
+An introduction to the field of artificial intelligence. Focuses on discretevalued problems. Covers heuristic search, problem representation, and classical planning. Also covers constraint satisfaction and logical inference.
+
+CS 171 
+Introduction to Machine Learning and Data Mining 4
+CS 100, MATH 010A or MATH 031; 
+Introduces formalisms and methods in data mining and machine learning. Topics include data representation, supervised learning, and classification. Covers regression and clustering. Also covers rule learning, function approximation, and margin-based methods.
+
+CS 172 
+Introduction to Information Retrieval 4 
+CS 100, CS 111, EE 114, STAT 155
+Introduces information retrieval (IR) principles and techniques for indexing and searching document collections. Topics include Web search, text processing, ranking algorithms, search in social networks, and search evaluation. Also studies scalability issues in search engines. Satisfactory (S) or No Credit (NC) grading is not available.
+
+CS 173 
+Introduction to Natural Language Processing 4
+CS 150
+An overview of modern approaches for natural language processing. Focuses on major algorithms used in NLP for various applications such as part-of-speech tagging, parsing, named entity recognition, coreference resolution, sentiment analysis, and machine translation.
+
+CS 175 
+Entrepreneurship in Computing 4 
+CS 100; junior
+Introduces business and technological concepts to create companies based on computer technology. Covers technical aspects of real world IT projects. Includes developing software and services; understanding user requirements; designating usable systems; technological assessment. Also covers market analysis and strategy; legal and intellectual property, ethics and communication business issues; financial analysis.
+
+CS 177 
+Modeling and Simulation 4
+CS 100, CS 111
+Covers validation of random number sequences; concepts in modeling and systems analysis; and conceptual models and their mathematical and computer realizations. Examines simulation modeling techniques, including object-oriented modeling and discrete-event modeling. Emphasizes the use of simulation libraries used with programming languages such as C++.
+
+CS 179 
+Project in Computer Science 4
+CS 100, CS 152, ENGR 180W
+For hours and prerequisites, see segment descriptions. Under the direction of a faculty member, student teams propose, design, build, test, and document software and/ or hardware devices or systems. Emphasizes professional and ethical responsibilities and the need to stay current on technology and its global impact on economics, society, and the environment.
+
+CS 180 
+Introduction to Software Engineering 4 
+CS 100
+A study of software engineering techniques for the development, maintenance, and evolution of large software systems. Topics include requirements and specification; system design and implementation; debugging, testing, and quality assurance; reengineering; project management; software process; tools; and environments.
+
+CS 181 
+Principles of Programming Languages 4 
+CS 061, CS 100, CS 111, CS 150
+Covers the principles of programming language design. Includes the study and comparison of several programming languages, their features, and their implementations.
+
+CS 182 
+Software Testing and Verification 4 
+CS 100
+A study of modern techniques to assess the quality of software artifacts through functional, performance, and reliability testing. Introduces black box and white box testing techniques. Covers the application of modern testing tools to software units, components, subsystems, and entire systems. Also covers verification as a complementary technique to testing.
+
+CS 183 
+Unix System Administration 4 
+CS 100
+Explores the technical aspects of system administration on a Unix system, including advanced Unix. Includes managing system devices, operating system installation, communications, and networking.
+
+CS 193 
+Design Project 4
+CS 141
+Individual hardware or software design project to include establishment of objectives and criteria, synthesis, analysis, implementation, testing, and documentation. Course is repeatable to a maximum of 8 units.
+
+ME 002 
+Introduction to Mechanical Engineering 4 
+MATH 005 or equivalent.
+An introduction to the field of mechanical engineering. Topics include the mechanical engineering profession; machine components; forces in structures and fluids; materials and stresses; thermal and energy systems; machine motion; and machine design.
+
+ME 003 
+How Things Work: the Principles Behind Technology 4 
+none. 
+Introduces the basic physical principles of engineering systems from everyday life such as automobiles, computers, and household appliances. Topics include conservation laws and the physics and chemistry of engineering systems. Does not confer credit towards a degree in the Bourns College of Engineering.
+
+ME 004 
+Energy and the Environment 4 
+none. 
+Covers energy conservation, energy sources, market dynamics, and climate change. Addresses cultural, political, and social trends and their impact on the ecosystem. Discusses renewable and nonrenewable energy sources. Technical background not required. Does not confer credit towards a degree in the Bourns College of Engineering.
+
+ME 005
+The Science of Mythbusting 4 
+none. 
+Introduces to the scientific method for non-science majors. Explores the application of scientific concepts to test the validity of myths and events from news stories, movies, and other popular media. Provides critical reasoning skills necessary to interpret advertiser's product claims, critique information on the World Wide Web, and understand new technologies.
+
+ME 009 
+Engineering Graphics and Design 4 
+none. 
+Covers graphical concepts and projective geometry relating to spatial visualization and communication in design. Includes technical sketching, computer-aided design with solid modeling, geometric dimensioning and tolerancing, and an introduction to the engineering design process.
+
+ME 010 
+Statics 4 
+MATH 009C, PHYS 040A or PHYS 040HA. 
+Covers equilibrium of coplanar force systems; analysis of frames and trusses; noncoplanar force systems; friction; and distributed loads.
+
+ME 018A 
+Introduction to Engineering Computation 2 
+MATH 009A or equivalent.
+An introduction to the use of MATLAB in engineering computation. Covers scripts and | 412 functions, programming, input/output, two- and three-dimensional graphics, and elementary numerical analysis.
+
+ME 018B 
+Introduction to Computational Modeling in Mechanical Engineering 4 
+MATH 009B with a grade of " C-" or better; ME 002 with a grade of "C-" or better; ME 018A. 
+Introduces students to concepts of computational modeling in mechanical engineering. Topics include formulation of models to solve problems involving vector analysis, linear algebra, differential and integral calculus. Explores analytical and numerical solutions to problems in mechanical engineering. 
+
+ME 100A 
+Thermodynamics 4 
+MATH 010A, ME 018B with a grade of C- or better, PHYS 040B or PHYS 040HB. 
+Introduces basic concepts and applications of thermodynamics relevant to mechanical engineering. Topics include work and energy, the first law of thermodynamics, properties of pure substances, system and control volume analysis, the Carnot cycle, heat and refrigeration cycles, the second law of thermodynamics, entropy, and reversible and irreversible processes. Credit is awarded for only one of CHE 100 or ME 100A.
+
+ME 100B 
+Thermodynamics 4 
+ME 100A. 
+Topics include the second law of thermodynamics, entropy function, entropy production, analysis of cycles, vapor power systems, gas power systems, refrigeration and heat pump systems, equations of state, thermodynamic property relations, ideal gas mixtures and psychrometrics, multicomponent systems, combustion, and reacting mixtures.
+
+ME 103 
+Dynamics 4 
+MATH 046, ME 010 with a grade of "C-" or better, ME 018B with a grade of C- or better. 
+Topics include vector representation of kinematics and kinetics of particles; Newton's laws of motion; forcemass-acceleration, work-energy, and impulsemomentum methods; kinetics of systems of particles; and kinematics and kinetics of rigid bodies.
+
+ME 110 
+Mechanics of Materials 4 
+CS 009M or ME 018A; MATH 046, ME 010 with a grade of "C-" or better. 
+Topics include mechanics of deformable bodies subjected to axial, torsional, shear, and bending loads; combined stresses; and their applications to the design of structures.
+
+ME 113 
+Fluid Mechanics 4 
+MATH 046, PHYS 040B or PHYS 040HB, ME 010 with a grade of C- or better, ME 018B with a grade of C- or better. 
+Introduces principles of fluid mechanics relevant to mechanical engineering. Topics include shear stresses and viscosity, fluid statics, pressure, forces on submerged surfaces, Bernoulli and mechanical energy equations, control volume approach, mass conservation, momentum and energy equations, the differential approach, turbulent flow in pipes, and lift and drag. Credit is awarded for only one of CHE 114 or ME 113.
+
+ME 114 
+Introduction to Materials Science and Engineering 4 
+CHEM 001B, PHYS 040C or PHYS 040HC; upper-division standing.
+Covers materials classification, atomic structure and interatomic bonding, crystal structure of metals, imperfections in solids, diffusion, mechanical properties of engineering materials, strengthening mechanisms, basic concepts of fracture and fatigue, phase diagrams, ceramics, polymers, and composites.
+
+ME 116A 
+Heat Transfer 4 Lecture, 3 hours, discussion, 1 hour. 
+MATH 046, ME 113 (ME 113 may be taken concurrently).
+Introduces the analysis of steady and transient heat conduction, fin and heat generating systems, two-dimensional conduction, internal and external forced convection, natural convection, radiation heat transfer, heat exchangers, and mass transfer. Credit is awarded for only one of CHE 116 or ME 116A.
+
+ME 116B 
+Heat Transfer 4 
+ME 116A.
+Covers analytical and numerical methods in heat transfer and fluid mechanics. Topics include heat conduction and convection, gaseous radiation, boiling and condensation, general aspects of phase change, mass transfer principles, multimode heat transfer and the simulation of thermal fields, and the heat transfer process.
+
+ME 117 
+Combustion and Energy Systems 4 
+ME 100A, ME 113, ME 116A.
+Discusses premixed and diffusion flames; fuel-air thermochemistry; combustion-driven engine design and operation; engine cycle analysis; fluid mechanics in engine components; pollutant formation; and gas turbines.
+
+ME 118 
+Mechanical Engineering Modeling and Analysis 4 
+MATH 046, ME 018B with a grade of C- or better. 
+Introduces data analysis and modeling used in engineering through the software package MATLAB. Numerical methods include descriptive and inferential statistics, sampling and bootstrapping, fitting linear and nonlinear models to observed data, interpolation, numerical differentiation and integration, and solution of systems of ordinary differential equations. Final project involves the development and evaluation of a model for an engineering system. Credit is awarded for only one of ENGR 118 or ME 118.
+
+ME 120 
+Linear Systems and Controls 4 
+EE 001A, EE 01LA, ME 018B with a grade of C- or better. 
+Introduces the modeling and analysis of dynamic systems, emphasizing the common features of mechanical, hydraulic, pneumatic, thermal, electrical, and electromechanical systems. Controls are introduced through state equations, equilibrium, linearization, stability, and time and frequency domain analysis.
+
+ME 121 
+Feedback Control 4 
+ME 118, ME 120. 
+Introduces students to the analysis and design of feedback control systems using classical control methods. Topics include control system terminology, block diagrams, analysis and design of control systems in the time and frequency domains, closed-loop stability, root locus, Bode plots, and an introduction to analysis in state-space.
+
+ME 122 
+Vibrations 4 
+ME 103.
+Covers free and forced vibration of discrete systems with and without damping resonance; matrix methods for multiple degree-of-freedom systems; normal modes, coupling, and normal coordinates; and use of energy methods.
+
+ME 130 
+Kinematic and Dynamic Analysis of Mechanisms 4 
+ME 009, ME 103. 
+Explores the kinematic analysis of planar mechanisms including linkages, cams, and gear trains. Introduces concepts of multibody dynamics.
+
+ME 131 
+Design of Mechanisms 4 
+ME 130. 
+Involves design of planar, spherical, and spatial mechanisms using both exact and approximate graphical and analytical techniques. Requires a computer-aided design project.
+
+ME 133 
+Introduction to Mechatronics 4 
+ME 120. 
+Introduces hardware, software, sensors, actuators, physical systems models, and control theory in the context of control system implementation. Covers data acquisition (Labview), sensors, actuators, electric circuits and components, semiconductor electronics, logic circuits, signal processing using analog operational amplifiers, programmable logic controllers, and microcontroller programming and interfacing. Uses MATLAB and Simulink.
+
+ME 134 
+Microstructural Transformations in Materials 4 
+ME 114 or consent of instructor.
+An introductory study of the fundamentals (thermodynamics and kinetics) controlling microstructural transformations in materials and their application to both liquid-solid and solid-solid transformations. Focuses on the important transformations that ultimately control the microstructures and properties of crystalline solids. Cross-listed with MSE 134.
+
+ME 135 
+Transport Phenomena 4 
+ME 100A, ME 113, ME 116A. 
+Introduces new concepts of thermodynamics, fluid mechanics, and heat transfer: sychrometry, combustion, one-dimensional compressible flow, and turbomachinery. Integrates the most important concepts of transport of momentum, heat, and mass.
+
+ME 136 
+Environmental Impacts of Energy Production and Conversion 4 
+ME 100A, ME 113, ME 116A. 
+Covers thermodynamics, heat transfer, and fluid mechanics as applied to the examination of the environmental impacts of energy production and conversion. Topics include pollution associated with fossil fuel combustion, environmental impacts of energy use, turbulent transport of pollutants, and principles used in the design of pollution control equipment.
+
+ME 137 
+Environmental Fluid Mechanics 4 
+ME 100A, ME 113. 
+Covers the application of fluid mechanics to flows in the atmosphere and oceans. Topics include hydrostatic balance, Coriolis effects, geostrophic balance, boundary layers, turbulence, tracer and heat transport.
+
+ME 138 
+Transport Phenomena in Living Systems 4 
+BIEN 105 or ME 113, MATH 046, PHYS 040B or PHYS 040HB. 
+An introduction to the application of the basic conservation laws of mechanics (mass, linear momentum, and energy) to the modeling of complex biological systems. Emphasizes how these concepts can explain and predict life processes.
+
+ME 140 
+Ship Theory 4 
+ME 103, ME 113. 
+Covers ship hull form, static and dynamic stability, ship response to waves, grounding and flooding, numerical integration of complex three-dimensional curved shapes and mathematical modeling of curved surfaces. Explores engineering approximations necessary for applications of fundamental principles to complex engineering systems such as ships.
+
+ME 144 
+Introduction to Robotics 4 
+EE 132. 
+Covers basic robot components from encoders to microprocessors. Kinematic and dynamic analysis of manipulators. Adrdresses open- and closed-loop control strategies, task planning, contact and noncontact sensors, robotic image understanding, and robotic programming languages. Experiments and projects include robot arm programming, robot vision, and mobile robots. Cross-listed with EE 144.
+
+ME 145 
+Robotic Planning and Kinematics 4 
+ME 120 or equivalent; or consent on instructor. 
+Motion planning and kinematics topics with an emphasis in geometric reasoning, programming, and matrix computations. Motion planning includes configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics includes reference frames, rotations and displacements, and kinematic motion models. Cross-listed with EE 145.
+
+ME 153 
+Finite Element Methods 4 
+ME 118. 
+Covers weak form formulation, the Galerkin method and its computational implementation, mesh generation, data visualization, as well as programming finite element codes for practical engineering applications.
+
+ME 156 
+Mechanical Behavior of Materials 4 
+senior standing; ME 110; ME 114. 
+Introduces the theory and experimental techniques for testing the mechanical behavior of materials and structures. Covers the fundamental mechanisms of deformation and failure of metals, ceramics, polymers, composite materials, and electronic materials as well as structural design and materials selection.
+
+ME 170A 
+Experimental Techniques 4 
+EE 001A, EE 01LA, ME 018B. 
+Covers the principles and practice of measurement and control, and the design and implementation of experiments. Topics include dimensional analysis, error analysis, signal-to-noise problems, filtering, data acquisition and data reduction, and statistical analysis. Includes experiments on the use of electronic devices and sensors, and practice in technical report writing.
+
+ME 170B 
+Experimental Techniques 4 
+ME 103, ME 110, ME 113, ME 116A, ME 170A.
+Analysis and verification of engineering theory using laboratory measurements in advanced, project-oriented experiments involving fluid flow, heat transfer, structural dynamics, thermodynamic systems, and electromechanical systems.
+
+ME 174 
+Machine Design 4 
+ME 009, ME 103 (can be taken concurrently), ME 110, ME 114. 
+An introduction to the fundamentals of strength-based design. Topics include deflection and stiffness, static failure, and fatigue failure.
+
+ME 175A 
+Professional Topics in Engineering 2 
+senior standing in Mechanical Engineering major; ME 009. 
+Topics include technical communication, team work, project management, engineering economics, professional ethics, and computer-aided design. Satisfactory (S) or No Credit (NC) grading is not available.
+
+ME 175B 
+Mechanical Engineering Design 3 
+senior standing in Mechanical Engineering. ME 113, ME 116A, ME 170A, ME 174, ME 175A (may be taken concurrently).
+Outlines the defining of a design problem and the conception and detail of the design solution. Explores design theory, design for safety, reliability, manufacture, and assembly. Graded In Progress (IP) until ME 175B and ME 175C are completed, at which time a final, letter grade is assigned.
+
+ME 175C 
+Mechanical Engineering Design 3 
+senior standing in Mechanical Engineering; ME 175B.
+Students create, test, and evaluate a prototype based on the project design generated in ME 175B. Lecture topics include prototyping techniques, design verification, and special topics in design. Satisfactory (S) or No Credit (NC) grading is not available.
+
+ME 175D 
+Technological Entrepreneurship 4 
+senior standing in Mechanichal Enigneering. 
+Introduces concepts of business and management required to convert a technology into a viable business. Topics include technological assessment, market analysis, strategy, decision making, legal and intellectual property issues in business, financial analysis, business ethics and communication. Satisfactory (S) or No Credit (NC) grading is not available
+
+ME 176 
+Sustainable Product Design 4 
+ME 103, ME 110, ME 113, ME 116A. 
+Introduces the principles of sustainable product design. Topics include life cycle design; design for reliability, maintainability, and recycling/reuse/ remanufacture; materials selection; and manufacturing processes. Includes project in which students analyze the environmental impact of a product and redesign it to reduce the impact. Credit is awarded for only one of ME 176 or ME 210.
+
+ME 180 
+Optics and Lasers in Engineering 4 
+senior standing; ME 010, ME 110, ME 170A. 
+Focuses on principles of optics and lasers, wave equations, interferometry, diffraction, lasermaterial interactions. Applications in analytical characterization including confocal microscopy, Raman spectroscopy, mechanical deformation analysis, scanning probe microscopy, ultravioletvisible spectrophotometry, photoluminescence, optical detectors, and lasers in materials processing.
+
+ME 190 
+Special Studies 1 to 5 
+consent of instructor, department chair, and Mechanical Engineering Undergraduate Program Committeechair. 
+Individual study to meet special curricular needs. Requires a final written report. Course is repeatable to a maximum of 9 units.
+
+ME 197 
+Research For Undergraduates 1 to 4 
+consent of instructor and Mechanical Engineering Undergraduate Program Committee chair. 
+Directed research in a particular subject relevant to mechanical engineering. Requires a final written technical report. Course is repeatable to a maximum of 8 units
+
+MSE 001
+Fundamentals of Materials Science and Engineering 2
+
+An introduction of properties and applications of different types of materials essential for various areas of engineering. Explores the relationship between structure and properties as well as processing of the materials. Illustrates a wide range of properties required for different types of applications.
+
+MSE 003L
+General Materials Laboratory 1
+MSE 001 
+The three-course sequence MSE 002L, MSE 003L, and MSE 004L provides students with hands on laboratory experience. Experiments will introduce students to topics related to the structure-compositionprocessing-performance relationship of various materials including ceramics, electronic materials, metals, and polymers and their mechanical, electrical, or magnetic properties. 
+
+MSE 134 
+Microstructural Transformations in Materials 4
+ME 114
+An introductory study of the fundamentals (thermodynamics and kinetics) controlling microstructural transformations in materials and their application to both liquid-solid and solid-solid transformations. Focuses on the important transformations that ultimately control the microstructures and properties of crystalline solids. Cross-listed with ME 134.
+
+MSE 135 
+Introduction to Inorganic Material Synthesis 4 
+MSE 001, CHE 100, ME114, CHEM 008A 
+Introduction to the synthesis methods of modern materials. Topics include solid-state reactions, gas-phase and solution phase synthesis, templating methods, synthesis and modification of inorganic polymers, semiconductor thin-film deposition, and the growth of nanomaterials.
+
+MSE 136 
+Tissue Engineering 4 
+BIOL 005A, BIOL 005B, CHEM 001C
+Covers progress in cellular and molecular biology and engineering. Provides the basis for advancing tissue repair and regeneration with the goal of restoring compromised tissue functions. Presents methods for cell culture, tissue design and development, manipulation of the cell/tissue microenvironment, and current strategies for functional reconstruction of injured tissues.
+
+MSE 155 
+Materials Science of the Solid State 4
+EE 138
+Explores at an advanced level the quantum mechanical behavior of electron motion and atom vibration in a periodic solid and their effect on the electronic and thermal properties of matter. The course discusses modern materials science research problems.
+
+MSE 156 
+Atomistic Modeling of Solid State Materials 4
+MSE 155
+Introduces a basic understanding of computational methods in materials science. Emphasizes the fundamentals of density functional theory and its use in the solid-state context. Includes projects that provide practical hands-on experience using state-of-the-art computational techniques in materials science.
+
+MSE 160 
+Nanostructure Characterization Laboratory 4
+ME 114
+Covers structure of materials at the nanoscale, including semiconductors, ceramics, metals, and carbon nanotubes. Explores relationships among morphology, properties, and processing. Addresses primary methods of characterization, including scanning electron microscopy, scanning probe microscopy, X-ray diffraction, and transmission electron microscopy. Also covers elementary discussions of X-ray, vibrational, and electron waves in solids and introductory diffraction theory.
+
+MSE 161 
+Analytical Materials Characterization 4 
+MSE 160
+Analysis of the surfaces of materials via ion, electron, and photon spectroscopies. Includes Rutherford back scattering; secondary ion mass spectroscopy; electron energy loss spectroscopy; Auger electron spectroscopy; X-ray photoelectron spectroscopy; photoluminescence; extended X-ray absorption fine structure; Fourier transform infrared spectroscopy; and Raman spectroscopy. Also covers sputtering, high-vacuum generation, and focused ion beam milling.
+
+MSE 175A 
+Senior Design 4
+CHE 116, EE 139
+Covers preparation of formal engineering reports and statistical analysis on a series of problems illustrating methodology from various branches of applied materials science and engineering. Addresses the entire design process: design problem definition; generation of a design specification; documentation; design review process; prototype fabrication; testing and calibration; cost estimation; and federal guidelines. Requires a term project and oral presentation. Graded In-Progress (IP) until MSE 175A and MSE 175B are completed, at which time a final, letter grades is assigned.
+
+MSE 175B 
+Senior Design 4
+MSE 175A
+Covers preparation of formal engineering reports and statistical analysis on a series of problems illustrating methodology from various branches of applied materials science and engineering. Addresses the entire design process: design problem definition; generation of a design specification; documentation; design review process; prototype fabrication; testing and calibration; cost estimation; and federal guidelines. Requires a term project and oral presentation.
+
+MSE 197 
+Research For Undergraduates 4 
+
+Research conducted under the supervision of a MSE faculty member on selected problems in materials science and engineering supporting the focus area of the student.
+
+BUS 020
+Financial Accounting and Reporting 4
+
+A study of the concepts and techniques for measurement and communication of financial information. Includes interpretation of financial statements
+
+ECON 002
+Intro to Microeconomics 4
+MATH 009A
+
+
+ECON 003
+Intro to Macroeconomics 4
+Math 009A
+
+
+BUS 103 
+Marketing and Distribution Management 4
+BUS 020, ECON 003
+
+
+BUS 104 
+Decision Analysis and Management Science 4
+CS 008
+
+
+BUS 106 
+Introduction to Financial Management 4 
+BUS 020, ECON 003
+
+
+CEE 010
+Introduction to Chemical and Environmental Engineering 1
+ 
+
+
+CEE 011 
+Introduction to Bioengineering 2 
+
+
+
+CEE 125
+Analytical Methods For Chemical and Environmental Engineers 
+CEE 010, CHEM 001C, CHEM 008A, PHYS 040C
+Examines chromatographic separations, mass spectrometry, atomic absorption, and electrophoresis. Presents total carbon analysis as an introduction to analytical methods and their use in the chemical and environmental engineering fields.
+
+CEE 132 
+Green Engineering 4
+CHE 110A
+An introduction to the design, commercialization, and use of feasible and economical processes and products that minimize risks to human health and the environment. Topics covered include environmental risk assessment; regulations; chemical process flow-sheet analysis for pollution prevention; product life-cycle assessment; and industrial ecology. Credit is awarded for only one of CEE 132 or CEE 232.
+
+CEE 135 
+Chemistry of Materials 4 
+CHEM 008A, PHYS 040C. 
+An introduction to the synthesis, structure, properties, and performance of modern materials. Topics include the science of materials, bonding and structure, the strength of materials, electrons in materials, semiconductors, superconductors, and optical properties of materials.
+
+CEE 136 
+Aerosol Technology 4 
+CHE 120
+Explores the physical and chemical properties of aerosol and its relationship to ambient air quality, control technology, health impacts, and global climate change. Introduces the principles of aerosol measurement and aerosol measurement technology.
+
+CEE 140A 
+Biomaterials 4
+BIEN 101, MATH 010B, PHYS 040B
+Covers the principles of materials science and engineering, with attention to topics in bioengineering. Explores atomic structures, hard treatment, fundamentals of corrosion, manufacturing processes, and characterization of materials. Cross-listed with BIEN140A.
+
+CEE 140B 
+Biomaterials 4
+PHYS 040B
+Covers the structure-property relations of metals, ceramics, polymers, and composites, as well as hard and soft tissues such as bone, teeth, cartilage, ligament, skin, muscle, and vasculature. Focuses on behavior of materials in the physiological environment. Cross-listed with BIEN140B.
+
+CEE 158 
+Professional Development For Engineers 3 
+
+A review of various topics relevant to the professional development of chemical engineers. Includes career paths; interview strategies; professional registration and preparation for certification examinations; ethics; risk management and environmental health and safety; regulatory issues; and lifelong learning.
+
+CEE 159 
+Dynamics of Biological Systems 4
+BIOL 005B, MATH 046
+Covers engineering principles for the analysis and modeling of biological phenomena. Topics include molecular diffusion and transport, membranes, ligandbioreceptor interactions, enzyme kinetics, and dynamics of metabolic pathways. Examines the application of these principles to the design of bioreactors, bioassays, drug delivery systems, and artificial organs. Cross-listed with BIEN 159.
+
+CEE 197 
+Research For Undergraduates 1
+
+Directed research on a  topic relevant to chemical and environmental engineering. Requires a final written report. Course is repeatable to a maximum of 8 units.
+
+CHE 100 
+Engineering Thermodynamics 4 
+CHEM 001C, MATH 046, PHYS 040B.
+An introduction to engineering thermodynamics with emphasis on chemical and environmental engineering systems. Topics include concepts of equilibrium, temperature, and reversibility; the first law and concept of energy; and the second law and concept of entropy. Also examines equations of state, thermodynamic properties, and engineering applications used in the analysis and design of closed and open systems. Credit is awarded for only one of CHE 100 or ME 100A.
+
+CHE 102 
+Catalytic Reaction Engineering 4
+CHE 122
+Principles of surface reactions and heterogeneous catalysis. Catalyzed reaction kinetics, heterogeneous reactions, diffusion and heterogeneous catalysis, analysis and design of heterogeneous reactors.
+
+CHE 105 
+Introduction to Nanoscale Engineering 4
+CEE 135, MATH 010A, PHYS 040C
+An introduction to nanotechnology engineering and its various applications. Includes electromagnetic waves and quantum mechanics; synthesis of nanostructures; assembly of nanostructures; and traditional and nontraditional methods of nanolithography and interactions between electronic and optical properties. Also covers organic heterostructures, nanotubes, and quantum computing.
+
+CHE 110A 
+Chemical Process Analysis 3 
+CHEM 001C, MATH 009C, PHYS 040B
+Introduces the principles of conservation of mass in chemical process systems. Topics include the development of steady-state mass balances, and application of mass balances to existing industrial processes.
+
+CHE 110B 
+Chemical Process Analysis 3 
+CHE 110A
+Applies principles of conservation of energy to chemical process systems. Topics include the development of steady-state and unsteady-state energy balances as well as combined mass and energy balances in industrial processes.
+
+CHE 114 
+Applied Fluid Mechanics 4 
+CHE 110A, MATH 010A, MATH 046, PHYS 040B
+An introduction to fluid statics, fluid flow, and flow of compressible and incompressible fluids in conduits and openchannel flow. Also covers flow past immersed bodies, transportation and metering of fluids, and agitation and mixing of liquids. Credit is awarded for only one of CHE 114 or ME 113.
+
+CHE 116 
+Heat Transfer 4 
+CHE 100, CHE 114
+An analysis of heat transfer for Chemical Engineering and Environmental Engineering majors. Topics include steadyand unsteady-state heat conduction, forced convection, basic radiation heat transfer, and design of heat exchangers. Credit is awarded for only one of CHE 116 or ME 116A.
+
+CHE 117 
+Separation Processes 4 
+CHE 116, CHE 120
+Covers fundamental concepts and practical techniques for designing equipment based on equilibrium stage processes. Explores gas-liquid absorption, distillation, liquid-liquid extraction, solid-liquid extraction, humidification, drying, and membrane processes.
+
+CHE 118 
+Process Dynamics and Control 4 
+CHE 117, CHE 122, ENGR 118
+Fundamentals of process control. Feedback and feedforward control of dynamic processes. Frequency response analysis. Introduction to multivariable control.
+
+CHE 120 
+Mass Transfer 4 
+CHE 114, MATH 046
+Introduction to analysis of mass transfer in systems of interest to chemical and environmental engineering practice. Explores transport of matter by diffusion, free, and forced convection.
+
+CHE 122 
+Chemical Engineering Kinetics 4 
+CHE 100, CHE 110B, CHE 120, ENGR 118
+Introduction to homogeneous and heterogeneous kinetics and reactor design for chemical and biochemical processes.
+
+CHE 124 
+Biochemical Engineering Principles 4 
+BCH 110A, CHE 120, CHE 122 
+Examines the principles of biochemical engineering. Topics include kinetics of enzymatic reactions and microbial growth, batch and continuous culture reactors, product formulation, and nutrient utilization. Also studies oxygen transfer, bioreactor scale-up, air and media sterilization, fundamentals of bioreactor design, and bioseparations.
+
+CHE 124L 
+Biochemical Engineering Laboratory 2
+CHE 124
+Laboratory practices in biochemical engineering. Determination of microbial kinetics and biologically mediated reactions, oxygen transfer coefficients. Batch and continuous culturing, air and media sterilization, bioseparations.
+
+CHE 130 
+Advanced EngineeringThermodynamics 4 
+CHE 100
+Advanced study of chemical thermodynamics and their applications to chemical and environmental engineering processes. Applies principles for the thermodynamic behavior of pure solutions and mixtures, phases, and chemical equilibria for homogeneous and heterogeneous systems to a variety of processes common to chemical and environmental engineering. Cross-listed with ENVE 130.
+
+CHE 131 
+Electrochemical Engineering 4 
+CHE 100, CHE 120, CHE 122
+Explores role of thermodynamics, charge transfer kinetics, and mass transfer on behavior of electrochemical systems. Includes cell thermodynamics, faradaic and non-faradaic rate processes, ionic transport, nucleation and growth theories. Shows applications to chemical sensors, batteries, corrosion, and thin film deposition. Provides in-class demonstrations to illustrate concepts.
+
+CHE 136 
+Advanced Topics in Heat Transfer 4 
+CHE 116, CHE 120 
+Advanced study of the computational and theoretical methods associated with heat transfer, fluid flow, and other related processes. Topics include phenomena of heat conduction, convection, and the calculation of flow fields.
+
+CHE 140 
+Cell Engineering 4 
+CHE 124
+Introduction to genetic and environmental manipulation of cells for production of proteins and for enhanced biocatalytic and synthetic activities. Cloning and gene expression in different host systems, posttranslational processing, metabolic controls and kinetics, in vivo NMR spectroscopy, cell modeling, and sensitivity analysis. Credit is awarded for only one of CEE 210 or CHE 140.
+
+CHE 150 
+Biosensors 4 
+CHE 124
+Introduces the fundamentals and applications of biosensors. Topics on enzyme-, whole cell-, tissue-, and antibody/antigen-based electrochemical, optical, and piezoelectric biosensors for applications in bioprocess monitoring and control, environmental monitoring, and health care are covered.
+
+CHE 160A 
+Chemical and Environmental Engineering Laboratory 3 
+CHE 114, CHE 120
+Involves laboratory exercises in chemical and environmental engineering. Experiments cover physical measurements, fluid mechanics, and mass transfer. Emphasizes experimental design, analysis of results, and preparation of engineering reports. Cross-listed with ENVE 160A.
+
+CHE 160B 
+Chemical Engineering Laboratory 3 
+CHE 116, CHE 122
+Consists of laboratory exercises in chemical engineering. Includes experiments in physical measurements, heat transfer, reactor analysis, and chemical kinetics. Emphasis is on  179 | experimental design, analysis of results, and preparation of engineering reports.
+
+CHE 160C 
+Chemical Engineering Laboratory 3 
+CHE 117, CHE 118, CHE 122
+Consists of laboratory exercises in chemical engineering. Includes experiments and simulations in separation processes and in process control. Emphasis is on experimental design, analysis of results, and preparation of engineering reports.
+
+CHE 161 
+Nanotechnology Processing Laboratory 3 
+CHE 100
+An introduction to growth and characterization techniques that involve nanomaterials and devices. Includes preparing thin films; synthesizing Au and CdS nanoparticles; synthesizing carbon nanotubes; synthesizing alumina nanotemplate; synthesizing gold and nickel nanowires; and assembling of nanowires. Also includes imaging samples with optical, scanning electron microscope, scanning tunneling microscope, and atomic force microscope.
+
+CHE 171 
+Pollution Control For Chemical Engineers 4 
+CHE 117
+Principles of industrial pollution control in chemical engineering plants. Regulations, criteria, measurements, and pollution control systems associated with air, wastewater, and solid waste management.
+
+CHE 175A 
+Chemical Process Design 4 
+CHE 117, CHE 122, MATH 010B, CHE 118
+Introduction to chemical process plant design procedures through economic analysis and actual design of chemical processes. Addresses practical applications to current chemical and biochemical processes and economic constraints. Concentrates on general design considerations and economic principles. Graded In Progress (IP) until CHE 175A and CHE 175B are completed, at which time a final, letter grade is assigned.
+
+CHE 175B 
+Chemical Process Design 4 
+CHE 175A
+Introduction to chemical process plant design procedures through economic analysis and actual design of chemical processes. Topics address practical applications to current chemical and biochemical processes and economic constraints. Students complete a detailed analysis and process design of the projects begun in CHE 175A. A final report and oral presentation are required. Satisfactory (S) or No Credit (NC) grading is not available.
+
+CHE 190 
+Special Studies 1 to 5 
+
+Individual study to meet special curricular needs. Course is repeatable to a maximum of 9 units.
+
+EE 001A 
+Engineering Circuit Analysis I 3 
+MATH 046, PHYS 040
+Ohm's law and Kirchoff's laws; nodal and loop analysis; analysis of linear circuits; network theorems; transients in RLC circuits. Application of SPICE to circuit analysis. 
+
+EE 01LA
+Engineering Circuit Analysis I Laboratory 1
+EE 001A
+Experiments closely tied to the lecture material of EE 001A: resistive circuits, attenuation and amplification, network theorems and superposition, operational amplifiers, transient response, application of SPICE to circuit analysis.
+
+EE 001B 
+Engineering Circuit Analysis II 4
+EE 001A, EE 01LA
+Sinusoidal steady state analysis, polyphase circuits, magnetically coupled networks, frequency characteristics, Laplace and Fourier transforms, Laplace and Fourier analysis. Application of SPICE to complicated circuit analysis.
+
+EE 010 
+Introduction to Electrical Engineering 1
+
+Introduces electrical engineering applications, career options, and the electrical engineering curriculum. Provides motivation and context for the mathematics and science courses that are prerequisites to most electrical engineering courses. Discusses contemporary engineering issues, social and environmental impact of engineering solutions, professional ethics, and need for life-long learning.
+
+EE 020 
+Linear Methods For Engineering Analysis and Design Using Matlab 4 
+CS 010, MATH 009A
+Introduces MATLAB programming and linear methods for engineering analysis and design. Topics include formulating engineering problems as linear systems of equations; methods for finding their solutions; vector and matrix representations of signals and systems; matrices computations; and linear programming for system analysis and design.
+
+EE 100A 
+Electronic Circuits 4
+EE 001B
+Electronic systems, linear circuits, operational amplifiers, diodes, nonlinear circuit applications, junction and metal-oxide-semiconductor fieldeffect transistors, bipolar junction transistors, MOS and bipolar digital circuits. Laboratory experiments are performed in the subject areas and SPICE simulation is used.
+
+EE 100B 
+Electronic Circuits 4
+EE 100A
+Differential and multistage amplifiers, output stages and power amplifiers, frequency response, feedback, analog integrated circuits, filters, tuned amplifiers, and oscillators. Laboratory experiments are performed in the subject areas and SPICE simulation is used. 
+
+EE 105 
+Modeling and Simulation of Dynamic Systems 4 
+EE 001A, EE 020, MATH 046 
+Introduces the mathematical modeling  of dynamical systems and their methods of solution. Explores advanced techniques and concepts for analytical modeling and study of various electrical, electronic, and electromechanical systems based upon physical laws. Emphasizes formulation of problems via differential equations. Addresses numerical methods for integration and matrix analysis problems.
+
+EE 110A 
+Signals and Systems 4
+EE 001B, EE 020
+Covers basic signals and types of systems, linear time-invariant (LTI) systems, Fourier analysis, frequency response, and Laplace transforms for LTI systems. Includes laboratory experiments with signals, transforms, harmonic generation, linear digital filtering, and sampling/aliasing. 
+
+EE 110B 
+Signals and Systems 4
+EE 110A
+Fourier analysis for discrete-time signals and systems, filtering, modulation, sampling and interpolation, z-transforms. Laboratory experiments with signals, transforms, harmonic generation, linear digital filtering, and sampling/ aliasing.
+
+EE 111 
+Digital and Analog Signals and Systems 4
+EE 001B, EE 020, MATH 046
+or consent of instructor. Covers continuousand discrete-time signals and systems; linear time-invariant (LTI) systems; impulse response; Fourier analysis; frequency response; Laplace and Z-transforms; and sampling theorem and Nyquist rates. Includes laboratory experiments with signals, transforms, linear digital filtering, and sampling/aliasing.
+
+EE 114 
+Probability, Random Variables, and Random Processes in Electrical Engineering 4
+EE 110A, EE 111
+Covers fundamentals of probability theory, random variables, and random processes with applications to electrical and computer engineering. Includes probability theory, random variables, densities, functions of random variables, expectations and moments, and multivariate distributions. Also addresses random processes, autocorrelation function, spectral analysis of random signals, and linear systems with random inputs.
+
+EE 115 
+Introduction to Communication Systems 4
+EE 110B 
+Covers spectral density and correlation, modulation theory, amplitude, frequency, phase and analog pulse modulation and demodulation techniques, signal-to-noise ratios, and system performance calculations. Laboratory experiments involve techniques of modulation and demodulation. 
+
+EE 116 
+Engineering Electromagnetics 4
+EE 001B
+Transmission lines, fields and field operators, electrostatic and magnetostatic fields, time-varying fields, electrodynamics, electromagnetic waves, plane waves, guided waves, and applications to engineering problems.
+
+EE 117 
+Electromagnetics II
+EE 116
+Covers applications of Maxwell's equations. Includes skin effect, boundaryvalue problems, plane waves in lossy media, transverse EM waves, hollow metal waveguides, cavity resonators, microstrips, propagation in dielectrics and optical fibers, optical fibers applications, radiation, and antennas. Covers theoretical and computer modeling exercises in basic electromagnetic technology.
+
+EE 118 
+Radio Frequency Circuit Design 4
+EE 116, EE 100B
+Studies design and analysis of radio frequency (RF) circuits. Topics include multiport networks, scattering matrix and S-parameters; transmission lines, matching networks; Smith Chart; RF electromagnetic analysis of waveguides, antennas, filters and couplers; RF transistor equivalent modeling, low-noise amplifier design, noise figure, oscillators and mixers, and phase lock loop.
+
+EE 120A 
+Logic Design 5
+CS 061
+Covers design of digital systems. Includes Boolean algebra; combinational and sequential logic design; design and use of arithmetic logic units, carry-lookahead adders, multiplexors, decoders, comparators, multipliers, flip-flops, registers, and simple memories; state-machine design; and basic register-transfer level design. Uses hardware description languages, synthesis tools, programmable logic, and significant hardware prototyping. Cross-listed with CS 120A.
+
+EE 120B 
+Introduction to Embedded Systems 4 
+EE 120A
+Introduction to hardware and software design of digital computing systems embedded in electronic devices (e.g., digital cameras or portable video games). Includes embedded processor programming, custom processor design, standard peripherals, memories, interfacing, and hardware/software trade-offs. Involves use of synthesis tools, programmable logic, microcontrollers, and developing working embedded systems. Cross-listed with CS 120B.
+
+EE 123 
+Power Electronics 4
+EE 100B
+Covers the study of power semiconductor devices. Includes magnetic circuits and components; switch mode converters and power supplies; and single, three-phase, pulse width modulation, and resonant pulse inverters. Addresses voltage controllers; direct current and induction motor drives; and design of motion control drive circuits for robotic and industrial automation systems.
+
+EE 128 
+Data Acquisition, Instrumentation, and Process Control 4
+EE 100B, EE 120B
+Covers analog signal transducers, conditioning, and processing; step motors, DC servo motors, and other actuation devices. Explores analog to digital and digital to analog converters; data acquisition systems; microcomputer interfaces to commonly used sensors and actuators; and design principles for electronic instruments, real time process control, and instrumentation.
+
+EE 132 
+Automatic Control 4
+EE 105, EE 110A
+mathematical modeling of linear systems for time and frequency domain analysis. Topics include transfer function and state variable representations for analyzing stability, controllability, and observability; and closed-loop control design techniques by Bode, Nyquist, and root-locus methods. Laboratories involve both simulation and hardware exercises.
+
+EE 133 
+Solid-State Electronics 4 
+EE 100A
+Presents the fundamentals of solid-state electronics. Topics include electronic band structure, Fermi and quasi-Fermi levels; doping; contacts; junctions; field-effect, bipolar, and metal-oxide-semiconductor (MOS) transistors; and charge-coupled devices. Also reviews device fabrication concepts.
+
+EE 135 
+Analog Integrated Circuit Layout and Design 4
+EE 100B
+Covers analog circuit design, layout, and verification of complementary metal oxide semiconductors (CMOSs) with use of computeraided design tools. Topics covered include analog metal oxide semiconductor field effect transistor (MOSFET) models, current sources, references, amplified design, nonlinear analog circuits, dynamic analog circuits, analog-todigital converters (ADCs), and digital-to-analog converters (DACs).
+
+EE 136 
+Semiconductor Device Processing 4 
+EE 133
+Presents device simulations and hands-on experience in integrated-circuit fabrication techniques and device characterization. Using four-mask metal-oxide semiconductor (MOS) technology, students fabricate resistors, junctions, capacitors, and MOS transistors and perform electrical evaluation.
+
+EE 137 
+Introduction to Semiconductor Optoelectronic Devices 4
+EE 133
+An introduction to semiconductor optoelectronic devices for optoelectronic communications and signal processing. Topics include basic optical processes in semiconductors, semiconductor light-emitting diode, semiconductor heterojunction lasers, photodetectors, solar cells, optoelectronic modulation, and switching devices.
+
+EE 138 
+Electrical Properties of Materials 4
+PHYS 40C
+Introduces the electrical properties of materials. Includes the electron as a particle and a wave; hydrogen atom and the periodic table; chemical bonds; freeelectron theory of metals; band theory of solids;  semiconductors and dielectrics; measurements of material properties; and growth and preparation of semiconductors.
+
+EE 139 
+Magnetic Materials 4
+PHYS 40C
+Introduces fundamentals of magnetic materials for the next-generation magnetic, nanomagnetic, and spintronics-related technologies. Includes basics of magnetism, models of the equivalent magnetic charge and current, paramagnetic and diamagnetic materials, soft and hard magnetic materials, equivalent magnetic circuits, and magnetic system design foundations.
+
+EE 141 
+Digital Signal Processing 4
+EE 110B
+Transform analysis of Linear TimeInvariant (LTI) systems, discrete Fourier Transform (DFT) and its computation, Fourier analysis of signals using the DFT, filter design techniques, structures for discrete-time systems. Laboratory experiments on DFT, fast Fourier transforms (FFT), infinite impulse response (IIR), and finite impulse response (FIR) filter design, and quantization effects.
+
+EE 142 
+Pattern Recognition and Analysis of Sensor Data 4
+EE 114
+Introduction to pattern recognition for multi-dimensional, multimodal sensor data such as images, videos, and smart grids. Classification and decision functions, feature extraction, regression, and neural networks. Clustering and dimensionality reduction for unsupervised learning. Dynamic models and tracking. Applications of pattern recognition in computer vision, robotics, smart grids, etc.
+
+EE 144 
+Introduction to Robotics 4
+EE 132
+Covers basic robot components from encoders to microprocessors. Kinematic and dynamic analysis of manipulators. Adrdresses open- and closed-loop control strategies, task planning, contact and noncontact sensors, robotic image understanding, and robotic programming languages. Experiments and projects include robot arm programming, robot vision, and mobile robots. Cross-listed with ME 144.
+
+EE 145 
+Robotic Planning and Kinematics 4
+ME 120
+or consent on instructor. Motion planning and kinematics topics with an emphasis in geometric reasoning, programming, and matrix computations. Motion planning includes configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics includes reference frames, rotations and displacements, and kinematic motion models. Cross-listed with ME 145.
+
+EE 146 
+Computer Vision 4
+
+Imaging formation, early vision processing, boundary detection, region growing, two-dimensional and three-dimensional object representation and recognition techniques. Experiments for each topic are carried out.
+
+EE 147 
+Graphics Processing Unit Computing and Programming 4
+EE 120B 
+Introduces principles and practices of programming graphics processing units (GPUs) using the parallel programming environment. Covers memory/threading models, common data-parallel programming patterns and libraries needed to develop highperformance parallel computing applications. Examines computational thinking; a broader range of parallel execution models; and parallel programming principles. Cross-listed with CS 147.
+
+EE 150 
+Digital Communications 4
+EE 114, EE 115
+Topics include modulation, probability and random variables, correlation and power spectra, information theory, errors of transmission, equalization and coding methods, shift and phase keying, and a comparison of digital communication systems.
+
+EE 151 
+Introduction to Digital Control 4 Lecture
+EE 132, EE 141
+Review of continuous-time control systems; review of Z-transform and properties; sampled-data systems; stability analysis and criteria; frequency domain analysis and design; transient and steady-state response; state-space techniques; controllability and observability; pole placement; observer design; Lyapunov stability analysis. Laboratory experiments complementary to these topics include simulations and hardware design.
+
+EE 152 
+Image Processing 4
+EE 110B
+Digital image acquisition, image enhancement and restoration, image compression, computer implementation and testing of image processing techniques. Students gain hands-on experience of complete image processing systems, including image acquisition, processing, and display through laboratory experiments.
+
+EE 153 
+Electric Drives 4
+EE 123, EE 116
+Covers the study of electro-mechanical energy conversion; magnetic circuits and components; electric motors; and direct current, induction, and reluctance motor drives. Also addresses servomechanism analysis and design of feedback controllers; energy efficiency; and drive-by-wire, robotic, and industrial automation systems.
+
+EE 155 
+Power System Analysis 4
+EE 001B, EE 116
+Covers long-distance transmission of electric power. Emphasizes admittance and impedance modeling of components and systems; optimal power flow calculations and applications; symmetrical and asymmetrical fault calculations; economic operation of large-scale generation and transmission systems; and analysis of transmission and distribution networks.
+
+EE 162 
+Introduction to Nanoelectronics 4
+EE 133
+Presents the basic concepts of nanoelectronics with a focus on current flow through nanostructured devices. Topics include new paradigms of nanoelectronics, an atomistic view of electrical resistance, Schroedinger's equation, Coulomb blockade, basis functions, bandstructure, quantum capacitance, level broadening, and coherent transport.
+
+EE 165 
+Design For Reliability of Integrated Circuits and Systems 4
+EE 100A
+Covers essentials of electrical transient induced failures to integrated circuits (IC) and systems. Addresses basics for different failure and testing models including electrostatic discharge (ESD). Discusses design-for-reliability (DFR) techniques such as ESD protection designs at IC, module, and system levels. Enhances learning with computer aided design (CAD) laboratories.
+
+EE 168 
+Introduction to Very Large Scale Integration (VLSI) Design 4
+EE120A 
+Studies integrated circuit fabrication, device characterization, and circuit simulation. Introduces basic device physics and physical design rules, MOS logic design, and timing and clock schemes. Covers layout generation, subsystem designs, and circuits for alternative logic styles. Also covers design and simulation using hardware description language and CAD tools. Crosslisted with CS 168.
+
+EE 175A 
+Senior Design Project 4 
+EE 120B
+of instructor. Proposal of design of electrical engineering devices or systems under the direction of the instructor. Develops technical specification; considers design constraints and industry standards; emphasizes ethical responsibilities; and promotes staying current on technology and its socioeconomic and environmental impact. Graded In Progress (IP) until EE 175A and EE 175B are completed, at which time, a final letter grade is assigned.
+
+EE 175B 
+Senior Design Project 4
+EE 175A
+in Electrical Engineering. Builds, tests, and redesigns electrical engineering devices or systems. Develops and carries out test plan according to design specification. Presents a demo of the design. Completes project testing and technical documentation. Presents a demo of the design. Satisfactory (S) or No Credit (NC) grading is not available.
+
+ENGR 001 
+Professional Development & Mentoring 1 
+
+Activity, 30 hours per quarter. Provides freshmen with involvement in professional development activities. Activities to be performed are program-specific, and may include projects, industry overviews and interactions, involvement with professional societies and clubs, team building, career guidance, and coverage of ethics and lifelong learning issues. E. Bioengineering; F. Chemical Engineering; G. Computer Engineering; I. Computer Science; J. Electrical Engineering; K. Environmental Engineering; M. Cmptr Scnce Business Applctns; N. Mechanical Engineering;
+
+ENGR 002 
+Professional Development & Mentoring 1
+
+Activity, 30 hours per quarter. Prerequisite(s): restricted to class level standing of sophomore; restricted to major(s) Bioengineering, Bioengineering BS + MS, Chemical Engineering, Chemical Engineering BS + MS, Computer Engineering, Computer Science, Computer Science BS + MS, Electrical Engineering, Electrical Engineering BS + MS, Environmental Engineering, Environmental Engr BS + MS, Materials Science and Engineer, Mechanical Engineering, Mechanical Engineering BS + MS. Provides sophomores with involvement in professional development activities. Activities to be performed are program-specific, and may include projects, industry overviews and interactions, involvement with professional societies and clubs, team building, career guidance, and coverage of ethics and lifelong learning issues. E. Bioengineering; F. Chemical Engineering; G. Computer Engineering; I. Computer Science; J. Electrical Engineering; K. Environmental Engineering; M. Information Systems; 
+
+ENGR 010 
+Introduction to Engineering 2
+
+Introduction to and experience with common everyday engineering and technology devices. Aims to enrich students' appreciation of technology and the application of simple science and engineering concepts in the design and operation of these devices, and to provide students with an early positive engineering experience and interaction with College of Engineering faculty. Graded Satisfactory (S) or No Credit (NC). ENGR 060 Engineering Economics 4 Lecture, 3 hours; discussion, 1 hour. Prerequisite(s): MATH 009A. Covers economic decisions involving engineering alternatives. Topics include time value of money, annual cost, present worth, rate of return, and benefit-to-cost. Addresses before and after tax replacement economy, organizational financing, break-even analysis, risk analysis, and capital budgeting. Cross-listed with ECON 060.
+
+ENGR 101 
+(E-Z) Professional Developmt & Mentor 1
+
+restricted to major(s) Bioengineering, Bioengineering BS + MS, Chemical Engineering, Chemical Engineering BS + MS, Computer Engineering, Computer Science, Computer Science BS + MS, Electrical Engineering, Electrical Engineering BS + MS, Environmental Engineering, Environmental Engr BS + MS, Materials Science and Engineer, Mechanical Engineering, Mechanical Engineering BS + MS. Provides juniors with involvement in professional development activities. Activities to be performed are program-specific, and may include projects, industry overviews and interactions, involvement with professional societies and clubs, team building, career guidance, and coverage of ethics and lifelong learning issues. E. Bioengineering; F. Chemical Engineering; G. Computer Engineering; I. Computer Science; J. Electrical Engineering; K. Environmental Engineering; M. Cmptr Scnce Business Applctns; N. Mechanical Engineering;
+
+ENGR 118 
+Engineering Modeling and Analysis 5 
+CHEM 001A, CS 010, MATH 046, PHYS 040B
+Covers the formulation of mathematical models for engineering systems. Includes applying mass, momentum, and energy balances to derive governing differential equations; solving equations with the use of spreadsheets and other software packages; and fitting linear and nonlinear models to experimental data. Credit is awarded for only one of ENGR 118 or ME 118.
+
+ENGR 160 
+Introduction to Engineering Optimization Techniques 4 
+MATH 010, CS 010 or EE 020 or ME 018A and ME 018B.
+Introduction to formulating and solving optimization problems in engineering. Includes single-variable and multi-variable optimization; linear programming - simplex method; nonlinear unconstrained optimization - gradient, steepest descent, and Newton methods; and nonlinear constrained optimization - gradient projection methods. Addresses applications of optimization in engineering design problems. Solves various engineering optimization examples using MATLAB.
+
+ENGR 180W 
+Technical Communications 4 
+
+Develops oral, written, and graphical communication skills. Includes preparing and critiquing reports, proposals, instructions, and business correspondence. Emphasizes professional and ethical responsibilities and the need to stay current on technology and its global impact on economics, society, and the environment. Fulfills the third-quarter writing requirement for students who earn a grade of "C" or better for courses that the Academic Senate designates, and that the student's college permits, as alternatives to English 001C. 
+
+ENGR 181W 
+Technical Communications and Documentation 4
+
+Develops technical communication and documentation skills. Includes writing and critiquing design documentation and technical reports. Uses the capstone design project in an engineering discipline as a case study. Considers professional and ethical responsibilities, contemporary issues in engineering and global impact on economics, society, and the environment. Fulfills the third-quarter writing requirement for students who earn a grade of "C" or better for courses that the Academic Senate designates, and that the students college permits, as alternatives to English 001C.
+
+ME 002 
+Introduction to Mechanical Engineering 4 
+MATH 005
+An introduction to the field of mechanical engineering. Topics include the mechanical engineering profession; machine components; forces in structures and fluids; materials and stresses; thermal and energy systems; machine motion; and machine design.
+
+ME 003 
+How Things Work: the Principles Behind Technology 4 
+
+Introduces the basic physical principles of engineering systems from everyday life such as automobiles, computers, and household appliances. Topics include conservation laws and the physics and chemistry of engineering systems. Does not confer credit towards a degree in the Bourns College of Engineering.
+
+ME 004 
+Energy and the Environment 4 
+
+Covers energy conservation, energy sources, market dynamics, and climate change. Addresses cultural, political, and social trends and their impact on the ecosystem. Discusses renewable and nonrenewable energy sources. Technical background not required. Does not confer credit towards a degree in the Bourns College of Engineering.
+
+ME 005
+The Science of Mythbusting 4 
+
+Introduces to the scientific method for non-science majors. Explores the application of scientific concepts to test the validity of myths and events from news stories, movies, and other popular media. Provides critical reasoning skills necessary to interpret advertiser's product claims, critique information on the World Wide Web, and understand new technologies.
+
+ME 009 
+Engineering Graphics and Design 4 
+
+Covers graphical concepts and projective geometry relating to spatial visualization and communication in design. Includes technical sketching, computer-aided design with solid modeling, geometric dimensioning and tolerancing, and an introduction to the engineering design process.
+
+ME 010 
+Statics 4 
+MATH 009C, PHYS 040A 
+Covers equilibrium of coplanar force systems; analysis of frames and trusses; noncoplanar force systems; friction; and distributed loads.
+
+ME 018A 
+Introduction to Engineering Computation 2 
+MATH 009A
+An introduction to the use of MATLAB in engineering computation. Covers scripts and | 412 functions, programming, input/output, two- and three-dimensional graphics, and elementary numerical analysis.
+
+ME 018B 
+Introduction to Computational Modeling in Mechanical Engineering 4 
+MATH 009B, ME 002, ME 018A
+Introduces students to concepts of computational modeling in mechanical engineering. Topics include formulation of models to solve problems involving vector analysis, linear algebra, differential and integral calculus. Explores analytical and numerical solutions to problems in mechanical engineering. 
+
+ME 100A 
+Thermodynamics 4 
+MATH 010A, ME 018B, PHYS 040B
+Introduces basic concepts and applications of thermodynamics relevant to mechanical engineering. Topics include work and energy, the first law of thermodynamics, properties of pure substances, system and control volume analysis, the Carnot cycle, heat and refrigeration cycles, the second law of thermodynamics, entropy, and reversible and irreversible processes. Credit is awarded for only one of CHE 100 or ME 100A.
+
+ME 100B 
+Thermodynamics 4 
+ME 100A 
+Topics include the second law of thermodynamics, entropy function, entropy production, analysis of cycles, vapor power systems, gas power systems, refrigeration and heat pump systems, equations of state, thermodynamic property relations, ideal gas mixtures and psychrometrics, multicomponent systems, combustion, and reacting mixtures.
+
+ME 103 
+Dynamics 4 
+MATH 046, ME 010, ME 018B
+Topics include vector representation of kinematics and kinetics of particles; Newton's laws of motion; forcemass-acceleration, work-energy, and impulsemomentum methods; kinetics of systems of particles; and kinematics and kinetics of rigid bodies.
+
+ME 110 
+Mechanics of Materials 4 
+ME 018A, MATH 046, ME 010
+Topics include mechanics of deformable bodies subjected to axial, torsional, shear, and bending loads; combined stresses; and their applications to the design of structures.
+
+ME 113 
+Fluid Mechanics 4 
+MATH 046, PHYS 040B, ME 010, ME 018B 
+Introduces principles of fluid mechanics relevant to mechanical engineering. Topics include shear stresses and viscosity, fluid statics, pressure, forces on submerged surfaces, Bernoulli and mechanical energy equations, control volume approach, mass conservation, momentum and energy equations, the differential approach, turbulent flow in pipes, and lift and drag. Credit is awarded for only one of CHE 114 or ME 113.
+
+ME 114 
+Introduction to Materials Science and Engineering 4 
+CHEM 001B, PHYS 040C
+Covers materials classification, atomic structure and interatomic bonding, crystal structure of metals, imperfections in solids, diffusion, mechanical properties of engineering materials, strengthening mechanisms, basic concepts of fracture and fatigue, phase diagrams, ceramics, polymers, and composites.
+
+ME 116A 
+Heat Transfer 4 Lecture, 3 hours, discussion, 1 hour. 
+MATH 046, ME 113
+Introduces the analysis of steady and transient heat conduction, fin and heat generating systems, two-dimensional conduction, internal and external forced convection, natural convection, radiation heat transfer, heat exchangers, and mass transfer. Credit is awarded for only one of CHE 116 or ME 116A.
+
+ME 116B 
+Heat Transfer 4 
+ME 116A
+Covers analytical and numerical methods in heat transfer and fluid mechanics. Topics include heat conduction and convection, gaseous radiation, boiling and condensation, general aspects of phase change, mass transfer principles, multimode heat transfer and the simulation of thermal fields, and the heat transfer process.
+
+ME 117 
+Combustion and Energy Systems 4 
+ME 100A, ME 113, ME 116A
+Discusses premixed and diffusion flames; fuel-air thermochemistry; combustion-driven engine design and operation; engine cycle analysis; fluid mechanics in engine components; pollutant formation; and gas turbines.
+
+ME 118 
+Mechanical Engineering Modeling and Analysis 4 
+MATH 046, ME 018B
+Introduces data analysis and modeling used in engineering through the software package MATLAB. Numerical methods include descriptive and inferential statistics, sampling and bootstrapping, fitting linear and nonlinear models to observed data, interpolation, numerical differentiation and integration, and solution of systems of ordinary differential equations. Final project involves the development and evaluation of a model for an engineering system. Credit is awarded for only one of ENGR 118 or ME 118.
+
+ME 120 
+Linear Systems and Controls 4 
+EE 001A, EE 01LA, ME 018B
+Introduces the modeling and analysis of dynamic systems, emphasizing the common features of mechanical, hydraulic, pneumatic, thermal, electrical, and electromechanical systems. Controls are introduced through state equations, equilibrium, linearization, stability, and time and frequency domain analysis.
+
+ME 121 
+Feedback Control 4 
+ME 118, ME 120
+Introduces students to the analysis and design of feedback control systems using classical control methods. Topics include control system terminology, block diagrams, analysis and design of control systems in the time and frequency domains, closed-loop stability, root locus, Bode plots, and an introduction to analysis in state-space.
+
+ME 122 
+Vibrations 4 
+ME 103
+Covers free and forced vibration of discrete systems with and without damping resonance; matrix methods for multiple degree-of-freedom systems; normal modes, coupling, and normal coordinates; and use of energy methods.
+
+ME 130 
+Kinematic and Dynamic Analysis of Mechanisms 4 
+ME 009, ME 103.
+Explores the kinematic analysis of planar mechanisms including linkages, cams, and gear trains. Introduces concepts of multibody dynamics.
+
+ME 131 
+Design of Mechanisms 4 
+ME 130
+Involves design of planar, spherical, and spatial mechanisms using both exact and approximate graphical and analytical techniques. Requires a computer-aided design project.
+
+ME 133 
+Introduction to Mechatronics 4 
+ME 120 
+Introduces hardware, software, sensors, actuators, physical systems models, and control theory in the context of control system implementation. Covers data acquisition (Labview), sensors, actuators, electric circuits and components, semiconductor electronics, logic circuits, signal processing using analog operational amplifiers, programmable logic controllers, and microcontroller programming and interfacing. Uses MATLAB and Simulink.
+
+ME 134 
+Microstructural Transformations in Materials 4 
+ME 114
+An introductory study of the fundamentals (thermodynamics and kinetics) controlling microstructural transformations in materials and their application to both liquid-solid and solid-solid transformations. Focuses on the important transformations that ultimately control the microstructures and properties of crystalline solids. Cross-listed with MSE 134.
+
+ME 135 
+Transport Phenomena 4 
+ME 100A, ME 113, ME 116A
+Introduces new concepts of thermodynamics, fluid mechanics, and heat transfer: sychrometry, combustion, one-dimensional compressible flow, and turbomachinery. Integrates the most important concepts of transport of momentum, heat, and mass.
+
+ME 136 
+Environmental Impacts of Energy Production and Conversion 4 
+ME 100A, ME 113, ME 116A 
+Covers thermodynamics, heat transfer, and fluid mechanics as applied to the examination of the environmental impacts of energy production and conversion. Topics include pollution associated with fossil fuel combustion, environmental impacts of energy use, turbulent transport of pollutants, and principles used in the design of pollution control equipment.
+
+ME 137 
+Environmental Fluid Mechanics 4 
+ME 100A, ME 113 
+Covers the application of fluid mechanics to flows in the atmosphere and oceans. Topics include hydrostatic balance, Coriolis effects, geostrophic balance, boundary layers, turbulence, tracer and heat transport.
+
+ME 138 
+Transport Phenomena in Living Systems 4 
+ME 113, MATH 046, PHYS 040B
+An introduction to the application of the basic conservation laws of mechanics (mass, linear momentum, and energy) to the modeling of complex biological systems. Emphasizes how these concepts can explain and predict life processes.
+
+ME 140 
+Ship Theory 4 
+ME 103, ME 113 
+Covers ship hull form, static and dynamic stability, ship response to waves, grounding and flooding, numerical integration of complex three-dimensional curved shapes and mathematical modeling of curved surfaces. Explores engineering approximations necessary for applications of fundamental principles to complex engineering systems such as ships.
+
+ME 144 
+Introduction to Robotics 4 
+EE 132
+Covers basic robot components from encoders to microprocessors. Kinematic and dynamic analysis of manipulators. Adrdresses open- and closed-loop control strategies, task planning, contact and noncontact sensors, robotic image understanding, and robotic programming languages. Experiments and projects include robot arm programming, robot vision, and mobile robots. Cross-listed with EE 144.
+
+ME 145 
+Robotic Planning and Kinematics 4 
+ME 120 
+Motion planning and kinematics topics with an emphasis in geometric reasoning, programming, and matrix computations. Motion planning includes configuration spaces, sensor-based planning, decomposition and sampling methods, and advanced planning algorithms. Kinematics includes reference frames, rotations and displacements, and kinematic motion models. Cross-listed with EE 145.
+
+ME 153 
+Finite Element Methods 4 
+ME 118
+Covers weak form formulation, the Galerkin method and its computational implementation, mesh generation, data visualization, as well as programming finite element codes for practical engineering applications.
+
+ME 156 
+Mechanical Behavior of Materials 4 
+ME 110, ME 114 
+Introduces the theory and experimental techniques for testing the mechanical behavior of materials and structures. Covers the fundamental mechanisms of deformation and failure of metals, ceramics, polymers, composite materials, and electronic materials as well as structural design and materials selection.
+
+ME 170A 
+Experimental Techniques 4 
+EE 001A, EE 01LA, ME 018B
+Covers the principles and practice of measurement and control, and the design and implementation of experiments. Topics include dimensional analysis, error analysis, signal-to-noise problems, filtering, data acquisition and data reduction, and statistical analysis. Includes experiments on the use of electronic devices and sensors, and practice in technical report writing.
+
+ME 170B 
+Experimental Techniques 4 
+ME 103, ME 110, ME 113, ME 116A, ME 170A
+Analysis and verification of engineering theory using laboratory measurements in advanced, project-oriented experiments involving fluid flow, heat transfer, structural dynamics, thermodynamic systems, and electromechanical systems.
+
+ME 174 
+Machine Design 4 
+ME 009, ME 103, ME 110, ME 114 
+An introduction to the fundamentals of strength-based design. Topics include deflection and stiffness, static failure, and fatigue failure.
+
+ME 175A 
+Professional Topics in Engineering 2 
+ME 009 
+Topics include technical communication, team work, project management, engineering economics, professional ethics, and computer-aided design. Satisfactory (S) or No Credit (NC) grading is not available.
+
+ME 175B 
+Mechanical Engineering Design 3 
+ME 113, ME 116A, ME 170A, ME 174, ME 175A
+Outlines the defining of a design problem and the conception and detail of the design solution. Explores design theory, design for safety, reliability, manufacture, and assembly. Graded In Progress (IP) until ME 175B and ME 175C are completed, at which time a final, letter grade is assigned.
+
+ME 175C 
+Mechanical Engineering Design 3 
+ME 175B
+Students create, test, and evaluate a prototype based on the project design generated in ME 175B. Lecture topics include prototyping techniques, design verification, and special topics in design. Satisfactory (S) or No Credit (NC) grading is not available.
+
+ME 175D 
+Technological Entrepreneurship 4 
+
+Introduces concepts of business and management required to convert a technology into a viable business. Topics include technological assessment, market analysis, strategy, decision making, legal and intellectual property issues in business, financial analysis, business ethics and communication. Satisfactory (S) or No Credit (NC) grading is not available
+
+ME 176 
+Sustainable Product Design 4 
+ME 103, ME 110, ME 113, ME 116A
+Introduces the principles of sustainable product design. Topics include life cycle design; design for reliability, maintainability, and recycling/reuse/ remanufacture; materials selection; and manufacturing processes. Includes project in which students analyze the environmental impact of a product and redesign it to reduce the impact. Credit is awarded for only one of ME 176 or ME 210.
+
+ME 180 
+Optics and Lasers in Engineering 4 
+ME 010, ME 110, ME 170A 
+Focuses on principles of optics and lasers, wave equations, interferometry, diffraction, lasermaterial interactions. Applications in analytical characterization including confocal microscopy, Raman spectroscopy, mechanical deformation analysis, scanning probe microscopy, ultravioletvisible spectrophotometry, photoluminescence, optical detectors, and lasers in materials processing.
+
+ME 190 
+Special Studies 1 to 5 
+
+Individual study to meet special curricular needs. Requires a final written report. Course is repeatable to a maximum of 9 units.
+
+ME 197 
+Research For Undergraduates 1 to 4 
+
+Directed research in a particular subject relevant to mechanical engineering. Requires a final written technical report. Course is repeatable to a maximum of 8 units
+
+ENVE 120 
+Unit Operations and Processes in Environmental Engineering 4 
+CHE 120, ENVE 142
+Introduction to physical and chemical processes used for drinking water and wastewater treatment. Topics include coagulation and flocculation, sedimentation, granular-medium filtration, membrane disinfection, and softening.Credit is awarded for only one of CEE 225 or ENVE 120.
+
+ENVE 121 
+Biological Unit Processes 4 
+ENVE 120, ENVE 142 
+An introduction to the theory and design of biological unit processes used in environmental engineering. Covers suspended growth processes, attached growth processes, digestion processes, and nutrient removal systems. Credit is awarded for only one of CEE 226 or ENVE 121.
+
+ENVE 130 
+Advanced Engineering Thermodynamics 4 
+CHE 100
+Advanced study of chemical thermodynamics and their applications to chemical and environmental engineering processes. Applies principles for the thermodynamic behavior of pure solutions and mixtures, phases, and chemical equilibria for homogeneous and heterogeneous systems to a variety of processes common to chemical and environmental engineering. Cross-listed with CHE 130.
+
+ENVE 133 
+Fundamentals of Air Pollution Engineering 4 
+ENVE 171, CHE 114, CHEM 008B, MATH 046, PHYS 040B 
+Covers principles, modeling, and design of systems for atmospheric emission control of pollutants such as photochemical smog and by-products of combustion. Explores the effects of air pollution on health. Credit is awarded for only one of ENVE 133 or CEE 243.
+
+ENVE 134 
+Technology of Air Pollution Control 4 
+ENVE 133.
+Processes and design of control technologies for gaseous and particulate pollutants. Methods and design of ambient air quality measurements and air pollution source sampling for both gaseous and particulate pollutants.
+
+ENVE 135 
+Fate and Transport of Environmental Contaminants 4 
+CHE 120, CHEM 008B, ENGR 118, ENVE 133, ENVE 142
+Covers fate and transport of contaminants in the air, water, and soil environments. Addresses description and modeling of advection, dispersion, phase transfer, and chemical transformation mechanisms.
+
+ENVE 138 
+Combustion Engineering 4 
+CHE 114, ENVE 133,
+Covers the fundamental development of the engineering and design principles underlying combustion engines and turbines and the associated emission control technology. Includes aspects of fuels, lubricants, instrumentation, chemistry of combustion, and kinetics related to the understanding of engineering processes, engine design, and emission control.
+
+ENVE 140 
+Aquatic Chemistry 4 
+CHE 100, ENVE 142
+An introduction to the chemical principles and equilibrium models used to describe the behavior of natural water systems, water and wastewater treatment processes, and pollutant transformations in the aqueous environment. Topics include acid-base chemistry, precipitation, complexation, and redox reactions. Credit is awarded for only one of CEE 241 or ENVE 140.
+
+ENVE 142 
+Water Quality Engineering 4 
+ENVE 171 
+An introduction to the engineering aspects of water quality management. Addresses water quality characterization and modeling techniques for natural and engineered systems. Discusses application of chemical equilibrium and kinetic models to water quality.
+
+ENVE 144 
+Solid Waste Management 4 
+BIOL 005A, CHEM 001C, ENSC 001, ENSC 002, MATH 009
+A study of the characterization, collection, transportation, processing, disposal, recycling, and composting of municipal solid waste. Emphasizes accepted management strategies and design procedures for recovering or disposing solid wastes while protecting public and environmental well-being. Cross-listed with ENSC 144.
+
+ENVE 145 
+Hazardous Waste Management 4 
+ENVE 120, ENVE 142 
+Advanced course in the study of physiochemical, thermal, and biological treatment of hazardous waste. Emphasis is placed on the technical understanding and design of physical, biological, and thermal treatment methods; transportation of hazardous waste; and hazardous waste characterization and site assessment.
+
+ENVE 146 
+Water Quality Systems Design 4 
+CHE 114
+Analysis and design of water conveyance systems including water distribution networks, wastewater and storm water collection systems, structures for flow measurement and control, and pumps and pump stations. Includes projects to develop design process skills including problem specification, modeling, and analysis.
+
+ENVE 160A 
+Chemical and Environmental Engineering Laboratory 3 
+CHE 180, CHE 114, CHE 120 
+Involves laboratory exercises in chemical and environmental engineering. Experiments cover physical measurements, fluid mechanics, and mass transfer. Emphasizes experimental design, analysis of results, and preparation of engineering reports. Cross-listed with CHE 160A.
+
+ENVE 160B 
+Environmental Engineering Laboratory 3 
+ENVE 133
+Consists of laboratory exercises in environmental engineering. Includes experiments in physical measurements, reaction kinetics, reactor analysis, and air pollution engineering. Emphasis is on experimental design, analysis of results, and preparation of engineering reports.
+
+ENVE 160C 
+Environmental Engineering Laboratory 3 
+ENVE 120, ENVE 142.
+Consists of laboratory exercises in environmental engineering. Includes experiments in physical measurements, water quality, and unit operations and processes. Emphasis is on experimental design, analysis of results, and preparation of engineering reports.
+
+ENVE 171
+Fundamentals of Environmental Engineering 4 
+CHEM 001C, MATH 009C, PHYS 040B
+An introduction to mass and energy balances. Includes an overview of contaminants and their effects on human health and the environment. Provides a basic understanding of contaminants, their sources, and their movement and fate in the environment.
+
+ENVE 175A 
+Senior Design Project 4 
+ENVE 120
+Under the direction of a faculty member, students (individually or in small teams with shared responsibilities) propose, design, build, and test environmental engineering devices or systems. Requires a written report giving details of the project and test results and an oral presentation of the design aspects. Graded in-progress until ENVE 175A and ENVE 175B are completed at which time a final letter grade is assigned.
+
+ENVE 175B
+Senior Design Project 4 
+ENVE 175A 
+Under the direction of a faculty member, students (individually or in small teams with shared responsibilities) propose, design, build, and test environmental engineering devices or systems. A written report, giving details of the project and test results, and an oral presentation of the design aspects are required. Satisfactory (S) or No Credit (NC) grading is not available.
+
+ENVE 190 
+Special Studies 1 to 5 
+
+Individual study to meet special curricular needs. Course is repeatable to a maximum of 9 units.
+
+BIOL 005A
+General Biology 4
+CHEM 001A
+Introductory biology course
+
+BIOL 005B
+General Biology 4
+BIOL 005A
+Introductory biology course
