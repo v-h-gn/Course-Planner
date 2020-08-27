@@ -9,9 +9,9 @@ ADD_EXECUTABLE(courseplanner
     CoursePlanner.cpp
 )
 
-ADD_EXECUTABLE(test
+ADD_EXECUTABLE(unitTests
     test/test.cpp
 )
 
-TARGET_LINK_LIBRARIES(test gtest)
-TARGET_COMPILE_DEFINITIONS(test PRIVATE gtest_disable_pthreads=ON)
+TARGET_LINK_LIBRARIES(unitTests gtest)
+TARGET_COMPILE_DEFINITIONS(unitTests PRIVATE gtest_disable_pthreads=ON)
