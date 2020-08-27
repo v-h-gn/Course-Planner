@@ -16,6 +16,7 @@ class CourseComponent {
         // Create a vector of CourseComponents to store prerequiites
         vector<CourseComponent*> components;
 
+        vector<Observer*> views;
 
     public:
 
@@ -44,10 +45,30 @@ class CourseComponent {
             return taken;
         }
 
+        virtual vector<CourseComponent*> getCourseVector() {
+            return components;
+        }
+
         // Accessor that returns the course description
         virtual string getCourseDescription() {
             return courseDescription;
         }
+
+        void attach(Observer *obs) {
+            views.push_back(obs);
+        }
+
+        void setBool(bool isTaken) {
+            taken = isTaken;
+            notify();
+        }
+
+        void notify() {
+            for (auto i : views) {
+                i->update();
+            }
+        }
+
 
 
         virtual void displayCourseInfo() = 0;
