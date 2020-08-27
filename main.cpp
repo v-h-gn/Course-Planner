@@ -119,13 +119,19 @@ int main() {
     }
 
     vector<CourseComponent*> courseList = root->getCourseVector();
-    
-    Subject subj;
-    Observer 
 
-    for (auto i : courseList) {
+    bool taken = false;
 
+    for (auto i : takenCourses) {
+        for (auto j : courseList) {
+            if (j->getCourseName() == i) {
+                taken = true;
+                j->setBool(taken);
+                remove(j);
+            }
+        }
     }
+
 
     
         
