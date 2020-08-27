@@ -1,40 +1,21 @@
-CEE 010 Introduction to Chemical and
-Environmental Engineering 1 Lecture, 1 hour.
-Prerequisite(s): none. An introduction to chemical
-and environmental engineering for engineering
-and nonengineering majors. Aims to enrich
-an appreciation of chemical, biochemical, and
-environmental engineering. Discusses typical
-careers, key applications, latest developments
-and the need to engage in lifelong learning in the
-field. Graded Satisfactory (S) or No Credit (NC).
-CEE 011 Introduction to
-Bioengineering 2 Lecture, 1 hour; laboratory,
-3 hours. An introduction to bioengineering
-for engineering and nonengineering majors.
-Discusses the application of concepts
-and methods of the physical sciences and
-mathematics to problems in the life sciences.
-Covers typical careers, key applications, latest
-developments in the field, and the need to
-engage in lifelong learning. Provides hands-on
-experiences and includes a field trip. Graded
-Satisfactory (S) or No Credit (NC).
-CEE 125 Analytical Methods For Chemical
-and Environmental Engineers 4 Lecture, 2
-hours; laboratory, 6 hours. Prerequisite(s): CEE
-010 (CEE 010 may be taken concurrently);
-CHEM 001C and CHEM 01LC; CHEM
-008A and CHEM 08LA or CHEM 08HA and
-CHEM 08HLA; PHYS 040C or PHYS 040HC.
-Examines chromatographic separations,
-mass spectrometry, atomic absorption, and
-electrophoresis. Presents total carbon analysis
-as an introduction to analytical methods and
-their use in the chemical and environmental
-engineering fields.
-CEE 132 Green Engineering 4 Lecture, 3
-hours; discussion, 1 hour. Prerequisite(s):
+CEE 010
+Introduction to Chemical and Environmental Engineering 1
+ 
+
+
+CEE 011 
+Introduction to Bioengineering 2 
+
+
+
+CEE 125
+Analytical Methods For Chemical and Environmental Engineers 
+CEE 010, CHEM 001C, CHEM 008A, PHYS 040C
+Examines chromatographic separations, mass spectrometry, atomic absorption, and electrophoresis. Presents total carbon analysis as an introduction to analytical methods and their use in the chemical and environmental engineering fields.
+
+CEE 132 
+Green Engineering 4
+Prerequisite(s):
 CHE 110A or ENVE 171, senior standing
 or consent of instructor. An introduction
 to the design, commercialization, and use
@@ -46,6 +27,7 @@ chemical process flow-sheet analysis for
 pollution prevention; product life-cycle
 assessment; and industrial ecology. Credit is
 awarded for only one of CEE 132 or CEE 232.
+
 CEE 135 Chemistry of Materials 4 Lecture,
 3 hours; discussion, 1 hour. Prerequisite(s):
 CHEM 008A and CHEM 08LA or CHEM 08HA
@@ -57,6 +39,7 @@ of materials, bonding and structure, the
 strength of materials, electrons in materials,
 semiconductors, superconductors, and optical
 properties of materials.
+
 CEE 136 Aerosol Technology 4 Lecture, 3
 hours; discussion, 1 hour. Prerequisite(s):
 concurrent enrollment in CHE 120. Explores
@@ -66,6 +49,7 @@ technology, health impacts, and global climate
 change. Introduces the principles of aerosol
 measurement and aerosol measurement
 technology.
+
 CEE 140A Biomaterials 4 Lecture, 3 hours;
 discussion, 1 hour. Prerequisite(s): BIEN 101 or
 BCH 100, MATH 010B, PHYS 040B or PHYS
@@ -76,6 +60,7 @@ Explores atomic structures, hard treatment,
 fundamentals of corrosion, manufacturing
 processes, and characterization of materials.
 Cross-listed with BIEN140A.
+
 CEE 140B Biomaterials 4 Lecture, 3 hours;
 discussion, 1 hour. Prerequisite(s): PHYS 040B
 or PHYS 040HB; Covers the structure-property
@@ -85,6 +70,7 @@ such as bone, teeth, cartilage, ligament, skin,
 muscle, and vasculature. Focuses on behavior
 of materials in the physiological environment.
 Cross-listed with BIEN140B.
+
 CEE 158 Professional Development For
 Engineers 3 Lecture, 3 hours. Prerequisite(s):
 upper-division standing. A review of various
@@ -94,6 +80,7 @@ interview strategies; professional registration and
 preparation for certification examinations; ethics;
 risk management and environmental health and
 safety; regulatory issues; and lifelong learning.
+
 CEE 159 Dynamics of Biological
 Systems 4 Lecture, 3 hours; discussion, 1
 hour. Prerequisite(s): BIOL 005B, MATH 046;
@@ -110,7 +97,6 @@ to 4 Research, 3 to 12 hours. Prerequisite(s):
 consent of instructor and Chemical and
 Environmental Engineering undergraduate
 program advisor. Directed research on a 
-| 178
 topic relevant to chemical and environmental
 engineering. Requires a final written report.
 Course is repeatable to a maximum of 8 units.
