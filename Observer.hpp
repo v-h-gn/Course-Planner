@@ -4,28 +4,29 @@
 #include <iostream>
 #include <vector>
 
-#include "Subject.hpp"
+#include "CourseComponent.hpp"
 
 using namespace std;
 
 class Observer {
-
-        Subject *model;
+    
+    private:
+        CourseComponent* course;
         bool taken;
 
     public:
-        Observer(Subject *mod, bool isTaken) {
-            model = mod;
+        Observer(CourseComponent* course, bool isTaken) {
+            course = course;
             taken = isTaken;
             model->attach(this);
         }
 
         void update() {
-            bool taken = getSubject()->getBool();
+            bool taken = getComponent()->getBool();
         }
 
     protected:
-        Subject *getSubject() {
+        CourseComponent *getComponent() {
             return model;
         }
 

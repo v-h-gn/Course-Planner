@@ -3,9 +3,11 @@
 #include "Course.hpp"
 #include "Prerequisite.hpp"
 #include "Course.hpp"
-#include "AbstractMajor.hpp"
+#include "major/AbstractMajor.hpp"
 #include "CourseTree.hpp"
 #include "Schedule.hpp"
+#include "Subject.hpp"
+#include "Observer.hpp"
 
 #include <iostream>
 #include <vector>
@@ -46,7 +48,7 @@ int main() {
         c = ::toupper(c);
     }
 
-    AbstractMajor* userMajor;
+    AbstractMajor* userMajor; 
     // Major gets passed into Catalog Reader
     if (major == "BIOENGINEERING" || major == "BIEN" ) {
         userMajor = new Bioengineering();
@@ -102,14 +104,28 @@ int main() {
     CourseComponent* root;
     buildGraph(majorCourses, userMajor, root);
 
+    // Get the classes the user has taken
+    vector<string> takenCourses;
+    string userInput;
+
+    cout << "Enter taken courses in the format of: 'CHEM 001A'. Enter 'Q' when done." << endl;
+
+    cin >> userInput;
+    takenCourses.push_back(userInput);
+
+    while (userInput != "Q") {
+        cin >> userInput;
+        takenCourses.push_back(userInput);
+    }
+
+    vector<CourseComponent*> courseList = root->getCourseVector();
     
+    Subject subj;
+    Observer 
 
-    
+    for (auto i : courseList) {
 
-    // Create the schedule
-    vector<Quarter*> quarters;
-
-    // Needs loop to loop through the lists and push classes onto quarter
+    }
 
     
         
