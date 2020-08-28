@@ -11,7 +11,7 @@ class Course : public CourseComponent {
 
     private:    
         vector<CourseComponent*> prerequisites;
-        vector<string> courseRequisites;
+        string courseRequisites;
 
     public:
         // Defualt Constructor
@@ -46,7 +46,7 @@ class Course : public CourseComponent {
             for (i = 0; i < prerequisites.size(); ++i) {
                 if (prerequisites[i] == newCourseComponent) {
 
-                    prerequisites.erase(prerequisites.at(i));
+                    // prerequisites.erase(prerequisites.at(i));
                     // Revisit this to remove everything from a course subtree                    
 
                 }
@@ -63,6 +63,10 @@ class Course : public CourseComponent {
             cout << "Course Name: " << getCourseName() << endl;
             cout << "Number of Units: " << getCourseUnits() << endl;
             cout << "Course Description: " << getCourseDescription() << endl;
+            
+            for(auto p : prerequisites) {
+              p->displayCourseInfo();
+            }
         }
 
 

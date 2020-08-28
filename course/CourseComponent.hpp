@@ -6,6 +6,8 @@
 
 using namespace std;
 
+class Observer;
+
 class CourseComponent {
     protected:
         string courseName;
@@ -65,7 +67,7 @@ class CourseComponent {
 
         void notify() {
             for (auto i : views) {
-                i->update();
+               // i->update();
             }
         }
 

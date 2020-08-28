@@ -18,7 +18,7 @@ using namespace std;
 class CatalogReader {
 	private:
 		AbstractMajor* major;
-		string resourcesPath = "resources/";
+		string resourcesPath = "resources/courses";
 		string resourceExtension = ".txt";
 		string beginDebugString = "|-- START --- CATALOGREADER --- DEBUG --|";
 		string endDebugString =   "|---------------------------------------|";
@@ -33,17 +33,17 @@ class CatalogReader {
 		* where the key is the Course and the value is a vector containing
 		* the Course, Co-Requisites, and Direct Pre-requisites.
 		*/
-		unordered_map<string, list<CourseComponent*>>* createCourseHeirarchy() const {
-			ifstream fin(resourcesPath + major->getName() + resourceExtension);
+		unordered_map<string, vector<CourseComponent*>> createCourseHeirarchy() const {
+			ifstream fin(resourcesPath + resourceExtension);
 
 			if (debugOn) {
 				cout << beginDebugString << endl;
-				cout << "Reader resourcepath: " << resourcesPath + major->getName() + resourceExtension  << endl;
+				cout << "Reader resourcepath: " << resourcesPath + resourceExtension  << endl;
 			}
 
-			unordered_map<string, CourseComponent*>* courses = new unordered_map<string, CourseComponent*>(20);
+			unordered_map<string, CourseComponent*> courses;
 
-			unordered_map<string, list<CourseComponent*>>* heirarchy = new unordered_map<string, list<CourseComponent*>>(20);
+			unordered_map<string, vector<CourseComponent*>> heirarchy;
 			
 			if (!fin.is_open()) {
 				throw runtime_error("Error, resource file for your major could not be found.");
@@ -52,7 +52,7 @@ class CatalogReader {
 			while (fin.good() && !fin.eof()) {
 				// put file of classes into map for easy access                
 				CourseComponent* course = constructCourse(fin);
-				courses->emplace(course->getCourseName(), course);
+				courses.emplace(course->getCourseName(), course);
 			}
 
 			if (debugOn) {
