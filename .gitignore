@@ -11,5 +11,9 @@ courseplanner.exe
 lib/
 bin/
 build/
+main
+unitTests
+courseplanner
+debug
 
 

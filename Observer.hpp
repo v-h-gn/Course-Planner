@@ -4,7 +4,7 @@
 #include <iostream>
 #include <vector>
 
-#include "CourseComponent.hpp"
+#include "course/CourseComponent.hpp"
 
 using namespace std;
 
@@ -18,16 +18,16 @@ class Observer {
         Observer(CourseComponent* course, bool isTaken) {
             course = course;
             taken = isTaken;
-            model->attach(this);
+            course->attach(this);
         }
 
         void update() {
-            bool taken = getComponent()->getBool();
+            bool taken = getComponent()->isTaken();
         }
 
     protected:
         CourseComponent *getComponent() {
-            return model;
+            return course;
         }
 
         bool courseTaken() {
@@ -35,9 +35,7 @@ class Observer {
         }
 
         
-
-
-}
+};
 
 
 #endif // __OBSERVER_HPP__

@@ -1,5 +1,5 @@
-#ifndef __CATALOGREADER_TEST_HPP__
-#define __CATALOGREADER_TEST_HPP__
+#ifndef __CATALOGREADERTEST_HPP__
+#define __CATALOGREADERTEST_HPP__
 
 #include "../major/AbstractMajor.hpp"
 #include "../major/CS.hpp"
