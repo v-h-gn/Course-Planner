@@ -13,7 +13,6 @@
 #include "major/ME.hpp"
 #include "major/MSE.hpp"
 #include "Schedule.hpp"
-#include "Subject.hpp"
 #include "Observer.hpp"
 
 #include <iostream>
@@ -24,29 +23,89 @@
 
 using namespace std;
 
-void buildGraph(unordered_map<string, vector<CourseComponent*>> courses, AbstractMajor* major, CourseComponent* root) {
-	 for(auto course : major->getRequiredCourses()) {
-      vector<CourseComponent*> cList;
-      try {
-		 	 cList = courses.at(course);
-		 } catch (out_of_range &e) {
-			 
-		 }
-		 if(cList.size() == 1) {
-			  root->add(cList.at(0));
-		 } else {
-			 for(auto iter = cList.begin() + 1; iter < cList.end(); ++iter) {
-			 	    root->add(*iter);
-            buildGraph(courses, major, *iter); 
-			 }
-		 }
-	 }
+
+class PrintAlgorithm {
+public:
+    PrintAlgorithm() {}
+
+    virtual void print(CourseComponent*) = 0;
+};
+
+class DeepPrint : public PrintAlgorithm {
+public:
+    DeepPrint() : PrintAlgorithm () {}
+
+    void print(CourseComponent* root) {
+        Course* test = dynamic_cast<Course*>(root);
+        if (test) {
+            return;
+        } else {
+            for (auto course : root->getCourseVector()) {
+                cout << course->getCourseName() << " | ";
+                print(course);
+            }
+            cout << endl;
+        }
+    }
+};
+
+class ShallowPrint : public PrintAlgorithm {
+public:
+    ShallowPrint() : PrintAlgorithm() {}
+
+    void print(CourseComponent* root) {
+        for (auto course : root->getCourseVector()) {
+            cout << course->getCourseName() << " | ";
+        }
+        cout << endl;
+    }
+};
+
+CourseComponent* buildGraph(CourseComponent** root, const vector<CourseComponent*>* cList, const unordered_map<string, vector<CourseComponent*>*>& courses, bool debugOn) {
+    if (debugOn) 
+        cout << "Building tree from " << (*root)->getCourseName() << endl << "\t";
+    if (cList->size() == 1) {
+        if (debugOn)
+            cout << "\t" << " --> " << cList->at(0)->getCourseName() << " LEVEL 0" << endl;
+        return cList->at(0);
+    } else {
+        for (auto iter = cList->begin() + 1; iter < cList->end(); iter++) {
+            CourseComponent* course = *iter;
+            if (debugOn)
+                cout << "\t" << " --> " << course->getCourseName() << endl << "\t";
+            try {
+                (*root)->add(buildGraph(&course, courses.at(course->getCourseName()), courses, debugOn));
+            } catch (out_of_range& e) {
+                if (debugOn)
+                    cout << "\t" << " --> UNFOUND " << endl;
+                (*root)->add(new Course(course->getCourseName(), course->getCourseUnits(), course->getCourseDescription(), ""));
+            }
+
+        }
+        return *root;
+    }
+}
+
+CourseComponent* buildGraph(const unordered_map<string, vector<CourseComponent*>*>& courses, bool debugOn) {
+    
+    CourseComponent* root = new Course("Course Planner Root", 0, "", "");
+    
+    for (auto course : courses) {
+        vector<CourseComponent*>* cList = course.second;
+        if (!cList->empty()) {
+            root->add(buildGraph(&cList->at(0), cList, courses, debugOn));
+        }
+    }
+
+    return root;
 }
 
 int main() {
 
-    // Student passes in major
     string major;
+    CourseComponent* root;
+    unordered_map<string, vector<CourseComponent*>*> majorCourses;
+    PrintAlgorithm* printer;
 
     cout << "Enter a major (ALL UPPERCASE): ";
     cin >> major;
@@ -54,8 +113,8 @@ int main() {
 
     // Convert user string to uppercase for simplicity purposes
 
-    AbstractMajor* userMajor; 
-    if (major == "BIOENGINEERING" || major == "BIEN" ) {
+    AbstractMajor* userMajor;
+    if (major == "BIOENGINEERING" || major == "BIEN") {
         userMajor = new Bioengineering();
     }
 
@@ -80,9 +139,9 @@ int main() {
     }
 
     else if (major == "ENVIRONMENTAL ENGINEERING" || major == "ENVE") {
-        userMajor= new EnvironmentalEngineering();
+        userMajor = new EnvironmentalEngineering();
     }
-    
+
     else if (major == "MECHANICAL ENGINEERING" || major == "ME") {
         userMajor = new MechanicalEngineering();
     }
@@ -97,40 +156,30 @@ int main() {
         exit(1);
     }
 
+    userMajor->getRequirements();
     // Pass in the major to the CatalogReader
     CatalogReader reader(userMajor);
-    
+
+    reader.setDebugOn(false);
     // Returns unordered map of courses, stored by "name of course", <vector of linked courses and itself>
-    unordered_map<string, vector<CourseComponent*>> majorCourses = reader.createCourseHeirarchy();
-
-    // TODO
-    // Build the tree using the unordered_map majorCourses
-    // buildGraph returns list of linked courses, beginning with the lowest course
-    CourseComponent* root;
-    buildGraph(majorCourses, userMajor, root);
-
-    // Get the classes the user has taken
-    vector<string> takenCourses;
-    string userInput;
-
-    cout << "Enter taken courses in the format of: 'CHEM 001A'. Enter 'Q' when done." << endl;
-
+    majorCourses = reader.createCourseHeirarchy();
+    cout << "Succesfully retreived heirarchy" << endl;
+    root = buildGraph(majorCourses, false);
 
 
     cout << "DISPLAYING COURSE TREE " << endl;
     
-    root->displayCourseInfo();
+    printer = new ShallowPrint();
+    printer->print(root);
 
+    cout << "Enter taken courses in the format of: 'CHEM 001A'. Enter 'Q' when done." << endl;
+    string userInput;
     cin >> userInput;
-    takenCourses.push_back(userInput);
 
     while (userInput != "Q") {
         cin >> userInput;
-        takenCourses.push_back(userInput);
+        root->remove(majorCourses.at(userInput)->at(0));
     }
-
-    vector<CourseComponent*> courseList = root->getCourseVector();
-
 }
 
 

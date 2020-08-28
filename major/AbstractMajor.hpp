@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <string>
+#include <iostream>
 #include <fstream>
 
 using std::string;
@@ -21,12 +22,16 @@ class AbstractMajor {
         virtual vector<string> getRequiredCourses() { return requiredCourses; };
         
         void getRequirements() {
-             ifstream fin(this->getName() + ".txt");
-             
-             string temp;
-             while(getline(fin, temp)) {
-                 requiredCourses.push_back(temp);
-             }
+            ifstream fin("major/" + this->name + ".txt");
+            
+            if (!fin.is_open()) {
+                throw std::invalid_argument("Error, requirements file for " + this->name + " not found.");
+            }
+            string temp;
+
+            while(getline(fin, temp)) {
+                requiredCourses.push_back(temp);
+            }
         }
 };
 

@@ -3,12 +3,11 @@
 
 #include <string>
 #include <vector>
+#include "../Observer.hpp"
 
 using namespace std;
 
-class Observer;
-
-class CourseComponent {
+class CourseComponent : public Observer {
     protected:
         string courseName;
         string courseDescription;
@@ -18,12 +17,10 @@ class CourseComponent {
         // Create a vector of CourseComponents to store prerequiites
         vector<CourseComponent*> components;
 
-        vector<Observer*> views;
-
     public:
 
         // Constructor
-        CourseComponent() {};
+        CourseComponent() : Observer() {}
 
         // Adds courses to the list 
         virtual void add(CourseComponent *newCourseComponent) = 0;
@@ -56,22 +53,7 @@ class CourseComponent {
             return courseDescription;
         }
 
-        void attach(Observer *obs) {
-            views.push_back(obs);
-        }
-
-        void setBool(bool isTaken) {
-            taken = isTaken;
-            notify();
-        }
-
-        void notify() {
-            for (auto i : views) {
-               // i->update();
-            }
-        }
-
-
+        virtual void update(Observer* toBeRemoved) override {}
 
         virtual void displayCourseInfo() = 0;
 

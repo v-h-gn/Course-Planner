@@ -34,6 +34,7 @@ class Prerequisite : public CourseComponent {
                 cout << "Course Description: " << getCourseDescription() << endl;
             }
 
+            void update(Observer* toBeRemoved) override {}
 
 };
 
