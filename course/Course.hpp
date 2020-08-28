@@ -6,13 +6,12 @@
 #include <string>
 #include <vector>
 #include <iostream>
+#include <algorithm>
 
 class Course : public CourseComponent {
 
     private:    
-        vector<CourseComponent*> prerequisites;
-        vector<string> courseRequisites;
-
+        string courseRequisites;
     public:
         // Defualt Constructor
         Course() : CourseComponent() {
@@ -37,25 +36,27 @@ class Course : public CourseComponent {
 
         // Adds other courses to the list 
         void add(CourseComponent *newCourseComponent) {
-            prerequisites.push_back(newCourseComponent);
+            components.push_back(newCourseComponent);
         }
 
         // Removes courses from the list
         void remove(CourseComponent *newCourseComponent) {
-            unsigned int i;
-            for (i = 0; i < prerequisites.size(); ++i) {
-                if (prerequisites[i] == newCourseComponent) {
-
-                    prerequisites.erase(prerequisites.at(i));
-                    // Revisit this to remove everything from a course subtree                    
-
-                }
+            std::remove(components.begin(), components.end(), newCourseComponent);
+            for (auto course : components) {
+                course->remove(newCourseComponent);
             }
+            this->update(newCourseComponent);
         }
 
         // Returns the course stored at a specific index
         CourseComponent* getComponent(int componentIndex) {
-            return prerequisites.at(componentIndex);
+            return components.at(componentIndex);
+        }
+
+        virtual void update(Observer* toBeRemoved) override {
+            for (auto course : components) {
+                course->update(toBeRemoved);
+            }
         }
 
         // Check this function

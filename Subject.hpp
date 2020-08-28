@@ -3,36 +3,29 @@
 
 #include <iostream>
 #include <vector>
-
-#include "Observer.hpp"
+#include "course/CourseComponent.hpp"
 
 using namespace std;
 
+class Observer;
+
 class Subject {
     private:
-        vector<Observer*> views;
-        bool taken;
-
+        vector<CourseComponent*> tree;
     public:
-        void attach(Observer *obs) {
-            views.push_back(obs);
+        void attach(CourseComponent* course) {
+            tree.push_back(course);
+        }
+        
+        void detach(CourseComponent* course) {
+            tree.erase(std::remove(tree.begin(), tree.end(), course), tree.end());
         }
 
-        void setBool(bool isTaken) {
-            taken = isTaken;
-            notify();
-        }
-
-        bool getBool() {
-            return taken;
-        }
-
-        void notify() {
-            for (auto i : views) {
-                i->update();
+        void notify(CourseComponent* toRemove) {
+            for (auto course : tree) {
+                course->update(toRemove);
             }
         }
-
 };
 
 #endif // __SUBJECT_HPP__

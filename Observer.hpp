@@ -4,40 +4,13 @@
 #include <iostream>
 #include <vector>
 
-#include "CourseComponent.hpp"
-
 using namespace std;
 
 class Observer {
-    
-    private:
-        CourseComponent* course;
-        bool taken;
-
     public:
-        Observer(CourseComponent* course, bool isTaken) {
-            course = course;
-            taken = isTaken;
-            model->attach(this);
-        }
-
-        void update() {
-            bool taken = getComponent()->getBool();
-        }
-
-    protected:
-        CourseComponent *getComponent() {
-            return model;
-        }
-
-        bool courseTaken() {
-            return taken;
-        }
-
-        
-
-
-}
+        Observer() {}
+        virtual void update(Observer* toBeRemoved) = 0;   
+};
 
 
 #endif // __OBSERVER_HPP__
