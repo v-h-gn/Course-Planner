@@ -29,9 +29,11 @@ We intend to add more as we extend functionality such as we add a more beautiful
  ## Screenshots
   
  ![Image of Main](https://i.imgur.com/eFtBBNf.png)
- Here you can see the currently implemented debug messages which show how the graph is being built.
+ 
+ Here you can see the currently implemented debug messages which show how the graph is being built. When it gets to LEVEL 0 it means that it has reached a course without any prerequisites (although in reality MATH 009A has prerequisites) 
  
  ![Image of Main2](https://i.imgur.com/x0yg32r.png)
+ 
  Here you can see how it prompts the user to pick a class to remove from the graph, but at the moment this doesn't function as intended.
  
  ## Installation/Usage
