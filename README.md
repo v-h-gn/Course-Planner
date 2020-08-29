@@ -43,6 +43,5 @@ We intend to add more as we extend functionality such as we add a more beautiful
 To run the application simply open the exe file and type in all related information. You will be prompted to type in certain things at specific points during the execution process via the program.
  
  ## Testing
- > How was your project tested/validated? If you used CI, you should have a "build passing" badge in this README.
  
  We utilised the [Google Test Framework](https://github.com/google/googletest) in order to test our project. At the moment our testing suite is rather limited but we intend upon adding Continuous Integration via GitHub actions to our repository to automatically build validate our source code. The current test suite checks that no exceptions occur during run time for some of our methods. The test harnesses shall be improved as we go back and optimize our code so that it can be more readable, testable, and performant.
